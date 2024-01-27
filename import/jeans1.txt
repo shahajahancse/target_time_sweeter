@@ -1,0 +1,1338 @@
+﻿Md.Shahin 	মোঃ শাহিন শেখ	K000001	Knitting	knitting	None	Gr.knitting mac.op	4th	02-02-2013	11-06-1973	6	5678	300	Male	Married	No	Production
+Md.Mahmudur Rahman	মোঃ মাহমুদুর রহমান	K000003	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	25-12-1993	6	5678	300	Male	Married	No	Production
+Md.Milon Hossain	মোঃ মিলন হোসেন	K000007	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	17-02-1978	6	5678	300	Male	Married	No	Production
+Md.Rasel	মোঃ রাসেল	K000019	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	17-02-1979	6	5678	300	Male	Married	No	Production
+Md.jahid Hasan	মোঃ জাহিদ হাসান	K000024	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2014	17-02-1980	6	5678	300	Male	Married	No	Production
+Md.Joynal	মোঃ জয়নাল	K000075	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	17-02-1981	6	5678	300	Male	Married	No	Production
+MD.Hasan Ali	মোঃ হাসান আলি	K000090	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	17-02-1982	6	5678	300	Male	Married	No	Production
+MD.Abul Monnaf Sorkar	মোঃ আঃ মোন্নাফ সরকার	K000092	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	25-08-1981	6	5678	300	Male	Married	No	Production
+Mrs.Rohima  Begum	মোসাঃ রহিমা বেগম	K000109	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	17-02-1913	6	5678	300	Male	Married	No	Production
+Md.Sohel	মোঃ সোহেল 	K000112	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	01-01-1989	6	5678	300	Male	Married	No	Production
+ Maynul islam	শেখ ময়নুল ইসলাম 	K000127	Knitting	knitting	None	Gr.knitting mac.op	4th	23-02-2013	29-09-1979	6	5678	300	Male	Married	No	Production
+Md. Johirul islam	 মোঃ জহিরুল ইসলাম	K000128	Knitting	knitting	None	Gr.knitting mac.op	4th	17-02-2013	11-10-1983	6	5678	300	Male	Married	No	Production
+Md.Jahangir Alam	মোঃ জাহাঙ্গীর আলম	K000129	Knitting	knitting	None	Gr.knitting mac.op	4th	19-02-2013	19-02-1913	6	5678	300	Male	Married	No	Production
+Babul Hossain	মোঃ বাবুল হোসেন	K000141	Knitting	knitting	None	Gr.knitting mac.op	4th	18-02-2013	04-02-1986	6	5678	300	Male	Married	No	Production
+Md.Monibur	মোঃ মনিবুর 	K000148	Knitting	knitting	None	Gr.knitting mac.op	4th	25-02-2013	04-02-1987	6	5678	300	Male	Married	No	Production
+Md.Jewel mia	 মোঃ জুয়েল মিয়া	K000154	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	03-02-2013	6	5678	300	Male	Married	No	Production
+Md.Mohsin Ali	মোঃ মহসিন আলি	K000155	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	11-01-1985	6	5678	300	Male	Married	No	Production
+Mazedul Haque	মোঃ মাজেদুল হক	K000162	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	11-01-1986	6	5678	300	Male	Married	No	Production
+Mellnon Sarkar 	মোঃ মিলন সরকার	K000169	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	10-07-1986	6	5678	300	Male	Married	No	Production
+Md.Jahangir	মোঃ জাহাঙ্গীর আলম	K000181	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	03-02-2013	6	5678	300	Male	Married	No	Production
+Md.jewel islam	মোঃ জুয়েল ইসলাম	K000192	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	14-11-1985	6	5678	300	Male	Married	No	Production
+Sushil chandra dash	 সুশিল চন্দ্র দাশ	K000204	Knitting	knitting	None	Gr.knitting mac.op	4th	03-02-2013	15-05-1985	6	5678	300	Male	Married	No	Production
+Md.Harun-or- roshid	মোঃ হারুনুর অর রশিদ	K000212	Knitting	knitting	None	Gr.knitting mac.op	4th	03-03-2013	15-05-1986	6	5678	300	Male	Married	No	Production
+Khadimul islam	মোঃ খাদিমুল ইসলাম	K000246	Knitting	knitting	None	Gr.knitting mac.op	4th	03-03-2013	21-06-1980	6	5678	300	Male	Married	No	Production
+Farqu Mia	 মোঃ ফারুক মিয়া	K000264	Knitting	knitting	D	Gr.knitting mac.op	4th	13-03-2013	13-03-1913	6	5678	300	Male	Married	No	Production
+Johirul islam	মোঃ জহিরুল ইসলাম	K000265	Knitting	knitting	None	Gr.knitting mac.op	4th	03-12-2013	09-07-1989	6	5678	300	Male	Married	No	Production
+Md. Aslam hossain	মোঃ আসলাম হোসেন	K000286	Knitting	knitting	None	Gr.knitting mac.op	4th	03-12-2013	14-04-1990	6	5678	300	Male	Married	No	Production
+Md.Aershad 	মোঃ এরশাদুল 	K000292	Knitting	knitting	None	Gr.knitting mac.op	4th	03-12-2013	06-06-1983	6	5678	300	Male	Married	No	Production
+Md.Sohel mida	মোঃ সোহেল মৃধা	K000305	Knitting	knitting	D	Gr.knitting mac.op	4th	16-03-2013	18-05-1987	6	5678	300	Male	Married	No	Production
+Md.Humayan kabir	মোঃ হুমায়ুন কবির	K000314	Knitting	knitting	B	Gr.knitting mac.op	4th	17-03-2013	06-01-1993	6	5678	300	Male	Unmarried	No	Production
+ Md. Toufiq Mia	মোঃ তৌফিক মিয়া	K000321	Knitting	knitting	None	Gr.knitting mac.op	4th	03-12-2013	06-01-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Milon Ch Roy	 মিলন চন্দ্র রায়	K000324	Knitting	knitting	None	Gr.knitting mac.op	4th	23-03-2013	06-01-1995	6	5678	300	Male	Unmarried	No	Production
+ Md. Mahabub Alam	মোঃ মাহাবুব আলম খান	K000328	Knitting	knitting	E	Gr.knitting mac.op	4th	03-12-2013	06-01-1983	6	5678	300	Male	Married	No	Production
+Md.Shahalam	মোঃ শাহালম	K000348	Knitting	knitting	None	Gr.knitting mac.op	4th	03-12-2013	21-02-1978	6	5678	300	Male	Married	No	Production
+Md.Yeadul Howlader 	মোঃ ইয়াদুল হ্ওালাদার	K000359	Knitting	knitting	D	Gr.knitting mac.op	4th	25-03-2013	22-03-1991	6	5678	300	Male	Married	No	Production
+Md.Monirul islam	মোঃ মনিরুল ইসলাম	K000364	Knitting	knitting	None	Gr.knitting mac.op	4th	27-03-2013	01-01-1989	6	5678	300	Male	Married	No	Production
+Md.Sohel Rana	মোঃ সোহেল রানা	K000370	Knitting	knitting	None	Gr.knitting mac.op	4th	04-01-2013	06-05-1983	6	5678	300	Male	Married	No	Production
+Md.Shofiqul islam 	মোঃ শফিকুল ইসলাম 	K000402	Knitting	knitting	D	Gr.knitting mac.op	4th	04-04-2013	01-01-1988	6	5678	300	Male	Married	No	Production
+Md.Sharjahan	মোঃ শারজাহান	K000407	Knitting	knitting	C	Gr.knitting mac.op	4th	04-11-2013	01-01-1984	6	5678	300	Male	Married	No	Production
+Md.borhan 	মোঃ বোরহান 	K000423	Knitting	knitting	None	Gr.knitting mac.op	4th	04-11-2013	01-01-1988	6	5678	300	Male	Married	No	Production
+Md.Nasima Khatun	মোসাঃ নাসিমা খাতুন	K000426	Knitting	knitting	D	Gr.knitting mac.op	4th	04-01-2013	04-01-2013	6	5678	300	Female	Married	No	Production
+Md.kholil howlader 	মোঃ খলিল হ্ওালাদার	K000433	Knitting	knitting	D	Gr.knitting mac.op	4th	04-06-2013	02-10-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Rofiqul islam	মোঃ রফিকুল ইসলাম	K000434	Knitting	knitting	D	Gr.knitting mac.op	4th	04-12-2013	01-05-1989	6	5678	300	Male	Unmarried	No	Production
+Md.Delower Talukder	মোঃ দেলোয়ার তালুকদার 	K000441	Knitting	knitting	None	Gr.knitting mac.op	4th	15-04-2013	18-04-1948	6	5678	300	Male	Unmarried	No	Production
+Md. Fatema begum	মোসাঃ ফাতেমা বেগম	K000443	Knitting	knitting	None	Gr.knitting mac.op	4th	16-04-2013	21-03-1983	6	5678	300	Female	Married	No	Production
+Md .Abu taleb(liton)	মোঃ আবু তালেব (লিটন)	K000459	Knitting	knitting	None	Gr.knitting mac.op	4th	17-04-2013	21-03-1984	6	5678	300	Male	Married	No	Production
+Md. Jelluor Rahoman	মোঃ জিল্লুর রহমান	K000467	Knitting	Knitting	None	Gr.knitting mac.op	4th	15-04-2013	21-03-1985	6	5678	300	Female	Married	No	Production
+Md. Liton Hossin 	লিটন হোসেন	K000472	Knitting	Knitting	C	Gr.knitting mac.op	4th	20-04-2013	01-01-1983	6	5678	300	Male	Unmarried	No	Production
+Md. Anamul hassin	 মোঃ এনামুল  হাসান 	K000478	Knitting	knitting	G	Gr.knitting mac.op	4th	22-04-2013	02-08-2013	6	5678	300	Male	Married	No	Production
+Shuhidul islam	মোঃ শহিদুল ইসলাম	K000483	Knitting	knitting	None	Gr.knitting mac.op	4th	21-04-2013	01-01-1986	6	5678	300	Male	Married	No	Production
+Md.Sujon mia	মোঃ সুজন মিয়া	K000484	Knitting	knitting	None	Gr.knitting mac.op	4th	24-04-2013	12-12-1982	6	5678	300	Male	Married	No	Production
+Md.Tobarok hossain	 মোঃ তবারক হোসেন	K000488	Knitting	knitting	None	Gr.knitting mac.op	4th	15-04-2013	02-03-1980	6	5678	300	Male	Married	No	Production
+Mrs.Iasmin Begum	মোসাঃ ইয়াসমিন বেগম	K000497	Knitting	knitting	None	Gr.knitting mac.op	4th	15-04-2013	02-03-1980	6	5678	300	Female	Married	No	Production
+Md.Suman	মোঃ সুমন	K000501	Knitting	knitting	None	Gr.knitting mac.op	4th	18-04-2013	12-04-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Ratan mia	মোঃ রতন মিয়া	K000514	Knitting	knitting	None	Gr.knitting mac.op	4th	17-04-2013	19-07-1977	6	5678	300	Male	Married	No	Production
+Md. Babu Pramani	মোঃ বাবু প্রামাণিক	K000565	Knitting	knitting	None	Gr.knitting mac.op	4th	18-05-2013	01-04-1987	6	5678	300	Male	Married	No	Production
+Md.Habibur Rahaman	মোঃ হাবিবুর রহমান শেখ	K000587	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2013	01-04-1988	6	5678	300	Male	Married	No	Production
+Md.Md.Elias Mollah	মোঃ ইলিয়াস মোল্লা	K000616	Knitting	knitting	None	Gr.knitting mac.op	4th	06-09-2013	30-05-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Rayhat Hossain	মোঃ রাহাত হোসেন	K000622	Knitting	knitting	C	Gr.knitting mac.op	4th	06-10-2013	01-01-1984	6	5678	300	Male	Unmarried	No	Production
+Md.faruq Hssain 	মোঃ ফারুক হোসেন	K000623	Knitting	knitting	None	Gr.knitting mac.op	4th	06-04-2013	01-01-1985	6	5678	300	Male	Unmarried	No	Production
+Md. Abu-bokkor 	মোঃ আবুবকর হাওলাদার	K000634	Knitting	knitting	A	Gr.knitting mac.op	4th	16-06-2013	21-01-1988	6	5678	300	Male	Married	No	Production
+ Md.Sheikh Al-Amin	 মোঃ শেখ আলামিন	K000637	Knitting	knitting	D	Gr.knitting mac.op	4th	18-06-2013	03-10-1991	6	5678	300	Male	Unmarried	No	Production
+Shamim Hossin	মোঃ শামিম হোসেন	K000647	Knitting	knitting	F	Gr.knitting mac.op	4th	07-01-2013	05-05-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Sahien	মোঃ শাহিন 	K000652	Knitting	knitting	None	Gr.knitting mac.op	4th	07-06-2013	05-05-1989	6	5678	300	Male	Unmarried	No	Production
+Md.Razub Suter	রাজিব সুতার	K000654	Knitting	knitting	A	Gr.knitting mac.op	4th	07-04-2013	15-07-1988	6	5678	300	Male	Unmarried	No	Production
+Md. Robioul Islam 	মোঃ রবিউল ইসলাম	K000663	Knitting	knitting	D	Gr.knitting mac.op	4th	18-07-2013	16-10-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Shahabuddin	মোঃ শাহাবুদ্দিন হ্ওালাদার	K000667	Knitting	knitting	E	Gr.knitting mac.op	4th	20-07-2013	31-12-1984	6	5678	300	Male	Unmarried	No	Production
+Md.Asadul 	মোঃ আসাদুল	K000668	Knitting	knitting	None	Gr.knitting mac.op	4th	20-08-2013	31-12-1985	6	5678	300	Male	Unmarried	No	Production
+Md.Soriful islam	মোঃ শরিফুল ইসলাম	K000670	Knitting	knitting	A	Gr.knitting mac.op	4th	20-08-2013	09-12-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Mofizul Rahoman	মোঃ মফিজুর রহমান	K000676	Knitting	knitting	Neck	Gr.knitting mac.op	4th	17-08-2013	21-01-1984	6	5678	300	Male	Unmarried	No	Production
+Md.Abu Saleh	মোঃ আবু সালেহ	K000688	Knitting	knitting	None	Gr.knitting mac.op	4th	25-08-2013	23-07-1987	6	5678	300	Male	Married	No	Production
+Md.Shamim mia	মোঃ শামীম মিয়া	K000689	Knitting	knitting	B	Gr.knitting mac.op	4th	20-08-2013	11-09-1989	6	5678	300	Male	Married	No	Production
+Md.Rofiqul islam	মোঃ রফিকুল ইসলাম	K000692	Knitting	knitting	E	Gr.knitting mac.op	4th	21-08-2013	23-02-1979	6	5678	300	Male	Married	No	Production
+Md.Jewel patoari	মোঃ জুয়েল পাট্রাদার	K000699	Knitting	knitting	F	Gr.knitting mac.op	4th	24-08-2013	30-12-1992	6	5678	300	Male	Unmarried	No	Production
+Zahedul islam	জাহেদুল ইসলাম	K000700	Knitting	knitting	None	Gr.knitting mac.op	4th	18-02-2014	21-07-1985	6	5678	300	Male	Married	No	Production
+Md.Basir Ahamed	মোঃ বশির আহম্মেদ	K000707	Knitting	knitting	D	Gr.knitting mac.op	4th	21-04-2013	05-10-1992	6	5678	300	Male	Unmarried	No	Production
+Milon chowider 	মিলন  চৌকিদার 	K000711	Knitting	knitting	C	Gr.knitting mac.op	4th	28-08-2013	02-01-1985	6	5678	300	Male	Married	No	Production
+Md.Ekball 	মোঃ ইকবাল ফকির	K000719	Knitting	knitting	None	Gr.knitting mac.op	4th	09-01-2013	22-10-1988	6	5678	300	Male	Married	No	Production
+Md.Masud Rana	মোঃ মাসুদ রানা	K000722	Knitting	knitting	F	Gr.knitting mac.op	4th	09-04-2013	13-06-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Ripon Mollik	মোঃ রিপন মল্লিক	K000723	Knitting	knitting	F	Gr.knitting mac.op	4th	09-01-2013	11-10-1984	6	5678	300	Male	Unmarried	No	Production
+Md.Abu Ahad	মোঃ আঃ আহাদ	K000726	Knitting	knitting	E	Gr.knitting mac.op	4th	09-01-2013	02-03-1982	6	5678	300	Male	Married	No	Production
+Md.Musa Mia	মোঃ মুসা মিয়া	K000729	Knitting	knitting	B	Gr.knitting mac.op	4th	09-01-2013	07-03-1987	6	5678	300	Male	Unmarried	No	Production
+Masud Howlader	মোঃ মাসুদ হাওলাদার	K000730	Knitting	knitting	C	Gr.knitting mac.op	4th	09-01-2013	01-01-1982	6	5678	300	Male	Unmarried	No	Production
+Md.Abdul Rahim	মোঃ আঃ রহিম	K000732	Knitting	knitting	B	Gr.knitting mac.op	4th	09-04-2013	08-05-1982	6	5678	300	Male	Married	No	Production
+Md.Rajub  Hossain	মোঃ রাজিব হোসেন	K000739	Knitting	knitting	c	Gr.knitting mac.op	4th	09-03-2013	07-05-1993	6	5678	300	Male	Unmarried	No	Production
+Md. Rubel Mia	মোঃ রুবেল মিয়া	K000742	Knitting	knitting	B	Gr.knitting mac.op	4th	09-05-2013	02-01-1981	6	5678	300	Male	Married	No	Production
+Md.Gaisuddin	মোঃ গিয়াসউদ্দিন	K000743	Knitting	knitting	6	Gr.knitting mac.op	4th	09-08-2013	18-08-1983	6	5678	300	Male	Married	No	Production
+ Md. Dullal mia	মোঃ দুলাল মিয়া	K000747	Knitting	knitting	F	Gr.knitting mac.op	4th	09-03-2013	25-04-1982	6	5678	300	Male	Married	No	Production
+Md.Sobuj Hossin	মোঃ সবুজ হোসেন	K000748	Knitting	knitting	A	Gr.knitting mac.op	4th	09-07-2013	01-01-1987	6	5678	300	Male	Unmarried	No	Production
+Md. Rakibul islam	মোঃ রাকেবুর ইসলাম	K000749	Knitting	knitting	E	Gr.knitting mac.op	4th	09-05-2013	01-08-1984	6	5678	300	Male	Married	No	Production
+Md.Harun-or- roshed	মোঃ হারুন-অর রশিদ	K000763	Knitting	knitting	A	Gr.knitting mac.op	4th	09-07-2013	13-12-1979	6	5678	300	Male	Married	No	Production
+Md.Musabul Hossin 	মোঃ মুসাবুল হাসান	K000768	Knitting	knitting	B	Gr.knitting mac.op	4th	09-09-2013	03-12-1986	6	5678	300	Male	Married	No	Production
+Md.Zahid  Mridha	মোঃ জাহিদ মৃধা	K000783	Knitting	knitting	G	Gr.knitting mac.op	4th	09-07-2013	01-01-1988	6	5678	300	Male	Married	No	Production
+Md.Sobuz	মোঃ সবুজ 	K000784	Knitting	knitting	None	Gr.knitting mac.op	4th	10-10-2013	26-07-1995	6	5678	300	Male	Married	No	Production
+Md.Yasin Fakir	মোঃ ইয়াছিন ফকির	K000802	Knitting	knitting	D	Gr.knitting mac.op	4th	11-02-2013	02-04-1991	6	5678	300	Male	Married	No	Production
+Md.Robioul Sheikh	মোঃ রবিউল শেখ	K000803	Knitting	knitting	D	Gr.knitting mac.op	4th	11-02-2013	11-05-1989	6	5678	300	Male	Married	No	Production
+Md.Mijanur Rahman	মোঃ মিজানুর রহমান	K000804	Knitting	knitting	C	Gr.knitting mac.op	4th	13-11-2013	11-05-1986	6	5678	300	Male	Unmarried	No	Production
+Md. Tahmina Begum	মোসাঃ তাহমিনা বেগম	K000813	Knitting	knitting	None	Gr.knitting mac.op	4th	19-11-2013	01-05-1983	6	5678	300	Male	Unmarried	No	Production
+Md.Abu Daut Howlader 	আবু দাউদ হাওলাদার 	K000815	Knitting	knitting	D	Gr.knitting mac.op	4th	12-01-2013	15-09-1986	6	5678	300	Male	Married	No	Production
+Md.Yesmail 	মোঃ ইসমাইল	K000818	Knitting	knitting	D	Gr.knitting mac.op	4th	15-12-2013	18-05-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Bacchu Howlader 	মোঃ বাচ্চু হাওলাদার	K000821	Knitting	knitting	C	Gr.knitting mac.op	4th	01-02-2014	06-04-1988	6	5678	300	Male	Married	No	Production
+Md. Faruq  Hossian	মোঃ ফারুক হোসেন	K000823	Knitting	knitting	None	Gr.knitting mac.op	4th	01-02-2014	03-03-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Sujon Mia	মোঃ সুজন মিয়া	K000824	Knitting	knitting	B	Gr.knitting mac.op	4th	01-02-2014	03-05-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Lablu Mia	মোঃ লাভলু	K000827	Knitting	knitting	None	Gr.knitting mac.op	4th	01-04-2014	03-01-1942	6	5678	300	Male	Unmarried	No	Production
+Md.Sofiqul islam	মোঃ শফিকুল ইসলাম	K000829	Knitting	knitting	None	Gr.knitting mac.op	4th	01-02-2014	10-01-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Ruma Akter 	মোসাঃ রুমা আক্তার	K000836	Knitting	knitting	A	Gr.knitting mac.op	4th	01-12-2014	03-01-1990	6	5678	300	Female	Married	No	Production
+Md.Abdul Jolil 	মোঃ আঃ জলিল	K000838	Knitting	knitting	A	Gr.knitting mac.op	4th	01-02-2014	13-03-1985	6	5678	300	Male	Married	No	Production
+Md.Sohan Sarder	মোসাঃ সোহান সরদার	K000839	Knitting	knitting	None	Gr.knitting mac.op	4th	01-12-2014	11-06-1990	6	5678	300	Male	Married	No	Production
+Md.Mazharul islam  	মোঃ মাজহারুল	K000842	Knitting	knitting	D	Gr.knitting mac.op	4th	18-01-2014	12-08-1994	6	5678	300	Male	Married	No	Production
+Md.Faruq Hossain	মোঃ ফারুক হোসেন	K000843	Knitting	knitting	D	Gr.knitting mac.op	4th	18-01-2014	04-06-1991	6	5678	300	Male	Unmarried	No	Production
+Md. Alaluddin	আলাউদ্দিন 	K000844	Knitting	knitting	D	Gr.knitting mac.op	4th	16-01-2014	15-10-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Rahmatullah	মোঃ রহমত উল্লাহ	K000846	Knitting	knitting	D	Gr.knitting mac.op	4th	16-01-2014	03-02-1993	6	5678	300	Male	Married	No	Production
+Md.Mazharul islam  	মোঃ মাজহারুল ইসলাম	K000847	Knitting	knitting	None	Gr.knitting mac.op	4th	17-01-2014	12-08-1994	6	5678	300	Male	Unmarried	No	Production
+Md. Khairul 	মোঃ খায়রুল	K000848	Knitting	knitting	None	Gr.knitting mac.op	4th	16-01-2014	28-10-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Marfut 	মোঃ মারফত 	K000849	Knitting	knitting	None	Gr.knitting mac.op	4th	16-01-2014	08-10-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Dulal mia	 মোঃ দুলাল মিয়া	K000851	Knitting	knitting	G	Gr.knitting mac.op	4th	26-01-2014	24-03-1988	6	5678	300	Male	Unmarried	No	Production
+Mrs. Jamel dhali	মোঃ জামিল ঢালী	K000852	Knitting	knitting	E	Gr.knitting mac.op	4th	19-09-2014	01-01-1986	6	5678	300	Male	Married	No	Production
+Md.Shahin Khadir	মোঃ শাহীন কাদির 	K000858	Knitting	knitting	C	Gr.knitting mac.op	4th	25-01-2014	08-10-1987	6	5678	300	Male	Married	No	Production
+Md.Jashim Uddin	মোঃ জসিম উদ্দিন	K000859	Knitting	knitting	B	Gr.knitting mac.op	4th	28-01-2013	20-06-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Sree Khokon chandra	শ্রী খোকন চন্দ্র 	K000860	Knitting	knitting	None	Gr.knitting mac.op	4th	25-01-2014	01-10-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Md.Hafijzul Islam	মোঃ হাফিজুল ইসলাম	K000863	Knitting	knitting	E	Gr.knitting mac.op	4th	26-01-2014	21-02-1983	6	5678	300	Male	Married	No	Production
+Md. Shahadat Hossain	মোঃ শাহাদাৎ হোসেন	K000864	Knitting	knitting	E	Gr.knitting mac.op	4th	21-01-2014	30-03-1987	6	5678	300	Male	Married	No	Production
+Md. Enayet Gazi	মোঃ এনায়েত গাজী	K000865	Knitting	knitting	E	Gr.knitting mac.op	4th	25-01-2014	06-01-1985	6	5678	300	Male	Married	No	Production
+Md.Jahid hasan	মোঃ জাহিদ হাসান	K000866	Knitting	knitting	None	Gr.knitting mac.op	4th	02-01-2014	03-03-1979	6	5678	300	Male	Married	No	Production
+Rafiqul islam	মোঃ রফিকুল	K000867	Knitting	knitting	G	Gr.knitting mac.op	4th	02-01-2014	01-05-1980	6	5678	300	Male	Married	No	Production
+ Md. Mohshin Rana	মোঃ মহসিন রানা 	K000869	Knitting	knitting	E	Gr.knitting mac.op	4th	02-01-2014	07-012-93	6	5678	300	Male	Unmarried	No	Production
+ Md.Hamim 	মোঃ হামিম 	K000871	Knitting	knitting	E	Gr.knitting mac.op	4th	02-01-2014	01-01-1988	6	5678	300	Male	Married	No	Production
+Md.Yasin 	মোঃ ইয়াছিন	K000872	Knitting	knitting	D	Gr.knitting mac.op	4th	02-04-2014	30-12-1993	6	5678	300	Male	Married	No	Production
+Yousuf Khan	মোঃ ইফসুফ খান	K000874	Knitting	knitting	D	Gr.knitting mac.op	4th	02-06-2014	03-12-1988	6	5678	300	Male	Married	No	Production
+Md.Joynal islam	মোঃ জযনুল ইসলাম	K000875	Knitting	knitting	None	Gr.knitting mac.op	4th	02-09-2014	02-09-1986	6	5678	300	Male	Married	No	Production
+Md. Tajul islam	মোঃ তাইজুল ইসলাম	K000882	Knitting	knitting	E	Gr.knitting mac.op	4th	15-02-2014	20-08-1990	6	5678	300	Male	Married	No	Production
+Md.Babul 	মোঃ বাবুল   	K000884	Knitting	knitting	E	Gr.knitting mac.op	4th	15-02-2014	01-01-1988	6	5678	300	Male	Married	No	Production
+Md. Mukul islam	মোঃ মুকুল ইসলাম	K000885	Knitting	knitting	B	Gr.knitting mac.op	4th	17-02-2014	09-02-1984	6	5678	300	Male	Married	No	Production
+Md. Saiful islam	মোঃ সাইফুল ইসলাম	K000886	Knitting	knitting	B	Gr.knitting mac.op	4th	13-02-2014	25-06-1993	6	5678	300	Male	Married	No	Production
+Md.Azharul islam	মোঃ আজহারুল ইসলাম	K000887	Knitting	knitting	B	Gr.knitting mac.op	4th	18-02-2014	19-03-1980	6	5678	300	Male	Unmarried	No	Production
+Md.Shariful islam	মোঃ শরিফুল ইসলাম	K000890	Knitting	knitting	C	Gr.knitting mac.op	4th	13-02-2014	01-01-1995	6	5678	300	Male	Unmarried	No	Production
+Md. Golam Rabbani	মোঃ গোলাম রাব্বানী	K000891	Knitting	knitting	B	Gr.knitting mac.op	4th	15-02-2014	20-02-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Rofiq	মোঃ রফিক	K000892	Knitting	knitting	A	Gr.knitting mac.op	4th	15-02-2014	03-05-1989	6	5678	300	Male	Unmarried	No	Production
+Md.Monir Hossain 	মোঃ মনির হোসেন	K000896	Knitting	knitting	A	Gr.knitting mac.op	4th	16-02-2014	22-06-1987	6	5678	300	Male	Married	No	Production
+Md. Jahidul islam	 মোঃ জাহেদুল ইসলাম	K000900	Knitting	knitting	None	Gr.knitting mac.op	4th	18-02-2014	27-07-1985	6	5678	300	Male	Married	No	Production
+MD. Mofijul islam	মোঃ মফিজুল ইসলাম	K000901	Knitting	knitting	None	Gr.knitting mac.op	4th	20-01-2014	09-08-1985	6	5678	300	Male	Married	No	Production
+Md.Omar faruq	মোঃ ওমর ফারুক	K000903	Knitting	knitting	None	Gr.knitting mac.op	4th	03-11-2014	10-08-1991	6	5678	300	Male	Married	No	Production
+Md.Milton bhuiyan	মোঃ মিল্টন ভূইয়া	K000904	Knitting	knitting	None	Gr.knitting mac.op	4th	03-09-2014	09-12-1982	6	5678	300	Male	Married	No	Production
+Md.Situ Baroi	সেতু বাড়ই	K000905	Knitting	knitting	None	Gr.knitting mac.op	4th	03-09-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Md.Sheikh Talim	মোঃ শেখ তালিম	K000907	Knitting	knitting	None	Gr.knitting mac.op	4th	19-03-2014	25-07-1992	6	5678	300	Male	Married	No	Production
+Md.Kamrul islam	মোঃ কামরুল ইসলাম	K000908	Knitting	knitting	None	Gr.knitting mac.op	4th	16-03-2014	09-09-1985	6	5678	300	Male	Married	No	Production
+Md.Mostofa mia	মোঃ মোস্তফা মিয়া 	K000909	Knitting	knitting	None	Gr.knitting mac.op	4th	15-03-2014	21-04-1993	6	5678	300	Male	Married	No	Production
+Md.Arif Mahmud 	মোঃ আরিফ মাহমুদ	K000910	Knitting	knitting	A	Gr.knitting mac.op	4th	03-11-2014	03-01-1994	6	5678	300	Male	Married	No	Production
+Md.Rakib Hossain	মোঃ রাকিব হোসেন	K000911	Knitting	knitting	None	Gr.knitting mac.op	4th	03-11-2014	06-05-1992	6	5678	300	Male	Married	No	Production
+Md.Zakir Hossain	মোঃ জাকির হোসেন	K000913	Knitting	knitting	None	Gr.knitting mac.op	4th	03-11-2014	10-12-1988	6	5678	300	Male	Married	No	Production
+Md.Nasir Uddin	মোঃ নাসির উদ্দিন	K000914	Knitting	knitting	None	Gr.knitting mac.op	4th	15-03-2014	02-01-1994	6	5678	300	Male	Married	No	Production
+Md.Amir Hossian	মোঃ আমির হোসেন	K000915	Knitting	knitting	None	Gr.knitting mac.op	4th	15-03-2014	15-08-1987	6	5678	300	Male	Married	No	Production
+Md.Lutfar Rahman	মোঃ লুৎফর রহমান	K000916	Knitting	knitting	None	Gr.knitting mac.op	4th	15-03-2014	02-05-1989	6	5678	300	Male	Married	No	Production
+Md. Fazlul Hoque	মোঃ ফজলুল হক	K000917	Knitting	knitting	None	Gr.knitting mac.op	4th	04-03-2014	06-01-1987	6	5678	300	Male	Married	No	Production
+Md.Nazmul 	মোঃ নাজমুল	K000918	Knitting	knitting	None	Gr.knitting mac.op	4th	04-02-2014	10-01-1979	6	5678	300	Male	Married	No	Production
+Md.Robiul awal	মোঃ রবিউল আউল 	K000919	Knitting	knitting	None	Gr.knitting mac.op	4th	04-01-2014	22-04-1989	6	5678	300	Male	Married	No	Production
+Md.Mohasin patowary	মোঃ মহসিন পাটোয়ারী 	K000920	Knitting	knitting	None	Gr.knitting mac.op	4th	04-02-2014	08-10-1988	6	5678	300	Male	Married	No	Production
+ Md Feroz Mia 	মোঃ ফিরুজ	K000921	Knitting	knitting	A	Gr.knitting mac.op	4th	04-03-2014	03-01-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Mamun Howlader 	মোঃ মামুন হ্ওালাদার	K000922	Knitting	knitting	None	Gr.knitting mac.op	4th	04-12-2014	26-08-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Saiful islam	মোঃ সাইফুল ইসলাম	K000923	Knitting	knitting	None	Gr.knitting mac.op	4th	04-10-2014	01-01-1983	6	5678	300	Male	Married	No	Production
+Md.Samim 	মোঃ শামীম  	K000924	Knitting	knitting	None	Gr.knitting mac.op	4th	04-03-2014	02-12-1995	6	5678	300	Male	Married	No	Production
+Md.Saiful Alom	মোঃ সাইফুল আলম	K000925	Knitting	knitting	None	Gr.knitting mac.op	4th	04-12-2014	02-10-1986	6	5678	300	Male	Married	No	Production
+Md.Sohel Rana	মোঃ সোহেল রানা	K000926	Knitting	knitting	None	Gr.knitting mac.op	4th	04-10-2014	05-05-1988	6	5678	300	Male	Married	No	Production
+Md.Rubel mia	মোঃ রুবেল মিয়া	K000927	Knitting	knitting	None	Gr.knitting mac.op	4th	04-02-2014	08-12-1988	6	5678	300	Male	Married	No	Production
+Md.Sohel Rana	 মোঃ  সোহেল রানা	K000929	Knitting	knitting	None	Gr.knitting mac.op	4th	04-03-2014	30-01-1992	6	5678	300	Male	Married	No	Production
+Md.Miladunnabi Sk.	 মোঃ মিলাদুন্নবী শেখ	K000931	Knitting	knitting	None	Gr.knitting mac.op	4th	04-05-2014	15-09-1988	6	5678	300	Male	Married	No	Production
+Md.Santu Sarder 	মোঃ সান্টু সরদার	K000932	Knitting	knitting	None	Gr.knitting mac.op	4th	04-07-2014	01-01-1994	6	5678	300	Male	Married	No	Production
+Md.Fazlul mia	মোঃ ফজলু মিয়া	K000933	Knitting	knitting	None	Gr.knitting mac.op	4th	04-06-2014	0-6-04-93	6	5678	300	Male	Married	No	Production
+Md.Barun Adhikari	মোঃ বরুন আধিকারী	K000934	Knitting	knitting	None	Gr.knitting mac.op	4th	04-05-2014	03-01-1991	6	5678	300	Male	Married	No	Production
+Md.Shahid Sheikh	মোঃ শহিদ শেখ	K000935	Knitting	knitting	None	Gr.knitting mac.op	4th	04-05-2014	10-08-1992	6	5678	300	Male	Married	No	Production
+Md.Musa Mia	মোঃ মুছা মিয়া	K000936	Knitting	knitting	None	Gr.knitting mac.op	4th	04-01-2014	02-01-1991	6	5678	300	Male	Married	No	Production
+Md.Nasir 	মোঃ নাছির 	K000937	Knitting	knitting	None	Gr.knitting mac.op	4th	04-07-2014	08-10-1987	6	5678	300	Male	Married	No	Production
+Md.Saddam Hossain	 মোঃ সাদ্দাম হোসেন	K000938	Knitting	knitting	E	Gr.knitting mac.op	4th	04-05-2014	10-05-1988	6	5678	300	Male	Married	No	Production
+Md.Akbur	মোঃ আকবর	K000939	Knitting	knitting	None	Gr.knitting mac.op	4th	04-10-2014	01-01-1991	6	5678	300	Male	Married	No	Production
+Md.Akter Hossain	মোঃ আক্তার হোসেন	K000942	Knitting	knitting	None	Gr.knitting mac.op	4th	04-12-2014	02-10-1989	6	5678	300	Male	Married	No	Production
+Ruisel Ahamed	মোঃ রুইসেল আহম্মেদ 	K000943	Knitting	knitting	None	Gr.knitting mac.op	4th	04-08-2014	08-10-1987	6	5678	300	Male	Married	No	Production
+Md.Adam Ali	মোঃ আদম আলী	K000944	Knitting	knitting	None	Gr.knitting mac.op	4th	04-06-2014	10-03-1987	6	5678	300	Male	Married	No	Production
+Md.Firoz	মোঃ ফিরুজ	K000945	Knitting	knitting	None	Gr.knitting mac.op	4th	04-06-2014	08-06-1986	6	5678	300	Male	Married	No	Production
+Md.Al-Amin	মোঃ আল-আমিন	K000946	Knitting	knitting	None	Gr.knitting mac.op	4th	15-04-2014	08-01-1985	6	5678	300	Male	Married	No	Production
+Md.jakir 	মোঃ জাকির  	K000947	Knitting	knitting	B	Gr.knitting mac.op	4th	04-09-2014	21-09-1984	6	5678	300	Male	Married	No	Production
+Md.Shiekh Mohon 	মোঃ শেখ মোহন	K000948	Knitting	knitting	None	Gr.knitting mac.op	4th	04-09-2014	01-01-1987	6	5678	300	Male	Married	No	Production
+Md. Rashed Dayun	মোঃ রাশেদ দ্ওেয়ান	K000949	Knitting	knitting	None	Gr.knitting mac.op	4th	04-07-2014	01-01-1986	6	5678	300	Male	Married	No	Production
+Md.Omor faruq	মোঃ ওমর ফারুক	K000950	Knitting	knitting	None	Gr.knitting mac.op	4th	04-09-2014	07-09-1994	6	5678	300	Male	Unmarried	No	Production
+Md.jalal Mondol	মোঃ জালাল মন্ডল	K000951	Knitting	knitting	None	Gr.knitting mac.op	4th	04-09-2014	20-09-1986	6	5678	300	Male	Married	No	Production
+Md.Rased Sarder	মোঃ রাসেদ সরদার	K000952	Knitting	knitting	None	Gr.knitting mac.op	4th	04-10-2014	20-07-1982	6	5678	300	Male	Married	No	Production
+Md.Abdullah khan	মোঃ আব্দুল্লাহ খান	K000953	Knitting	knitting	None	Gr.knitting mac.op	4th	04-06-2014	02-06-1996	6	5678	300	Male	Unmarried	No	Production
+Md. Abul Hossain	মোঃ আব্দুল হোসেন 	K000954	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	17-09-1983	6	5678	300	Male	Married	No	Production
+Md. Anower Hossain 	মোঃ আনোয়ার হোসেন	K000955	Knitting	knitting	None	Gr.knitting mac.op	4th	04-07-2014	22-10-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Moyunuddin Uddin	মোঃ মঈন উদ্দিন	K000956	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	06-10-1995	6	5678	300	Male	Unmarried	No	Production
+Md.Baizid Hossain	মোঃ বায়োজিদ হোসেন	K000957	Knitting	knitting	None	Gr.knitting mac.op	4th	04-09-2014	16-03-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Abul basar 	মোঃ আবু বাসার	K000958	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	22-08-1988	6	5678	300	Male	Married	No	Production
+Md.Bemal Chandra Das	বিমল চন্দ্র দাস	K000959	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	12-10-1987	6	5678	300	Male	Married	No	Production
+Md.Mobarok Hossain	মোঃ মোবারক হোসেন	K000960	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	01-02-1985	6	5678	300	Male	Married	No	Production
+Md.kajol	মোঃ কাজল	K000961	Knitting	knitting	None	Gr.knitting mac.op	4th	16-04-2014	06-10-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Jewel Ahammed	মোঃ জুয়েল আহম্মেদ	K000962	Knitting	knitting	B	Gr.knitting mac.op	4th	16-04-2014	05-10-1980	6	5678	300	Male	Married	No	Production
+Md.Ebrahiem Farzi	মোঃ ইব্রাহীম ফরাজী	K000963	Knitting	knitting	None	Gr.knitting mac.op	4th	21-04-2014	30--03-73	6	5678	300	Male	Married	No	Production
+Md.Soalymam 	মোঃ সুলায়মান	K000964	Knitting	knitting	None	Gr.knitting mac.op	4th	19-04-2014	15-08-1992	6	5678	300	Male	Married	No	Production
+Md. Howlader Imran	হ্ওালাদার ইমরান	K000965	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	01-01-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Kamal hossain	মোঃ কামাল হোসেন	K000966	Knitting	knitting	B	Gr.knitting mac.op	4th	26-04-2014	09-07-1982	6	5678	300	Male	Married	No	Production
+Md.Billal hossain	মোঃ বেলাল হোসেন	K000967	Knitting	knitting	B	Gr.knitting mac.op	4th	04-01-2014	25-07-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Sabuj	মোঃ সবুজ   	K000968	Knitting	knitting	B	Gr.knitting mac.op	4th	22-04-2014	09-03-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Simul howlader	মোঃ শিমুল হ্ওালাদার	K000969	Knitting	knitting	C	Gr.knitting mac.op	4th	19-04-2014	02-02-1984	6	5678	300	Male	Married	No	Production
+Md.Younus mia	মোঃ ইউনুছ মিয়া	K000970	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	02-02-1985	6	5678	300	Male	Married	No	Production
+Md.Rofiqul 	মোঃ রফিকুল	K000971	Knitting	knitting	C	Gr.knitting mac.op	4th	13-04-2014	02-02-1986	6	5678	300	Male	Unmarried	No	Production
+Md.Sohel	মোঃ সোহেল	K000972	Knitting	knitting	C	Gr.knitting mac.op	4th	13-04-2014	18-10-1983	6	5678	300	Male	Unmarried	No	Production
+Md.Anower	মোঃ আনোয়ার  	K000973	Knitting	knitting	C	Gr.knitting mac.op	4th	13-04-2014	18-10-1984	6	5678	300	Male	Unmarried	No	Production
+Md.Repon	মোঃ রিপন  	K000974	Knitting	knitting	C	Gr.knitting mac.op	4th	04-09-2014	15-01-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Farhad	 মোঃ ফরহাদ	K000975	Knitting	knitting	None	Gr.knitting mac.op	4th	19-04-2014	06-04-1987	6	5678	300	Male	Married	No	Production
+Md.Mostafizur Rahman	মোঃ মোস্তাফিজুর রহমান	K000976	Knitting	knitting	None	Gr.knitting mac.op	4th	19-04-2014	03-07-1990	6	5678	300	Male	Married	No	Production
+Md. Saiful islam	মোঃ সাইফুল 	K000977	Knitting	knitting	None	Gr.knitting mac.op	4th	23-04-2014	18-02-1978	6	5678	300	Male	Married	No	Production
+Md. Mojammal hoque	 মোঃ  মোজাম্মেল হক	K000978	Knitting	knitting	None	Gr.knitting mac.op	4th	23-04-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Md.Arif Hossain	মোঃ আরিফ হোসেন	K000979	Knitting	knitting	None	Gr.knitting mac.op	4th	23-04-2014	05-01-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Lanzu mia	মোঃ লানজু মিয়া	K000980	Knitting	knitting	None	Gr.knitting mac.op	4th	23-04-2014	21-06-1991	6	5678	300	Male	Married	No	Production
+Md.Akkas mia	মোঃ আক্কাছ মিয়া	K000981	Knitting	knitting	None	Gr.knitting mac.op	4th	23-04-2014	27-01-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Liton Shikder 	মোঃ লিটন শিকদার	K000982	Knitting	knitting	None	Gr.knitting mac.op	4th	26-04-2014	01-01-1983	6	5678	300	Male	Married	No	Production
+Md. Nurjrul islam	মোঃ নজরুল ইসলাম	K000983	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	01-07-1988	6	5678	300	Male	Married	No	Production
+Md. Shamim	মোঃ শামীম	K000984	Knitting	knitting	None	Gr.knitting mac.op	4th	16-04-2014	20-01-1987	6	5678	300	Male	Married	No	Production
+Md. Faruq Hossain 	মোঃ ফারুক হোসেন	K000985	Knitting	knitting	None	Gr.knitting mac.op	4th	20-04-2014	08-08-1986	6	5678	300	Male	Unmarried	No	Production
+Md.Hazrat Ali	মোঃ হযরত আলী	K000986	Knitting	knitting	None	Gr.knitting mac.op	4th	21-04-2014	01-01-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Kabir hossain	মোঃ কবির হোসেন	K000987	Knitting	knitting	None	Gr.knitting mac.op	4th	26-04-2014	07-07-1982	6	5678	300	Male	Married	No	Production
+Md.bablu	মোঃ বাবলু	K000988	Knitting	knitting	None	Gr.knitting mac.op	4th	27-04-2014	07-11-1989	6	5678	300	Male	Unmarried	No	Production
+Md.Rofikul islam	মোঃ রফিকুল ইসলাম	K000989	Knitting	knitting	None	Gr.knitting mac.op	4th	27-04-2014	07-11-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Kayum	মোঃ কাইয়ুম	K000990	Knitting	knitting	None	Gr.knitting mac.op	4th	13-04-2014	30-07-1987	6	5678	300	Male	Unmarried	No	Production
+Md.Mozed	মোঃ মজিদ	K000991	Knitting	knitting	None	Gr.knitting mac.op	4th	15-04-2014	30-07-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Billal hossain	মোঃ বেলাল হোসেন	K000992	Knitting	knitting	None	Gr.knitting mac.op	4th	26-04-2014	18-09-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Ali	মোঃ আলী	K000993	Knitting	knitting	None	Gr.knitting mac.op	4th	26-04-2014	18-09-1993	6	5678	300	Male	Unmarried	No	Production
+Rafiqul Islam	মোঃ রফিকুল ইসলাম	K000994	Knitting	knitting	None	Gr.knitting mac.op	4th	26-04-2014	13-02-1986	6	5678	300	Male	Married	No	Production
+Md.johiem	মোঃ জসিম  	K000996	Knitting	knitting	None	Gr.knitting mac.op	4th	19-04-2014	13-02-1987	6	5678	300	Male	Married	No	Production
+Nadim	মোঃ নাদিম	K000997	Knitting	knitting	C	Gr.knitting mac.op	4th	05-03-2014	17-09-1987	6	5678	300	Male	Married	No	Production
+Md. Abul Kalam Azad	মোঃ আবুল কালাম আজাদ	K000998	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	01-01-1985	6	5678	300	Male	Married	No	Production
+Md. Monir Hossain	মোঃ মনির হোসেন	K000999	Knitting	knitting	C	Gr.knitting mac.op	4th	05-03-2014	10-04-1982	6	5678	300	Male	Married	No	Production
+Md.Mojayem	 মোঃ  মোয়াজ্জেম	K001000	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	15-01-1980	6	5678	300	Male	    Married	No	Production
+Md.Rubel khan	মোঃ রুবেল খান	K001001	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	17-09-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Bablu 	মোঃ বাবলু	K001002	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	01-01-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Monirul islam	মোঃ মনিরুল ইসলাম	K001003	Knitting	knitting	E	Gr.knitting mac.op	4th	05-03-2014	04-05-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Khaza Akubda	খাজা আকন্দ	K001004	Knitting	knitting	E	Gr.knitting mac.op	4th	05-03-2014	01-01-1989	6	5678	300	Male	Unmarried	No	Production
+MD.Shamsur Rahaman	মোঃ সামসুর রহমান	K001005	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	06-12-1977	6	5678	300	Male	married	No	Production
+Md. Kamrul  	মোঃ কামরুল  	K001006	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	26-07-1972	6	5678	300	Male	Married	No	Production
+Md.Nasirul  Haque	 মোঃ নাসিরুল	K001007	Knitting	knitting	None	Gr.knitting mac.op	4th	05-03-2014	01-03-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Ronju Ahamed 	রঞ্জু আহম্মেদ	K001008	Knitting	knitting	B	Gr.knitting mac.op	4th	05-03-2014	07-10-1992	6	5678	300	Male	Unmarried	No	Production
+Syed  Mustafa	মোঃ সৈয়দ মোস্তফা	K001009	Knitting	knitting	A	Gr.knitting mac.op	4th	05-04-2014	15-09-1986	6	5678	300	Male	Married	No	Production
+Md.Jahir	মোঃ জহির 	K001010	Knitting	knitting	A	Gr.knitting mac.op	4th	05-04-2014	30-07-1985	6	5678	300	Male	Married	No	Production
+Md.Emdadul Hoque 	 মোঃ এমদাদুল হক	K001011	Knitting	knitting	A	Gr.knitting mac.op	4th	05-04-2014	02-03-1984	6	5678	300	Male	Married	No	Production
+Md.Dalim Prodhan	মোঃ ডালিম প্রধান	K001012	Knitting	knitting	A	Gr.knitting mac.op	4th	05-04-2014	05-11-1979	6	5678	300	Male	Married	No	Production
+Md.Yousuf Sheikh	মোঃ ইউনুছ শেখ	K001013	Knitting	knitting	B	Gr.knitting mac.op	4th	05-05-2014	04-03-1996	6	5678	300	Male	Unmarried	No	Production
+Md.delwer Hossain	মোঃ দেলোয়ার হোসেন	K001014	Knitting	knitting	B	Gr.knitting mac.op	4th	05-05-2014	02-04-1981	6	5678	300	Male	Married	No	Production
+Md. Suloliv Mia	মোঃ সুলভ মিয়া	K001015	Knitting	knitting	B	Gr.knitting mac.op	4th	05-05-2014	01-12-1988	6	5678	300	Male	Married	No	Production
+Md.Atikur	মোঃ আতিকুর	K001016	Knitting	knitting	A	Gr.knitting mac.op	4th	05-05-2014	26-08-1984	6	5678	300	Male	Unmarried	No	Production
+Md.Uzzul mia	মোঃ উজ্জল মিয়া	K001017	Knitting	knitting	B	Gr.knitting mac.op	4th	05-05-2014	15-02-1988	6	5678	300	Male	Married	No	Production
+Md. Alamgir Fokir 	মোঃ আলমগীর ফকির 	K001018	Knitting	knitting	None	Gr.knitting mac.op	4th	05-05-2014	15-02-1989	6	5678	300	Male	married	No	Production
+Md.Jharna begum	মোসাঃ ঝর্না বেগম	K001019	Knitting	knitting	C	Gr.knitting mac.op	4th	05-04-2014	15-10-1976	6	5678	300	Male	Married	No	Production
+Md.Al-Amin	মোঃ আল আমিন	K001020	Knitting	knitting	A	Gr.knitting mac.op	4th	05-06-2014	02-01-1990	6	5678	300	Male	Unmarried	No	Production
+Md. Rahamat Ali	মোঃ রহমত আলী	K001021	Knitting	knitting	B	Gr.knitting mac.op	4th	05-05-2014	02-10-1983	6	5678	300	Male	Married	No	Production
+Md.Borkot	মোঃ বরকত	K001022	Knitting	knitting	B	Gr.knitting mac.op	4th	05-06-2014	04-10-1989	6	5678	300	Male	Unmarried	No	Production
+Md.Samim Hossain	মোঃ শামিম হোসেন	K001024	Knitting	knitting	B	Gr.knitting mac.op	4th	05-06-2014	06-06-1986	6	5678	300	Male	Married	No	Production
+Md.Khabir khan	মোঃ খবির খান	K001025	Knitting	knitting	B	Gr.knitting mac.op	4th	05-06-2014	02-01-1985	6	5678	300	Male	Married	No	Production
+Shre Susil ch	শ্রী সুশীল চন্দ্র	K001026	Knitting	knitting	C	Gr.knitting mac.op	4th	05-05-2014	02-02-1983	6	5678	300	Male	Married	No	Production
+Md.Almas 	মোঃ আলমাচ	K001027	Knitting	knitting	C	Gr.knitting mac.op	4th	05-06-2014	02-02-1984	6	5678	300	Male	Married	No	Production
+Md. Nurislam 	মোঃ নুর ইসলাম	K001028	Knitting	knitting	None	Gr.knitting mac.op	4th	05-06-2014	02-02-1985	6	5678	300	Male	Married	No	Production
+Md. Jahangir	মোঃ জাহাঙ্গীর 	K001029	Knitting	knitting	B	Gr.knitting mac.op	4th	05-06-2014	19-11-1983	6	5678	300	Male	Married	No	Production
+Md. Mizanur Rahman	মোঃ মিজানুর রহমান	K001030	Knitting	knitting	C	Gr.knitting mac.op	4th	05-06-2014	12-12-1985	6	5678	300	Male	Married	No	Production
+Md.Rokon mia	মোঃ রোকন মিয়া	K001031	Knitting	knitting	C	Gr.knitting mac.op	4th	05-07-2014	30-11-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Raju Ahamed	মোঃ রাজু আহম্মেদ	K001032	Knitting	knitting	None	Gr.knitting mac.op	4th	05-04-2014	14-10-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Nurjaman	মোঃ নরুজ্জামান	K001033	Knitting	knitting	B	Gr.knitting mac.op	4th	05-04-2014	03-04-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Rashel	মোঃ রাসেল	K001034	Knitting	knitting	B	Gr.knitting mac.op	4th	05-06-2014	30-03-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Nazrul islam	মোঃ নজরুল ইসলাম	K001035	Knitting	knitting	B	Gr.knitting mac.op	4th	05-08-2014	01-11-1983	6	5678	300	Male	Married	No	Production
+Md.Grasuddin 	মোঃ গিয়াসউদ্দিন	K001036	Knitting	knitting	B	Gr.knitting mac.op	4th	05-08-2014	15-07-1995	6	5678	300	Male	Married	No	Production
+Md.Mojibur 	মোঃ মজিবুর	K001037	Knitting	knitting	None	Gr.knitting mac.op	4th	15-05-2014	15-07-1996	6	5678	300	Male	Married	No	Production
+Md.khalilur  	মোঃ খলিলুর	K001038	Knitting	knitting	None	Gr.knitting mac.op	4th	05-04-2014	03-10-1978	6	5678	300	Male	Married	No	Production
+Sariful islam	শরিফুল ইসলাম	K001040	Knitting	knitting	None	Gr.knitting mac.op	4th	05-11-2014	03-04-1992	6	5678	300	Male	Unmarried	No	Production
+Md.Alomgir 	মোঃ আলমগীর	K001041	Knitting	knitting	A	Gr.knitting mac.op	4th	05-11-2014	14-02-1981	6	5678	300	Male	Married	No	Production
+Md.Hormuz howlader 	মোঃ হরমুজ হ্ওালাদার	K001042	Knitting	knitting	A	Gr.knitting mac.op	4th	05-11-2014	01-01-1981	6	5678	300	Male	Married	No	Production
+Md.Mohiuddin Patoary	মোঃ মহিউদ্দীন পাটোয়ারী	K001043	Knitting	knitting	None	Gr.knitting mac.op	4th	05-11-2014	01-01-1982	6	5678	300	Male	Unmarried	No	Production
+Md.Jahangir fakir 	মোঃ জাহাঙ্গীর ফকির 	K001044	Knitting	knitting	A	Gr.knitting mac.op	4th	05-11-2014	07-07-1978	6	5678	300	Male	Married	No	Production
+Md. Salam Fokir 	মোঃ সালাম ফকির	K001045	Knitting	knitting	A	Gr.knitting mac.op	4th	05-11-2014	02-12-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Jakeir Sikder 	মোঃ জাকির সিকদার	K001046	Knitting	knitting	B	Gr.knitting mac.op	4th	05-10-2014	04-02-1986	6	5678	300	Male	Married	No	Production
+Md.Amir Hossain	মোঃ আমির হোসেন	K001047	Knitting	knitting	A	Gr.knitting mac.op	4th	05-10-2014	05-01-1986	6	5678	300	Male	Married	No	Production
+Md.Anius mida	মোঃ আনিছ মৃধা	K001048	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	05-01-1987	6	5678	300	Male	Married	No	Production
+Md. Ferdous 	মোঃ ফেরদৌস	K001049	Knitting	knitting	B	Gr.knitting mac.op	4th	05-12-2014	02-01-1988	6	5678	300	Male	Unmarried	No	Production
+Md.Sujon jomadder 	মোঃ সুজন জোমদ্দার	K001050	Knitting	knitting	A	Gr.knitting mac.op	4th	05-12-2014	22-08-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Fuyad Hossain	মোঃ ফুয়াদ  হোসেন	K001052	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	04-11-1982	6	5678	300	Male	Married	No	Production
+Md.Sohel	মোঃ সোহেল	K001053	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	10-07-1988	6	5678	300	Male	Married	No	Production
+Shogur Hossain	মোঃ সাগর হোসেন	K001054	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	10-07-1989	6	5678	300	Male	Married	No	Production
+Robiyoul Islam 	মোঃ রবিউল ইসলাম	K001055	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	17-12-1994	6	5678	300	Male	Married	No	Production
+Akter hossain	মোঃ আক্তার হোসেন	K001056	Knitting	knitting	A	Gr.knitting mac.op	4th	05-12-2014	01-12-1977	6	5678	300	Male	Married	No	Production
+Md.Kawsar  	মোঃ কাউসার	K001057	Knitting	knitting	A	Gr.knitting mac.op	4th	05-12-2014	01-02-1948	6	5678	300	Male	Married	No	Production
+Md.Asraful 	মোঃ আশরাফুল	K001059	Knitting	knitting	C	Gr.knitting mac.op	4th	05-12-2014	01-01-1984	6	5678	300	Male	Married	No	Production
+Md.Rasel	মোঃ রাসেল	K001060	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	01-01-1985	6	5678	300	Male	Married	No	Production
+Shrief uddin	মোঃ শরিফ উদ্দীন	K001061	Knitting	knitting	E	Gr.knitting mac.op	4th	05-12-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Md.Mafijur Rahaman	মোঃ মফিজুর রহমান	K001062	Knitting	knitting	None	Gr.knitting mac.op	4th	05-10-2014	25-03-1976	6	5678	300	Male	Married	No	Production
+Md.Mir Anower Hossain	মোঃ মীর আনোয়ার হোসেন	K001063	Knitting	knitting	E	Gr.knitting mac.op	4th	05-12-2014	13-07-1987	6	5678	300	Male	12.05.14	No	Production
+Md.Humayan kabir 	মোঃ হুমায়ুন কবির	K001064	Knitting	knitting	A	Gr.knitting mac.op	4th	05-11-2014	08-06-1985	6	5678	300	Male	Unmarried	No	Production
+Md.Abul Kasem	মোঃ আবুল কাশেম	K001065	Knitting	knitting	B	Gr.knitting mac.op	4th	14-05-2014	01-01-1968	6	5678	300	Male	Married	No	Production
+Md.Masud 	মোঃ মাসুদ	K001066	Knitting	knitting	B	Gr.knitting mac.op	4th	05-11-2014	18-09-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Jakir 	মোঃ জাকির	K001067	Knitting	knitting	E	Gr.knitting mac.op	4th	14-05-2014	11-03-1982	6	5678	300	Male	Married	No	Production
+Md.Mitab Alam	মোঃ মিতাব আলম	K001068	Knitting	knitting	C	Gr.knitting mac.op	4th	05-12-2014	03-12-1991	6	5678	300	Male	Married	No	Production
+Md.Nantu	মোঃ নান্টু	K001069	Knitting	knitting	None	Gr.knitting mac.op	4th	14-05-2014	03-12-1992	6	5678	300	Male	Married	No	Production
+Md.Babul Akndo	মোঃ বাবুল আকন্দ	K001070	Knitting	knitting	B	Gr.knitting mac.op	4th	14-05-2014	05-12-1988	6	5678	300	Male	Unmarried	No	Production
+Md. Kaiam Mia	মোঃ কাইয়ুম মিয়া	K001071	Knitting	knitting	B	Gr.knitting mac.op	4th	14-05-2014	07-04-1987	6	5678	300	Male	Unmarried	No	Production
+Md. Sohid 	মোঃ শহিদ	K001072	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Lukman hossain	মোঃ লোকমান হোসেন	K001073	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Mizanur Rahman	মোঃ মিজানুর রহমান	K001074	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	20-08-1989	6	5678	300	Male	Unmarried	No	Production
+Md.Sahin	মোঃ শাহিন	K001075	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	20-08-1990	6	5678	300	Male	Married	No	Production
+Md.Yousub Mida	মোঃ ইউসুফ মৃধা	K001076	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	01-01-1986	6	5678	300	Male	Married	No	Production
+Md.Azizul Molla	মোঃ আজিজুল মোল্লা	K001077	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	03-12-1987	6	5678	300	Male	Married	No	Production
+Md.Johirul islam	মোঃ জহিরুল ইসলাম	K001078	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	08-04-1978	6	5678	300	Male	Married	No	Production
+Md.Milon	মোঃ মিলন	K001080	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	08-04-1979	6	5678	300	Male	Married	No	Production
+Md.Safiul Basar 	মোঃ শফিউল বাসার	K001081	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	01-10-1983	6	5678	300	Male	Married	No	Production
+Md.Elius	মোঃ ইলিয়াস   	K001082	Knitting	knitting	None	Gr.knitting mac.op	4th	05-12-2014	03-12-1987	6	5678	300	Male	Married	No	Production
+Md.Hassin mia	 মোঃ হাসান মিয়া	K001083	Knitting	knitting	D	Gr.knitting mac.op	4th	05-12-2014	08-10-1987	6	5678	300	Male	Married	No	Production
+Md.Sree Vobesh ch	শ্রী ভবেম চন্দ্র	K001084	Knitting	knitting	B	Gr.knitting mac.op	4th	14-05-2014	20-11-1988	6	5678	300	Male	Married	No	Production
+Md.johirul	মোঃ জহিরুল  	K001085	Knitting	knitting	A	Gr.knitting mac.op	4th	14-05-2014	01-01-1991	6	5678	300	Male	Married	No	Production
+Md.Ruhul Amin	 মোঃ রুহুল আমিন	K001086	Knitting	knitting	A	Gr.knitting mac.op	4th	13-05-2014	10-05-1986	6	5678	300	Male	Unmarried	No	Production
+Md.Azizul Haque	মোঃ আজিজুল হক	K001087	Knitting	knitting	A	Gr.knitting mac.op	4th	13-05-2014	01-05-1986	6	5678	300	Male	Married	No	Production
+Md.Mannan Sarder 	মোঃ মান্নান সরদার	K001088	Knitting	knitting	A	Gr.knitting mac.op	4th	13-05-2015	07-01-1983	6	5678	300	Male	Married	No	Production
+Md.Ekbal Hossain	মোঃ ইকবাল হোসেন	K001089	Knitting	knitting	A	Gr.knitting mac.op	4th	14-05-2014	07-01-1990	6	5678	300	Male	Married	No	Production
+Md.Abdul Alim	মোঃ  আব্দুল আলিম	K001090	Knitting	knitting	A	Gr.knitting mac.op	4th	13-05-2014	18-02-1972	6	5678	300	Male	Married	No	Production
+Md.ohiddujaman	মোঃ ্ওয়াহিদুজ্জামান	K001091	Knitting	knitting	None	Gr.knitting mac.op	4th	13-05-2014	18-02-1973	6	5678	300	Male	Married	No	Production
+Md.Wahidul islam	মোঃ অহিদুল	K001092	Knitting	knitting	A	Gr.knitting mac.op	4th	14-05-2014	18-09-1985	6	5678	300	Male	Married	No	Production
+Md.Mizanur Rahaman	মোঃ মিজানুর রহমান	K001093	Knitting	knitting	None	Gr.knitting mac.op	4th	14-05-2014	18-09-1986	6	5678	300	Male	Married	No	Production
+Md.Uzzal Fakir 	মোঃ উজ্জল ফকির	K001094	Knitting	knitting	B	Gr.knitting mac.op	4th	15-05-2014	19-12-1986	6	5678	300	Male	Married	No	Production
+Md.Hasan	মোঃ হাসান	K001095	Knitting	knitting	7gg	Gr.knitting mac.op	4th	13-05-2014	07-02-1988	6	5678	300	Male	Married	No	Production
+Md.Khairulzzaman	মোঃ খাইরুজ্জামান	K001096	Knitting	knitting	7gg	Gr.knitting mac.op	4th	13-05-2014	03-06-1991	6	5678	300	Male	Married	No	Production
+Md.Abur bacher 	মোঃ আবুর বাসার	K001097	Knitting	knitting	None	Gr.knitting mac.op	4th	13-05-2014	03-06-1992	6	5678	300	Male	Married	No	Production
+Md.Al-Amin shceik	মোঃ আল-আমিন শেখ	K001098	Knitting	knitting	E	Gr.knitting mac.op	4th	14-05-2014	06-03-1994	6	5678	300	Male	Married	No	Production
+Md.Robiul  Islam	মোঃ রবিউল	K001099	Knitting	knitting	E	Gr.knitting mac.op	4th	14-05-2014	01-07-1988	6	5678	300	Male	Married	No	Production
+Md.Ali -Asraf	 মোঃ আলী আশরাফ	K001100	Knitting	knitting	E	Gr.knitting mac.op	4th	14-05-2014	01-03-1988	6	5678	300	Male	Married	No	Production
+Md.Asadujaman 	মোঃ আসাদুজ্জামান	K001101	Knitting	knitting	E	Gr.knitting mac.op	4th	14-05-2014	10-02-1982	6	5678	300	Male	Married	No	Production
+Md.Mamun mia	মোঃ মামুন মিয়া	K001102	Knitting	knitting	E	Gr.knitting mac.op	4th	14-05-2014	08-02-1986	6	5678	300	Male	Married	No	Production
+Md.Mizanur Rahaman	মোঃ মিজানুর রহমান	K001103	Knitting	knitting	None	Gr.knitting mac.op	4th	14-05-2014	05-01-1991	6	5678	300	Male	Married	No	Production
+Md.Areif hossin	মোঃ আরিফ হোসেন	K001104	Knitting	knitting	None	Gr.knitting mac.op	4th	14-05-2014	06-05-1994	6	5678	300	Male	Married	No	Production
+Md.Mamun Gazi	মোঃ মামুন গাজী	K001105	Knitting	knitting	None	Gr.knitting mac.op	4th	15-05-2014	06-05-1995	6	5678	300	Male	Married	No	Production
+Md.Mannan	মোঃ মান্নান   	K001106	Knitting	knitting	E	Gr.knitting mac.op	4th	15-05-2014	01-01-1986	6	5678	300	Male	Unmarried	No	Production
+Md.Mamun Munci	 মোঃ মামুন মুন্সি	K001107	Knitting	knitting	None	Gr.knitting mac.op	4th	15-05-2014	01-01-1987	6	5678	300	Male	Married	No	Production
+Md.Abdul lotief 	মোঃ আব্দুল লতিফ	K001108	Knitting	knitting	None	Gr.knitting mac.op	4th	14-05-2014	01-01-1988	6	5678	300	Male	Married	No	Production
+Md.Rubel 	মোঃ রুবেল	K001109	Knitting	knitting	C	Gr.knitting mac.op	4th	14-05-2014	07-10-1993	6	5678	300	Male	Married	No	Production
+Md.Aslam Howlader	মোঃ আসলাম হ্ওালাদার	K001110	Knitting	knitting	C	Gr.knitting mac.op	4th	14-05-2014	22-03-1972	6	5678	300	Male	Married	No	Production
+Md.Ripon hasan	মোঃ রিপন হাসান 	K001111	Knitting	knitting	None	Gr.knitting mac.op	4th	15-05-2014	05-05-1986	6	5678	300	Male	Married	No	Production
+Md.Mahadi hassain	মোঃ মেহেদী হাসান	K001112	Knitting	knitting	C	Gr.knitting mac.op	4th	14-05-2014	18-08-1985	6	5678	300	Male	Married	No	Production
+Md.Akrer Hossain	মোঃ আক্তার হোসেন	K001114	Knitting	knitting	C	Gr.knitting mac.op	4th	14-05-2014	16-04-1986	6	5678	300	Male	Married	No	Production
+Md.Mizanur Rahaman	মোঃ মিজানুর রহমান	K001115	Knitting	knitting	None	Gr.knitting mac.op	4th	15-05-2014	16-04-1987	6	5678	300	Male	Married	No	Production
+Md.Billal Hossain	মোঃ বেল্লল হোসেন	K001116	Knitting	knitting	D	Gr.knitting mac.op	4th	15-05-2014	20-01-1985	6	5678	300	Male	Married	No	Production
+Md.Robbni Hossin	মোঃ রব্বানী হোসেন	K001117	Knitting	knitting	B	Gr.knitting mac.op	4th	15-05-2014	02-01-1992	6	5678	300	Male	Married	No	Production
+Md.Yousup  Ali	মোঃ ইউসুফ আলী শেখ	K001118	Knitting	knitting	C	Gr.knitting mac.op	4th	17-05-2014	01-01-1995	6	5678	300	Male	Unmarried	No	Production
+Md.Yousup kamal	মোঃ ইউসুফ কামাল	K001119	Knitting	knitting	A	Gr.knitting mac.op	4th	17-05-2014	01-01-1987	6	5678	300	Male	Married	No	Production
+MD. Sherajull islam	মোঃ সিরাজুল	K001120	Knitting	knitting	B	Gr.knitting mac.op	4th	17-05-2014	15-08-1991	6	5678	300	Male	Unmarried	No	Production
+Md.Asaduzzaman 	মোঃ আসাদুজ্জামান	K001121	Knitting	knitting	E	Gr.knitting mac.op	4th	17-05-2014	10-08-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Moshraf Hossain	মোঃ মোশারফ হোসেন	K001122	Knitting	knitting	E	Gr.knitting mac.op	4th	17-05-2014	28-11-1981	6	5678	300	Male	Married	No	Production
+Md.Moazzem Hossain	মোঃ মোয়াজ্জেম হোসেন	K001124	Knitting	knitting	C	Gr.knitting mac.op	4th	17-05-2014	03-02-1985	6	5678	300	Male	Married	No	Production
+Md.Sabbir Hossain	 মোঃ ছাব্বির হোসেন	K001125	Knitting	knitting	B	Gr.knitting mac.op	4th	17-05-2014	13-05-1980	6	5678	300	Male	Married	No	Production
+Md.Mosaruf  Khan	মোঃ মোশারফ খান	K001126	Knitting	knitting	C	Gr.knitting mac.op	4th	17-05-2014	04-08-1985	6	5678	300	Male	Married	No	Production
+Md.Hamayet Khandokir	মোঃ হেদায়েত খন্দকার	K001127	Knitting	knitting	None	Gr.knitting mac.op	4th	15-05-2014	15-08-1986	6	5678	300	Male	Married	No	Production
+Shohage	মোঃ সোহাগ	K001128	Knitting	knitting	None	Gr.knitting mac.op	4th	19-05-2014	15-08-1987	6	5678	300	Male	Married	No	Production
+Ebrahim	মোঃ ইব্রাহীম  	K001130	Knitting	knitting	C	Gr.knitting mac.op	4th	20-05-2014	02-03-1985	6	5678	300	Male	Married	No	Production
+Nasir Uddin	মোঃ নাসির উদ্দিন	K001131	Knitting	knitting	C	Gr.knitting mac.op	4th	20-05-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Jone	 মোঃ জনি	K001132	Knitting	knitting	C	Gr.knitting mac.op	4th	20-05-2014	01-01-1991	6	5678	300	Male	Married	No	Production
+Mohubur Rahman	মোঃ মহুবর রহমান	K001133	Knitting	knitting	C	Gr.knitting mac.op	4th	20-05-2014	03-12-1990	6	5678	300	Male	Unmarried	No	Production
+Sirajul islam	মোঃ সিরাজুল ইসলাম	K001134	Knitting	knitting	None	Gr.knitting mac.op	4th	20-05-2014	03-12-1991	6	5678	300	Male	Married	No	Production
+Masum Khan	মোঃ মাসুম খান	K001137	Knitting	knitting	A	Gr.knitting mac.op	4th	22-05-2014	03-12-1992	6	5678	300	Male	Married	No	Production
+Mizon	মোঃ মিজান  	K001138	Knitting	knitting	None	Gr.knitting mac.op	4th	13-05-2014	03-12-1993	6	5678	300	Male	Married	No	Production
+Nizam Uddin	 মোঃ নিজাম উদ্দিন	K001139	Knitting	knitting	D	Gr.knitting mac.op	4th	22-05-2014	05-01-1982	6	5678	300	Male	Unmarried	No	Production
+Sher Ali howlader 	মোঃ শের আলী হ্ওালাদার	K001140	Knitting	knitting	B	Gr.knitting mac.op	4th	24-05-2014	20-05-1990	6	5678	300	Male	Married	No	Production
+Md. Mockcadul 	মোঃ মোকছেদুল 	K001141	Knitting	knitting	None	Gr.knitting mac.op	4th	21-05-2014	20-05-1991	6	5678	300	Male	Married	No	Production
+Md. Sohag mia	মোঃ সোহাগ মিয়া	K001142	Knitting	knitting	E	Gr.knitting mac.op	4th	22-05-2014	11-12-1987	6	5678	300	Male	Unmarried	No	Production
+Md. Nur nobi howlader 	মোঃ নুর নবী হ্ওালাদার	K001143	Knitting	knitting	E	Gr.knitting mac.op	4th	22-05-2014	06-10-1991	6	5678	300	Male	Unmarried	No	Production
+MdAbdul Rahaman	মোঃ আব্দুর রহমান	K001144	Knitting	knitting	E	Gr.knitting mac.op	4th	22-05-2014	02-01-1971	6	5678	300	Male	Married	No	Production
+Md.Safiqul islam	মোঃ সফিকুল ইসলাম	K001145	Knitting	knitting	B	Gr.knitting mac.op	4th	22-05-2014	05-01-1986	6	5678	300	Male	Married	No	Production
+Md. Sohel Gazi 	মোঃ সোহেল গাজী	K001146	Knitting	knitting	B	Gr.knitting mac.op	4th	22-05-2014	05-01-1987	6	5678	300	Male	Married	No	Production
+Md.Rubel mia	মোঃ রুবেল মিয়া	K001147	Knitting	knitting	B	Gr.knitting mac.op	4th	22-05-2014	01-01-1987	6	5678	300	Male	Married	No	Production
+Subas ch	 সুবাস চন্দ্র	K001148	Knitting	knitting	None	Gr.knitting mac.op	4th	24-05-2014	01-01-1988	6	5678	300	Male	Married	No	Production
+Rahman Mia	মোঃ রহমান মিয়া	K001149	Knitting	knitting	A	Gr.knitting mac.op	4th	24-05-2014	22-05-1988	6	5678	300	Male	Married	No	Production
+Rubel 	মোঃ রুবেল	K001150	Knitting	knitting	None	Gr.knitting mac.op	4th	20-05-2014	25-05-1983	6	5678	300	Male	Married	No	Production
+Taher mia	মোঃ তাহের মিয়া 	K001152	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	25-05-1984	6	5678	300	Male	Married	No	Production
+Khamal Hossain	 মোঃ কামাল  হোসেন	K001153	Knitting	knitting	None	Gr.knitting mac.op	4th	06-04-2014	25-05-1985	6	5678	300	Male	Married	No	Production
+MdSohel	 মোঃ সোহেল 	K001154	Knitting	knitting	None	Gr.knitting mac.op	4th	06-03-2014	25-05-1986	6	5678	300	Male	Married	No	Production
+Babul	 মোঃ বাবলু 	K001155	Knitting	knitting	None	Gr.knitting mac.op	4th	06-02-2014	25-05-1987	6	5678	300	Male	Married	No	Production
+Milon Howlader	মিলন হোসেন হাওলাদার 	K001156	Knitting	knitting	None	Gr.knitting mac.op	4th	06-02-2014	25-05-1988	6	5678	300	Male	Married	No	Production
+Moshiyour Rahman	 মোঃ মশিউর রহমান 	K001157	Knitting	knitting	None	Gr.knitting mac.op	4th	06-02-2014	25-05-1989	6	5678	300	Male	Married	No	Production
+Saju	 মোঃ সাজু 	K001158	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	25-05-1990	6	5678	300	Male	Married	No	Production
+Shoriful islam	 মোঃ শরীফুল ইসলাম	K001159	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	25-05-1991	6	5678	300	Male	Married	No	Production
+Hamim	 মোঃ হামিম 	K001160	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2015	25-05-1992	6	5678	300	Male	Married	No	Production
+Anius Miah	 মোঃ আনিছ  মিয়া 	K001161	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2016	25-05-1993	6	5678	300	Male	Married	No	Production
+Billal hossain	 মোঃ বিল্লাল  হোসেন	K001162	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2017	25-05-1994	6	5678	300	Male	Married	No	Production
+Sree Sopen Ch	শ্রী  স্বপন চন্দ 	K001163	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2018	01-10-1984	6	5678	300	Male	Married	No	Production
+Faruq	 মোঃ ফারুক 	K001164	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-12-2015	6	5678	300	Male	Married	No	Production
+Shahadad	 মোঃ শাহাদাৎ	K001165	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	08-10-1988	6	5678	300	Male	Married	No	Production
+Billal hossain	 মোঃ বিল্লাল  হোসেন	K001166	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-11-1989	6	5678	300	Male	Married	No	Production
+Robiyoul	 মোঃ রবিউল 	K001167	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1992	6	5678	300	Male	Married	No	Production
+Humayun 	 মোঃ হুমায়ুন 	K001168	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	10-05-1987	6	5678	300	Male	Married	No	Production
+Ruhul Amin	মোঃ রুহুল আমিন 	K001169	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-05-1987	6	5678	300	Male	Married	No	Production
+Md. Shohag 	 মোঃ সোহাগ	K001170	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	07-01-1997	6	5678	300	Male	Married	No	Production
+Md. Almaus khan	 মোঃ আলমাছ খান	K001171	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	07-01-1981	6	5678	300	Male	Married	No	Production
+Md.Almaus	 মোঃ আলমাছ 	K001172	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-02-1974	6	5678	300	Male	Married	No	Production
+Md. Amzad	 মোঃ আমজাদ 	K001173	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-02-1975	6	5678	300	Male	Married	No	Production
+Md. Masum	 মোঃ মাসুম  	K001174	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-09-1987	6	5678	300	Male	Married	No	Production
+Md. Abu Bokkor Siddik	মোঃ আবু বক্কর সিদ্দিক 	K001175	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-09-1988	6	5678	300	Male	Married	No	Production
+Md. Ebrahim	মোঃ ইব্রাহিম 	K001176	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	19-12-1987	6	5678	300	Male	Married	No	Production
+Md. Moyein Uddin	 মোঃ মঈন উদ্দিন 	K001177	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	07-02-1989	6	5678	300	Male	Married	No	Production
+Md. Monir	 মোঃ মনির 	K001178	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-06-1993	6	5678	300	Male	Married	No	Production
+Md. Mahidul	 মোঃ মহিদুল 	K001179	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-06-1994	6	5678	300	Male	Married	No	Production
+Md. Harun	মোঃ হারুন	K001580	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-03-1995	6	5678	300	Male	Married	No	Production
+Md. Mahbub-1	 মোঃ মাহাবুুব-১	K001581	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-07-1989	6	5678	300	Male	Married	No	Production
+Md. Mahbub-2	 মোঃ মাহাবুুব-২	K001582	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-03-1989	6	5678	300	Male	Married	No	Production
+Md. Al-Amin	 মোঃ আল আমিন	K001583	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	10-02-1983	6	5678	300	Male	Married	No	Production
+Md. Sentu	 মোঃ সেন্টু 	K001584	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	08-02-1987	6	5678	300	Male	Married	No	Production
+Md.Muklesur	 মোঃ মোখলেছুর আলী 	K001185	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1992	6	5678	300	Male	Married	No	Production
+Md. Emran Howlader	 মোঃ ইমরান হাওলাদার 	K001186	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-05-1996	6	5678	300	Male	Married	No	Production
+Md.Imran Ali	মোঃ ইমরান  আলী 	K001187	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-05-1997	6	5678	300	Male	Married	No	Production
+Md.Abdul Salam	 মোঃ আব্দুল সালাম	K001188	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Md.Rafikql 	 মোঃ রফিকুল 	K001189	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Md.Kadir Ali	 মোঃ কাদির আলী	K001190	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1991	6	5678	300	Male	Married	No	Production
+Md.Mamun	 মোঃ মামুন 	K001191	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	07-10-1994	6	5678	300	Male	Married	No	Production
+Md.Baccu Mollik	মোঃ বাচ্চু মোল্লিক 	K001192	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	22-03-1973	6	5678	300	Male	Married	No	Production
+Md.Harun	 মোঃ হারুন	K001193	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-05-1987	6	5678	300	Male	Married	No	Production
+Md.Sofiqul	 মোঃ শফিকুল 	K001194	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-08-1986	6	5678	300	Male	Married	No	Production
+Md.Sofiqul	মোঃ শফিকুল 	K001195	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	16-04-1988	6	5678	300	Male	Married	No	Production
+Md.Solaiman	 মোঃ সোলেমান 	K001196	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	16-04-1989	6	5678	300	Male	Married	No	Production
+Md.Alomgir	 মোঃ আলমগীর 	K001197	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-01-1986	6	5678	300	Male	Married	No	Production
+Md.Amir Hamzza	 মোঃ আমির হামজা 	K001198	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	02-01-1993	6	5678	300	Male	Married	No	Production
+Md.Masud 	 মোঃ মাসুদ 	K001199	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1979	6	5678	300	Male	Married	No	Production
+Md.Abdul Rahim	 মোঃ আব্দুল রহিম	K001200	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1971	6	5678	300	Male	Married	No	Production
+Md.Babu bapari	 মোঃ বাবু ব্যপারী	K001201	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	15-08-1992	6	5678	300	Male	Married	No	Production
+Md.Humayun	 মোঃ হুমায়ন	K001202	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	10-08-1991	6	5678	300	Male	Married	No	Production
+Md.Jakir	 মোঃ জাকির 	K001203	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	28-11-1982	6	5678	300	Male	Married	No	Production
+Md.Hossain Mirazi	 মোঃ হোসেন মিয়াজী 	K001204	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-02-1986	6	5678	300	Male	Married	No	Production
+Md.Babul Bissawas	 মোঃ বাবুল বিশ্বাস 	K001205	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	13-05-1981	6	5678	300	Male	Married	No	Production
+Md.Mozibor	 মোঃ মজিবুর 	K001206	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	04-08-1986	6	5678	300	Male	Married	No	Production
+Md.Johirul	 মোঃ জহিরুল 	K001207	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	15-08-1988	6	5678	300	Male	Married	No	Production
+Md.Nazmul	 মোঃ নাজমুল 	K001208	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	15-08-1989	6	5678	300	Male	Married	No	Production
+Md.Alomgir 	 মোঃ আলমগীর 	K001209	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	02-03-1986	6	5678	300	Male	Married	No	Production
+Md.Monir	 মোঃ মনির	K001210	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1992	6	5678	300	Male	Married	No	Production
+Md.Mintu Sickder 	মোঃ মিন্টু সিকদ্দার 	K001211	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Md.Billal Hossain	মোঃ বিল্লাল হোসেন	K001212	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-12-1994	6	5678	300	Male	Married	No	Production
+Md.Rayhan	 মোঃ রায়হান	K001213	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-12-1995	6	5678	300	Male	Married	No	Production
+Md.Kamal 	মোঃ কামাল হোসেন	K001214	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-12-1996	6	5678	300	Male	Married	No	Production
+Md.Khorshed	 মোঃ খোরশেদ	K001215	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-12-1997	6	5678	300	Male	Married	No	Production
+Md.Ripon Mollah	 মোঃ রিপন মোল্ল্রা 	K001216	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1983	6	5678	300	Male	Married	No	Production
+Md.Ruhul Amin	 মোঃ রুহুল আমিন 	K001217	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-05-1992	6	5678	300	Male	Married	No	Production
+Md.Abu Shahid	মোঃ আবু সায়িদ	K001218	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-05-1993	6	5678	300	Male	Married	No	Production
+Md.Tuhin Sheikh	 মোঃ তুহিন শেক	K001219	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	11-12-1988	6	5678	300	Male	Married	No	Production
+Md.Anichur Rahman	 মোঃ আনিচুর রহমান	K001220	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-10-1992	6	5678	300	Male	Married	No	Production
+Md.Sohel 	 মোঃ সোহেল 	K001221	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	02-01-1972	6	5678	300	Male	Married	No	Production
+Md.Ripon	 মোঃ রিপন 	K001222	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1988	6	5678	300	Male	Married	No	Production
+Md.Aminul islam	 মোঃ আমিনুল ইসলাম	K001223	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1989	6	5678	300	Male	Married	No	Production
+Md.Abu Hossain	 মোঃ আবু হোসেন 	K001224	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Md. Mazharul 	মোঃ মাজহারুল 	K001225	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-10-1993	6	5678	300	Male	Married	No	Production
+Md.Mahedi hassain	 মোঃ মেহেদী হাসান	K001226	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	02-01-1973	6	5678	300	Male	Married	No	Production
+Md.Mominul 	 মোঃ মমিনুুল 	K001227	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1990	6	5678	300	Male	Married	No	Production
+Md.Jewel Mullah	 মোঃ জুয়েল মোল্লা	K001228	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1991	6	5678	300	Male	Married	No	Production
+Md.Kowser  	 মোঃ কাওসার 	K001229	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Md.Abdul Aziz	 মোঃ আব্দুল আজিজ 	K001230	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-10-1993	6	5678	300	Male	Married	No	Production
+Md.Yousuf 	মোঃ আঃ ইউসুফ 	K001231	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	02-01-1973	6	5678	300	Male	Married	No	Production
+Md.Momin Bokayoul	 মোঃ মমিন বোকাউল	K001233	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1990	6	5678	300	Male	Married	No	Production
+Md.Shajahan	 মোছাঃ শাহাজাহান 	K001234	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-10-1993	6	5678	300	Male	Married	No	Production
+Md.Sohidul islam	 মোঃ শহিদুল ইসলাম	K001235	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	02-01-1973	6	5678	300	Male	Married	No	Production
+Md.Ebrahim Mia	 মোঃ ইব্রাহিম 	K001236	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1990	6	5678	300	Male	Married	No	Production
+Md.Soleman	 মোঃ সোলেমান 	K001237	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1991	6	5678	300	Male	Married	No	Production
+Md.Jashim Uddin	 মোঃ জসিম উদ্দিন	K001238	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1990	6	5678	300	Male	Married	No	Production
+Md.Monir Hossain	 মোঃ মনির হোসেন	K001239	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-10-1994	6	5678	300	Male	Married	No	Production
+Md.Habib 	 মোঃ হাবিব 	K001240	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-10-1985	6	5678	300	Male	Married	No	Production
+Md.Jashim Uddin	মোঃ জসিম উদ্দিন	K001241	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-12-2016	6	5678	300	Male	Married	No	Production
+Md.Lakku mia	 মোঃ লাখু মিয়া 	K001242	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	08-10-1989	6	5678	300	Male	Married	No	Production
+Md.Shajahan	 মোঃ শাহাজাহান	K001243	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-11-1990	6	5678	300	Male	Married	No	Production
+Md.Shaalom	শাহাআলম	K001244	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Md.Aminullah	আমিনুউল্লা 	K001245	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	10-05-1988	6	5678	300	Male	Married	No	Production
+Md.Ruhul Amin	রুহুল আমিন 	K001246	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-05-1988	6	5678	300	Male	Married	No	Production
+Md. Anayet  	মোঃ এনায়েত 	K001247	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-11-1991	6	5678	300	Male	Married	No	Production
+Md.Mostofa mia	মোঃ মোস্তফা মিয়া 	K001248	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1994	6	5678	300	Male	Married	No	Production
+Md. Eliyais	মোঃ ইলিয়াছ	K001249	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-02-1976	6	5678	300	Male	Married	No	Production
+Md. Abull Kuddis 	মোঃ আব্দুল কুদ্দুস 	K001250	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-02-1977	6	5678	300	Male	Married	No	Production
+Md.Mozammel 	মোঃ মোজ্জামেল 	K001251	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-09-1989	6	5678	300	Male	Married	No	Production
+Md. Mostafa Kamal	মোঃ মোস্তফা 	K001252	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-09-1990	6	5678	300	Male	Married	No	Production
+Md. Lavli	মোঃ লাভলী	K001253	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	19-12-1988	6	5678	300	Male	Married	No	Production
+Md.Moshin	মোঃ মহসিন 	K001254	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	07-02-1990	6	5678	300	Male	Married	No	Production
+Md.Grasuddin 	মোঃ গিরাসউদ্দিন 	K001255	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-06-1995	6	5678	300	Male	Married	No	Production
+Md. Bablu	মোঃ বাবলু	K001256	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	03-06-1996	6	5678	300	Male	Married	No	Production
+Md.Salam Mia 	মোঃ সালাম মিয়া 	K001257	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-03-1996	6	5678	300	Male	Married	No	Production
+Md. Sujon 	মোঃ সুজন 	K001258	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-07-1990	6	5678	300	Male	Married	No	Production
+Md. Subaz	মোঃ সবুজ 	K001259	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-03-1990	6	5678	300	Male	Married	No	Production
+Md.Mongurul islam 	মোঃ মঞ্জুরুল ইসলাম	K001260	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	10-02-1984	6	5678	300	Male	Married	No	Production
+Md. Shofiqul islam	মোঃ শফিকুল ইসলাম	K001261	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	08-02-1988	6	5678	300	Male	Married	No	Production
+Md. Aazzad Hossain 	মোঃ আজাদ  হোসেন 	K001262	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-01-1993	6	5678	300	Male	Married	No	Production
+Md. Amirul islam	মোঃ আমিরুল ইসলাম	K001263	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-05-1998	6	5678	300	Male	Married	No	Production
+Md. Saiful 	মোঃ সাইফুল 	K001264	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	06-05-1999	6	5678	300	Male	Married	No	Production
+Md. Kuddis 	মোঃ কুদ্দুস 	K001265	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1992	6	5678	300	Male	Married	No	Production
+Md. Jalal Hossain 	মোঃ জালাল হোসেন 	K001266	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Md. lotfar	মোঃ লুৎফর 	K001267	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	01-01-1994	6	5678	300	Male	Married	No	Production
+Md. Rahman Howlader 	মোঃ রহমান  হাওলাদার 	K001268	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	07-10-1995	6	5678	300	Male	Married	No	Production
+Md.Emam Hossain 	মোঃ ইমাম হোসেন 	K001269	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	22-03-1974	6	5678	300	Male	Married	No	Production
+Md. Rasel 	মোঃ রাসেল 	K001270	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	05-05-1988	6	5678	300	Male	Married	No	Production
+Md. Sakul Howlader 	 মোঃ সাকিল হাওলাদার 	K001271	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	18-08-1987	6	5678	300	Male	Married	No	Production
+Md. Faruq Howlader 	মোঃ ফারুক হাওলাদার 	K001272	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	16-04-1990	6	5678	300	Male	Married	No	Production
+Md. Jakir Howlder 	মোঃ জাকির হাওলাদার 	K001273	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	16-04-1991	6	5678	300	Male	Married	No	Production
+Md. Ekram	মোঃ ইকরাম 	K001274	Knitting	knitting	None	Gr.knitting mac.op	4th	06-01-2014	20-01-1987	6	5678	300	Male	Married	No	Production
+Md.Miraz Howlader 	মোঃ মিরাজ হাওলাদার 	K001275	Knitting	knitting	None	Supervaisor	None	04-07-2014	03-01-1982	6	5678	300	Male	Married	No	Production
+Md. Mahabub Alom Sagor	মোঃ মাহাবুব আলম সাগর 	K001276	Knitting	knitting	None	Supervaisor	None	02-04-2014	26-11-1984	6	5678	300	Male	Married	No	Production
+Md.S.M. Sultan Raza 	"মোঃ এস,এম  সুলতান রাজা "	K001277	Knitting	knitting	None	Supervaisor	None	22-03-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Md. Humaiun Kabir 	মোঃ  হুমায়ুন কবির 	K001278	Knitting	knitting	None	Distributor	None	05-07-2014	06-12-1987	6	5678	300	Male	Married	No	Production
+Md.Abu Bakor Siddik	মোঃ আবু বক্কর সিদ্দিক 	K001279	Knitting	knitting	None	Supervaisor	None	18-03-2013	03-05-1984	6	5678	300	Male	Married	No	Production
+Md. Faqrul islam 	মোঃ ফকরুল ইসলাম	K001280	Knitting	knitting	None	Supervaisor	None	03-11-2013	05-01-1979	6	5678	300	Male	Married	No	Production
+Md.Rajab Ali	মোঃ রজব আলী	K001281	Knitting	knitting	None	Supervaisor	None	04-08-2013	02-10-1993	6	5678	300	Male	Unmarried	No	Production
+Md. Abdullah 	মোঃ আব্দুল্লাহ 	K001282	Knitting	knitting	None	Distributor	None	01-02-2014	25-11-1987	6	5678	300	Male	Unmarried	No	Production
+Md. Al-Amin	মোঃ আল আমিন	K001283	Knitting	knitting	None	Distributor	None	16-09-2013	01-01-1971	6	5678	300	Male	Married	No	Production
+Jotyah Kanti Chakma 	জ্যোতিষ কান্তি চাকমা 	K001284	Knitting	knitting	None	Supervaisor	None	05-08-2014	31-12-1983	6	5678	300	Male	Unmarried	No	Production
+Md. Sohag Mia 	মোঃ সোহাগ মিয়া	K001285	Knitting	knitting	None	Distributor	None	22-04-2014	01-05-1991	6	5678	300	Male	Unmarried	No	Production
+Md. Saiful islam 	মোঃ সাইফুল ইসলাম	K001286	Knitting	knitting	None	Supervaisor	None	25-05-2014	18-02-1978	6	5678	300	Male	Married	No	Production
+Md. Lokman Mirazi 	মোঃ লেকমান মিরাজী 	K001287	Knitting	knitting	None	Incharage	None	20-06-2013	02-06-1982	6	5678	300	Male	Married	No	Production
+Md. Masud Hasan 	মোঃ মাসুদ হাসান 	K001288	Knitting	knitting	None	Supervaisor 	None	03-02-2013	08-12-1988	6	5678	300	Male	Unmarried	No	Production
+Md. Mahedi Hasan	মোঃ মেহেদী হাসান	K001289	Knitting	knitting	None	Incharage	None	02-02-2013	16-10-1980	6	5678	300	Male	Married	No	Production
+Md. Ripon Chandra 	মোঃ রিপন চন্দ্র 	K001290	Knitting	knitting	None	Supervaisor	None	03-07-2013	20-02-1979	6	5678	300	Male	Married	No	Production
+Md. Aminul islam 	মোঃ আমিনুল ইসলাম	K001291	Knitting	knitting	None	Supervaisor	None	03-12-2013	11-12-1982	6	5678	300	Male	Married	No	Production
+Md. Sohraf Hossain 	মোঃ সোহরাফ হোসেন	K001292	Knitting	knitting	None	Supervaisor 	None	24-05-2014	02-01-1983	6	5678	300	Male	Married	No	Production
+ Mra.Resma	মোসাঃ রেশমা	L000005	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	10-09-1988	6	5678	300	Male	UnMarried	No	Production
+Lipy--1	মোসাঃ লিপি-১	L000010	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	11-03-1988	6	5678	300	Male	Married	No	Production
+Parveen	মোসাঃ পারভীন	L000012	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	02-02-1995	6	5678	300	Male	UnMarried	No	Production
+Sima	মোসাঃ সিমা	L000013	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	15-05-1985	6	5678	300	Male	Married	No	Production
+Popy	মোসাঃ পপি	L000014	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	20-02-1995	6	5678	300	Male	UnMarried	No	Production
+Lipy begum	মোসাঃ লিপি-	L000016	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	01-01-1990	6	5678	300	Male	UnMarried	No	Production
+Salma	মোসাঃ সালমা	L000017	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	06-06-1991	6	5678	300	Male	UnMarried	No	Production
+Najma	মোসাঃ নাজমা	L000018	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	05-01-1985	6	5678	300	Male	Married	No	Production
+Nasrin	মোসাঃ নাসরিন	L000024	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	01-01-1991	6	5678	300	Male	Married	No	Production
+Asma	মোসাঃ আসমা	L000025	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	01-01-1992	6	5678	300	Male	Married	No	Production
+Joshna Akter	মোসাঃ জোসনা	L000027	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	05-10-1991	6	5678	300	Male	UnMarried	No	Production
+Mrs. Rabeya	মোসাঃ রাবেয়া 	L000029	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	22-01-1988	6	5678	300	Male	Married	No	Production
+Sahanaj	 মোসাঃ শাহানাজ	L000031	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	07-01-1993	6	5678	300	Male	Married	No	Production
+Rojina 	মোসাঃ রোজিনা	L000032	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	01-10-1990	6	5678	300	Male	Married	No	Production
+Salma 	মোসাঃ সালমা	L000033	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	05-10-1993	6	5678	300	Male	Married	No	Production
+Soniya	মোসাঃ সোনিয়া	L000034	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	01-01-1994	6	5678	300	Male	UnMarried	No	Production
+Nasima begum	মোসাঃ নাসিমা বেগম	L000036	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	15-05-1989	6	5678	300	Male	Married	No	Production
+Jiyasmin	মোসাঃ জিয়াচমিন	L000037	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	01-06-1982	6	5678	300	Male	Married	No	Production
+Arjina 	মোসাঃ আরজিনা	L000039	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	03-01-1987	6	5678	300	Male	Married	No	Production
+Nina Akter	মোসাঃ নিনা আকতার	L000040	Linking	Linking	None	Gr.linking mac.op	3rd	23-02-2013	27-05-1993	6	5678	300	Male	Married	No	Production
+Mukta Akter 	মোসাঃ মুক্তা	L000041	Linking	Linking	None	Gr.linking mac.op	3rd	02-10-2013	30-09-1989	6	5678	300	Male	Married	No	Production
+Ruma Akter 	মোসাঃ রুমা -২	L000043	Linking	Linking	None	Gr.linking mac.op	3rd	20-02-2013	30-09-1990	6	5678	300	Male	Married	No	Production
+Happy	মোসাঃ হ্যাপি	L000047	Linking	Linking	None	Gr.linking mac.op	3rd	03-02-2013	06-01-1991	6	5678	300	Male	UnMarried	No	Production
+Mrs.Rabeya 	মোসাঃ রাবেয়া 	L000058	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	27-11-1992	6	5678	300	Male	Married	No	Production
+Sarmin	মোসাঃ শারমিন	L000061	Linking	Linking	None	Gr.linking mac.op	3rd	03-03-2013	12-10-1994	6	5678	300	Male	Married	No	Production
+Mamunur- Rahman	মোঃ মামুনুর রহমান	L000063	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	02-04-1990	6	5678	300	Male	Married	No	Production
+Johirul islam	মোঃ জহিরুল ইসলাম	L000064	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	01-01-1994	6	5678	300	Male	UnMarried	No	Production
+Sabina 	মোসাঃ সাবিনা 	L000066	Linking	Linking	None	Gr.linking mac.op	3rd	03-03-2013	01-01-1990	6	5678	300	Male	Married	No	Production
+Md. Sohel	মোঃ  সোহেল 	L000067	Linking	Linking	None	Gr.linking mac.op	3rd	03-04-2013	01-01-1991	6	5678	300	Male	Married	No	Production
+MD. Rasel	মোঃ রাসেল	L000071	Linking	Linking	None	Gr.linking mac.op	3rd	03-05-2013	15-02-1991	6	5678	300	Male	Unmarried	No	Production
+Samidul	মোঃ সামিদুল 	L000073	Linking	Linking	None	Gr.linking mac.op	3rd	03-06-2013	04-08-1990	6	5678	300	Male	Unmarried	No	Production
+Rahat hossin	 মোঃ রাহাত হোসেন	L000074	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	28-02-1994	6	5678	300	Male	Unmarried	No	Production
+Md.Sofiqul islam	মোঃ শফিকুল ইসলাম	L000076	Linking	Linking	None	Gr.linking mac.op	3rd	03-10-2013	03-11-1991	6	5678	300	Male	Unmarried	No	Production
+MD. Nahid 	মোঃ নাহিদ	L000077	Linking	Linking	None	Gr.linking mac.op	3rd	03-10-2013	02-05-1991	6	5678	300	Male	Unmarried	No	Production
+Md. Sabbir Alam	সাব্বির আলম	L000078	Linking	Linking	None	Gr.linking mac.op	3rd	14-09-2013	09-01-1988	6	5678	300	Male	Unmarried	No	Production
+Md. Jahidul	মোঃ জাহিদুল	L000079	Linking	Linking	None	Gr.linking mac.op	3rd	03-11-2013	07-05-1990	6	5678	300	Male	Unmarried	No	Production
+MD. Ismail	মোঃ ইসমাইল	L000080	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	03-05-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Hasim mia	মোঃ হাসিম মিয়া 	L000081	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	15-03-1913	6	5678	300	Male	Unmarried	No	Production
+Md. Chan Mia	মোঃ চাঁন মিয়া	L000082	Linking	Linking	None	Gr.linking mac.op	3rd	03-09-2013	05-01-1991	6	5678	300	Male	Unmarried	No	Production
+MD. Hossan	হাসান	L000083	Linking	Linking	None	Gr.linking mac.op	3rd	03-04-2013	18-10-1990	6	5678	300	Male	Unmarried	No	Production
+Md. Sharmin	মোসাঃ শারমিন	L000086	Linking	Linking	None	Gr.linking mac.op	3rd	03-12-2013	02-01-1994	6	5678	300	Male	Unmarried	No	Production
+Md. Jolil mia	মোঃ জলিল মিয়া	L000089	Linking	Linking	None	Gr.linking mac.op	3rd	03-06-2013	04-10-1986	6	5678	300	Male	Unmarried	No	Production
+MD. Aysha Khotun	মোসাঃ আয়েশা খাতুন	L000098	Linking	Linking	None	Gr.linking mac.op	3rd	03-11-2013	03-08-1990	6	5678	300	Male	Married	No	Production
+Mrs.Babul mia	মোঃ বাবুল মিয়া	L000099	Linking	Linking	None	Gr.linking mac.op	3rd	03-10-2013	01-02-1990	6	5678	300	Male	Married	No	Production
+ Md. Kabir Ahamed 	মোঃ কবির আহম্মেদ	L000101	Linking	Linking	None	Gr.linking mac.op	3rd	16-03-2013	02-03-1988	6	5678	300	Male	Married	No	Production
+ Mrs.Sharmin	মোসাঃ শারমিন	L000107	Linking	Linking	None	Gr.linking mac.op	3rd	18-03-2013	01-01-1990	6	5678	300	Male	Married	No	Production
+ Mrs. Khadiza	মোসাঃ খাদিজা	L000011	Linking	Linking	None	Gr.linking mac.op	3rd	04-02-2013	23-06-1990	6	5678	300	Male	Married	No	Production
+ Md.Khokon	মোঃ খোকন	L000112	Linking	Linking	None	Gr.linking mac.op	3rd	04-01-2013	28-12-1982	6	5678	300	Male	UnMarried	No	Production
+Ripon	মোঃ রিপন 	L000114	Linking	Linking	None	Gr.linking mac.op	3rd	04-02-2013	02-05-1988	6	5678	300	Male	Married	No	Production
+Monir	মোঃ মনির	L000116	Linking	Linking	None	Gr.linking mac.op	3rd	16-04-2013	13-02-1983	6	5678	300	Male	UnMarried	No	Production
+MD.Rubel Mia	মোঃ রুবেল	L000118	Linking	Linking	None	Gr.linking mac.op	3rd	20-04-2013	01-01-1989	6	5678	300	Male	UnMarried	No	Production
+Md. Shahin	মোঃ শাহিন	L000122	Linking	Linking	None	Gr.linking mac.op	3rd	05-02-2013	05-02-1991	6	5678	300	Male	UnMarried	No	Production
+Dilora 	মোসাঃ দিলারা	L000124	Linking	Linking	None	Gr.linking mac.op	3rd	05-02-2013	01-01-1991	6	5678	300	Male	Married	No	Production
+ Shathi Akter 	মোসাঃ সাথী আকতার	L000125	Linking	Linking	None	Gr.linking mac.op	3rd	05-03-2013	20-10-1997	6	5678	300	Male	Married	No	Production
+Shathi Akter 	মোসাঃ সাথী আকতার	L000132	Linking	Linking	None	Gr.linking mac.op	3rd	06-03-2013	01-01-1992	6	5678	300	Male	Married	No	Production
+Alamgir	মোঃ আলম গাজী	L000135	Linking	Linking	None	Gr.linking mac.op	3rd	06-06-2013	02-01-1991	6	5678	300	Male	UnMarried	No	Production
+Nuzrul islam	মোঃ নজরুল	L000136	Linking	Linking	None	Gr.linking mac.op	3rd	06-04-2013	20-10-1998	6	5678	300	Male	Married	No	Production
+Mrs. Alamgir 	মোঃ আলমঙ্গীর 	L000142	Linking	Linking	None	Gr.linking mac.op	3rd	06-05-2013	07-10-1988	6	5678	300	Male	Married	No	Production
+Md. Biplob hossain	মোঃ বিপ্লব হোসেন	L000158	Linking	Linking	None	Gr.linking mac.op	3rd	15-06-2013	01-05-1986	6	5678	300	Male	Married	No	Production
+Jamena Khatun	মোসাঃ জামেনা খাতুন	L000160	Linking	Linking	None	Gr.linking mac.op	3rd	07-02-2013	08-10-1991	6	5678	300	Male	Married	No	Production
+Md. Runa Akter 	মোসাঃ রুনা আকতার	L000162	Linking	Linking	None	Gr.linking mac.op	3rd	07-01-2013	26-10-1993	6	5678	300	Male	Married	No	Production
+ Md. Sabina Akter 	মোসাঃ সাবিনা আকতার	L000164	Linking	Linking	None	Gr.linking mac.op	3rd	18-08-2013	05-01-1987	6	5678	300	Male	Married	No	Production
+Md. Aysha Khatun	মোসাঃ আয়েশা খাতুন	L000165	Linking	Linking	None	Gr.linking mac.op	3rd	18-08-2013	08-05-1993	6	5678	300	Male	Married	No	Production
+Md. Roushonara	মোসাঃ রওশনআরা বেগম	L000166	Linking	Linking	None	Gr.linking mac.op	3rd	18-08-2013	17-10-1989	6	5678	300	Male	Married	No	Production
+Mrs.Sefaly Khatun	মোসাঃ শেফালী খাতুন	L000168	Linking	Linking	None	Gr.linking mac.op	3rd	24-08-2013	28-07-1985	6	5678	300	Male	Married	No	Production
+Mrs.Sabbir hossain	মোঃ সাব্বির হোসেন	L000178	Linking	Linking	None	Gr.linking mac.op	3rd	14-09-2013	28-07-1986	6	5678	300	Male	Married	No	Production
+Mr.Sohel	মোঃ সোহেল	L000182	Linking	Linking	None	Gr.linking mac.op	3rd	18-11-2013	03-10-1995	6	5678	300	Male	Married	No	Production
+Rahima Khatun	মোসাঃ রাহিমা	L000783	Linking	Linking	None	Gr.linking mac.op	3rd	23-11-2013	06-08-1992	6	5678	300	Male	Married	No	Production
+Runa 	মোসাঃ রুনা	L000184	Linking	Linking	None	Gr.linking mac.op	3rd	23-11-2013	04-03-1995	6	5678	300	Male	Unmarried	No	Production
+Rozina Akter 	মোসাঃ রোজিনা আক্তার	L000186	Linking	Linking	None	Gr.linking mac.op	3rd	01-11-2014	01-02-1992	6	5678	300	Male	Married	No	Production
+Mahamuda begum	মোসাঃ মাহমুদা বেগম	L000187	Linking	Linking	None	Gr.linking mac.op	3rd	01-02-2014	14-04-1989	6	5678	300	Male	Married	No	Production
+Salma	মোসাঃ সালমা	L000188	Linking	Linking	None	Gr.linking mac.op	3rd	01-02-2014	12-10-1992	6	5678	300	Male	Married	No	Production
+Jarna Akter	মোসাঃ ঝর্ণা আক্তার	L000191	Linking	Linking	None	Gr.linking mac.op	3rd	01-12-2014	02-10-1988	6	5678	300	Male	Married	No	Production
+Mrs.Yasmin	মোসাঃ ইয়াসমিন	L000194	Linking	Linking	None	Gr.linking mac.op	3rd	02-01-2014	01-01-1995	6	5678	300	Male	Married	No	Production
+Mrs.Anowara	মোসাঃ আনোয়ারা	L000195	Linking	Linking	None	Gr.linking mac.op	3rd	02-01-2014	01-03-1982	6	5678	300	Male	Married	No	Production
+Helena	মোসাঃ হেলেনা	L000197	Linking	Linking	None	Gr.linking mac.op	3rd	02-08-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Ms.Riazul islam	 মোঃ রিয়াজুল ইসলাম	L000200	Linking	Linking	None	Gr.linking mac.op	3rd	02-08-2014	12-01-1992	6	5678	300	Male	Married	No	Production
+jewel	মোঃ জুয়েল	L000201	Linking	Linking	None	Gr.linking mac.op	3rd	02-09-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Shahanaz	মোসাঃ শাহনাজ	L000202	Linking	Linking	None	Gr.linking mac.op	3rd	02-05-2014	05-10-1989	6	5678	300	Male	Married	No	Production
+Sharifunahar Ranu	মোসাঃ শরীফুন্নাহার রানু	L000204	Linking	Linking	None	Gr.linking mac.op	3rd	02-05-2014	06-10-1992	6	5678	300	Male	Married	No	Production
+Salma Akter 	মোসাঃ সালমা আক্তার	L000205	Linking	Linking	None	Gr.linking mac.op	3rd	17-02-2014	05-02-1993	6	5678	300	Male	Married	No	Production
+Nirov Hossan	মোঃ নিরব হোসেন	L000206	Linking	Linking	None	Gr.linking mac.op	3rd	13-02-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Morsheda	মোসাঃ মোরশেদা	L000207	Linking	Linking	None	Gr.linking mac.op	3rd	02-12-2014	04-02-1991	6	5678	300	Male	Married	No	Production
+Rozina	মোসাঃ রোজিনা	L000210	Linking	Linking	None	Gr.linking mac.op	3rd	03-11-2014	05-05-1995	6	5678	300	Male	Married	No	Production
+Mrs.Roksana begum	মোসাঃ রেকছনা	L000212	Linking	Linking	None	Gr.linking mac.op	3rd	15-03-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Billal hossain	মোঃ বিল্লাল হোসেন	L000213	Linking	Linking	None	Gr.linking mac.op	3rd	15-03-2014	11-12-1987	6	5678	300	Male	Married	No	Production
+Happy	মোসাঃ হ্যাপি	L000214	Linking	Linking	None	Gr.linking mac.op	3rd	04-12-2014	01-01-1992	6	5678	300	Male	Married	No	Production
+Piyara	মোসাঃ পিয়ারা	L000215	Linking	Linking	None	Gr.linking mac.op	3rd	04-12-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Shirina	মোসাঃ শিরিনা	L000216	Linking	Linking	None	Gr.linking mac.op	3rd	15-04-2014	20-03-1994	6	5678	300	Male	Married	No	Production
+Alpona Akter	মোসাঃ আল্পনা আক্তার	L000217	Linking	Linking	None	Gr.linking mac.op	3rd	04-10-2014	28-07-1925	6	5678	300	Male	Married	No	Production
+Bilkis	মোসাঃ বিলকিস	L000218	Linking	Linking	None	Gr.linking mac.op	3rd	22-04-2014	28-07-1926	6	5678	300	Male	Married	No	Production
+Alomgir 	মোঃ আলমগীর	L000219	Linking	Linking	None	Gr.linking mac.op	3rd	05-03-2014	28-04-1993	6	5678	300	Male	Unmarried	No	Production
+Jakariya	মোঃ জাকারিয়া	L000220	Linking	Linking	None	Gr.linking mac.op	3rd	05-03-2014	01-02-1995	6	5678	300	Male	Married	No	Production
+Momin	মোঃ মমিন	L000221	Linking	Linking	None	Gr.linking mac.op	3rd	05-03-2014	01-02-1992	6	5678	300	Male	Married	No	Production
+Raju Moni	মোসাঃ রাজু মনি	L000222	Linking	Linking	None	Gr.linking mac.op	3rd	05-04-2014	05-10-1995	6	5678	300	Male	Married	No	Production
+Md.Nuraalom	মোঃ নূরে আলম	L000224	Linking	Linking	None	Gr.linking mac.op	3rd	05-06-2014	06-10-1990	6	5678	300	Male	Unmarried	No	Production
+Md.Al-amin 	মোঃ আলামিন	L000225	Linking	Linking	None	Gr.linking mac.op	3rd	05-06-2014	09-01-1990	6	5678	300	Male	Married	No	Production
+Sikha Akter 	মোসাঃ শিখা আক্তার	L000226	Linking	Linking	None	Gr.linking mac.op	3rd	05-06-2014	03-10-1993	6	5678	300	Male	Married	No	Production
+Sultana Akter 	মোসাঃ সুলতানা আক্তার	L000227	Linking	Linking	None	Gr.linking mac.op	3rd	05-08-2014	30-01-1994	6	5678	300	Male	Married	No	Production
+Emran fakir 	মোঃ ইমরান ফকির	L000228	Linking	Linking	None	Gr.linking mac.op	3rd	05-10-2014	18-08-1995	6	5678	300	Male	Married	No	Production
+Johirul islam	মোঃ জহিরুল ইসলাম	L000230	Linking	Linking	None	Gr.linking mac.op	3rd	13-05-2014	15-05-1985	6	5678	300	Male	Married	No	Production
+Nasrin	মোসাঃ নাসরিন	L000231	Linking	Linking	None	Gr.linking mac.op	3rd	17-05-2014	03-05-1991	6	5678	300	Male	Unmarried	No	Production
+Jorna begum	মোসাঃ ঝরনা বেগম	L000232	Linking	Linking	None	Gr.linking mac.op	3rd	17-05-2014	02-08-1990	6	5678	300	Male	Married	No	Production
+Masud Rana	মোঃ মাসুদ রানা	L000233	Linking	Linking	None	Gr.linking mac.op	3rd	18-05-2014	02-08-1991	6	5678	300	Male	Married	No	Production
+Sarmin	মোসাঃ শারমিন	L000234	Linking	Linking	None	Gr.linking mac.op	3rd	18-05-2014	02-08-1992	6	5678	300	Male	Married	No	Production
+Md.Khushi begum	মোসাঃ খুশী বেগম	L000235	Linking	Linking	None	Gr.linking mac.op	3rd	18-05-2014	02-02-1993	6	5678	300	Male	Married	No	Production
+Md.Sohel Howlader	মোঃ সোহেল হ্ওালাদার	L000236	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	20-06-1985	6	5678	300	Male	Married	No	Production
+Md.Rebaka	মোসাঃ রেবেকা	L000237	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	03-05-1988	6	5678	300	Male	Married	No	Production
+Md.Uzzol 	মোঃ উজ্জল	L000238	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1983	6	5678	300	Male	Married	No	Production
+Akhash	মোঃ আকাশ 	L000239	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1984	6	5678	300	Male	Married	No	Production
+Md.Rakib	 মোঃ রাকিব	L000240	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1985	6	5678	300	Male	Married	No	Production
+Md. Kamal	 মোঃ কামাল হোসেন	L000241	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1986	6	5678	300	Male	Married	No	Production
+Md.Omar Farqe	ওমর ফারুক	L000243	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1987	6	5678	300	Male	Married	No	Production
+Mrs.Lipy	 মোছাঃ লিপি	L000244	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1988	6	5678	300	Male	Married	No	Production
+Md.Khalida Akter 	 মোছাঃ খালেদা আক্তার 	L000245	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1989	6	5678	300	Male	Married	No	Production
+Md.Romjan	 মোঃ রমজান 	L000246	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1990	6	5678	300	Male	Married	No	Production
+Md.Babu 	 মোঃ বাবু 	L000247	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1991	6	5678	300	Male	Married	No	Production
+Md.Habibulla	 মোঃ হাবিবুল্লা আল 	L000248	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1992	6	5678	300	Male	Married	No	Production
+Md.Farque Howlader 	 মোঃ ফারুক হাওলাদার 	L000249	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1993	6	5678	300	Male	Married	No	Production
+Md.Hasan	 মোঃ হাসান	L000250	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1994	6	5678	300	Male	Married	No	Production
+Ebrahim	 মোঃ ইব্রাহিম 	L000252	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1995	6	5678	300	Male	Married	No	Production
+Mrs.Chompa Moni	চম্পা মনি 	L000253	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1996	6	5678	300	Male	Married	No	Production
+Md. Abul Bachir	আবুল বাসার 	L000254	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1997	6	5678	300	Male	Married	No	Production
+Tajil 	তাজুল 	L000255	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1998	6	5678	300	Male	Married	No	Production
+Mrs. Salina 	মোঃ  সেলিনা 	L000256	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1999	6	5678	300	Male	Married	No	Production
+Md.Abul Hossian	মোঃ আবুল হোসেন	L000257	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1998	6	5678	300	Male	Married	No	Production
+Mrs.Lily 	মোঃ লাইলি	L000258	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1997	6	5678	300	Male	Married	No	Production
+Md. Trakq Hossain	 মোঃ তারেক হোসেন	L000259	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1996	6	5678	300	Male	Married	No	Production
+Md.Rubel	মোঃ রুবেল 	L000260	Linking	Linking	None	Gr.linking mac.op	3rd	20-05-2014	28-06-1995	6	5678	300	Male	Married	No	Production
+Md. Yousuf Ali	মোঃ ইফসুফ আলী 	L000261	Linking	Linking	None	Distributor	3rd	03-02-2013	28-06-1994	6	5678	300	Male	Unmarried	No	Production
+Md. Mazanur Rahman	মোঃ মিজানুর রহমান	L000262	Linking	Linking	None	Distributor	3rd	03-03-2013	28-06-1993	6	5678	300	Male	Unmarried	No	Production
+Md.Tutul Chondro Das	মোঃ টুটুল চন্দ্রা দাশ	L000263	Linking	Linking	None	Surpervisor	3rd	06-12-2013	28-06-1992	6	5678	300	Male	Married	No	Production
+Md. Shamim Hossain	মোঃ শাহীন হোসেন 	L000264	Linking	Linking	None	Surpervisor	3rd	21-08-2013	28-06-1991	6	5678	300	Male	Married	No	Production
+Md. Rubel Bapari 	মোঃ রুবেল ব্যপারী 	L000265	Linking	Linking	None	Surpervisor	3rd	04-02-2013	28-06-1990	6	5678	300	Male	Married	No	Production
+Md. Moktar Hossain	মোঃ মোক্তার হোসেন	L000266	Linking	Linking	None	Taknition	3rd	01-01-2014	02-12-1985	6	5678	300	Male	Married	No	Production
+Ms. Jalal Uddin	মোঃ জালাল উদ্দিন 	L000267	Linking	Linking	None	Surpervaisor	3rd	09-09-2013	04-03-1992	6	5678	300	Male	Married	No	Production
+Md. Abu Hossain 	মোঃ আবু হোসেন 	L000268	Linking	Linking	None	Surpervaisor	3rd	09-01-2013	10-12-1982	6	5678	300	Male	Married	No	Production
+Md. Jashim Uddin 	মোঃ জসীম উদ্দিন 	L000269	Linking	Linking	None	Incharge	3rd	04-10-2013	01-01-1982	6	5678	300	Male	Married	No	Production
+Md. Abu Hossain 	মোঃ আবু হোসেন 	L000270	Linking	Linking	None	Supervaisor 	3rd	09-01-2013	10-12-1982	6	5678	300	Male	Married	No	Production
+Md.Jalal Uddin 	মোঃ জালাল উদ্দিন 	L000271	Linking	Linking	None	Supervaisor 	3rd	09-09-2013	04-03-1982	6	5678	300	Male	Married	No	Production
+Md. Sohraf Hossain	মোঃ শরিফ হাসান	L000272	Linking	Linking	None	Supervaisor 	3rd	24-05-2014	02-01-1983	6	5678	300	Male	Married	No	Production
+Md. Amirul islam 	মোঃ আমিরুল ইসলাম 	L000273	Linking	Linking	None	Supervaisor 	3rd	03-12-2013	11-12-1983	6	5678	300	Male	Married	No	Production
+Md. Ripon Chanrra	রিপন চন্দ্র 	L000274	Linking	Linking	None	Supervaisor 	3rd	03-07-2013	20-02-1979	6	5678	300	Male	Married	No	Production
+Md. Mehedi Hasan 	মোঃ মেহেদী হাসান 	L000275	Linking	Linking	None	Incharge	3rd	02-02-2013	16-10-1980	6	5678	300	Male	Married	No	Production
+Md. Abu Sayed 	মোঃ আবু সায়েদ 	L000276	Linking	Linking	None	Supervaisor 	3rd	17-02-2013	03-05-1978	6	5678	300	Male	Married	No	Production
+Md. Moktar Hossain	মোঃ মোক্তার হোসেন	L000277	Linking	Linking	None	Tecknition 	3rd	01-01-2014	02-12-1985	6	5678	300	Male	Married	No	Production
+Md.Rubel Bepari 	মোঃ রুবেল ব্যপারী 	L000278	Linking	Linking	None	Supervaisor 	3rd	04-02-2013	18-08-1988	6	5678	300	Male	Married	No	Production
+Md.Samim Hossain 	মোঃ শামীম হোসেন 	L000279	Linking	Linking	None	Supervaisor 	3rd	21-08-2013	18-05-1983	6	5678	300	Male	Married	No	Production
+Md. Tulul Chondro Dash	মোঃ টুটুল চন্দ্রা দাশ	L000280	Linking	Linking	None	Supervaisor 	3rd	06-12-2013	31-08-1981	6	5678	300	Male	Married	No	Production
+Md. Yousuf Ali	মোঃ ইফসুফ আলী 	L000281	Linking	Linking	None	Distributor	3rd	03-02-2013	15-01-1991	6	5678	300	Male	Unmarried	No	Production
+Md. Jashim Uddin 	মোঃ জসিম উদ্দিন 	L000282	Linking	Linking	None	Incharge	3rd	04-10-2013	01-01-1982	6	5678	300	Male	Married	No	Production
+Md.Garshuddin	মোঃ গিরাসউদ্দিন	L000283	Linking	Linking	None	Gr.linking mac.op	3rd	06-12-2014	01-01-1983	6	5678	300	Male	Married	No	Production
+Md. Shikder Abdul Hannan 	মোঃ সিকদ্দার আবুল হান্নান 	L000284	Linking	Qc	None	Linking QC	3rd	03-02-2013	20-04-1985	6	5678	300	Male	Married	No	Production
+Siriya begum	মোসাঃ সিরিয়া বেগম	TR00003	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	07-08-1975	6	5678	300	Male	Married	No	Production
+Mrd.Aroti Rani	 মোছাঃ আরতি রাণী	TR00005	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	05-01-1974	6	5678	300	Male	Married	No	Production
+Md.Kamola	মোসাঃ কমলা	TR00006	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	22-10-1973	6	5678	300	Male	Married	No	Production
+Mrs.Sufiya	মোসাঃ সুফিয়া	TR00007	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	05-02-1976	6	5678	300	Male	Married	No	Production
+ Mrs.Salma	মোসাঃ সালমা	TR00010	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	12-08-1973	6	5678	300	Male	Married	No	Production
+Mrs.Rojina	মোসাঃ রোজিনা	TR00012	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	19-09-1983	6	5678	300	Male	Married	No	Production
+Nasrin(Koli)	মোসাঃ নাসরিন (কলি)	TR00013	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	04-02-1977	6	5678	300	Male	Married	No	Production
+Shathi Akter	মোসাঃ সাথী আকতার	TR00017	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2013	04-02-1978	6	5678	300	Male	Married	No	Production
+Rahima Akter	মোসাঃ রহিমা বেগম	TR00018	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-02-2013	04-02-1979	6	5678	300	Male	Married	No	Production
+Nozma begum	মোসাঃ নাজমা বেগম	TR00021	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-05-2013	04-02-1980	6	5678	300	Male	Married	No	Production
+Nilufa begum	মোসাঃ নিলুফা বেগম	TR00022	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-05-2013	10-11-1987	6	5678	300	Male	Married	No	Production
+ Morjina Akter	মোসাঃ মর্জিনা আকতার	TR00024	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-05-2013	10-11-1987	6	5678	300	Male	Married	No	Production
+ Aklima Begum	মোসাঃ আকলিমা বেগম	TR00027	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-05-2013	12-12-1975	6	5678	300	Male	Married	No	Production
+Rashida Begum	মোসাঃ রাশিদা বেগম	TR00031	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-11-2013	25-06-1980	6	5678	300	Male	Married	No	Production
+ Rabeya Begum	মোসাঃ রাবেয়া বেগম	TR00032	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-12-2013	03-08-1991	6	5678	300	Male	Married	No	Production
+ Zakia Begum	মোসাঃ জাকিয়া বেগম	TR00033	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-12-2013	28-10-1974	6	5678	300	Male	Married	No	Production
+ Molina Rani	মলিনা রাণী	TR00035	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-11-2013	28-01-1977	6	5678	300	Male	Married	No	Production
+Shirina Akter	মোসাঃ শিরিনা আকতার	TR00037	Trmming	Trmming	None	Gr.Trmming.op	3rd	03-05-2013	15-10-1990	6	5678	300	Male	Married	No	Production
+ Bokul Rani Mondal	 বকুল রাণী  মন্ডল	TR00040	Trmming	Trmming	None	Gr.Trmming.op	3rd	04-02-2013	01-03-1989	6	5678	300	Male	Married	No	Production
+Mrs. Lima akter 	 মোসাঃ লিমা আকতার	TR00041	Trmming	Trmming	None	Gr.Trmming.op	3rd	04-01-2013	12-07-1972	6	5678	300	Male	Married	No	Production
+Mrs. Sefali khatun	মোসাঃ শেফালী খাতুন	TR00042	Trmming	Trmming	None	Gr.Trmming.op	3rd	04-01-2013	02-01-1988	6	5678	300	Male	Married	No	Production
+Mrs. Fatema begum	মোসাঃ ফাতেমা বেগম	TR00044	Trmming	Trmming	None	Gr.Trmming.op	3rd	04-01-2013	06-10-1982	6	5678	300	Male	Married	No	Production
+Mrs. Rina	মোসাঃ রিনা	TR00047	Trmming	Trmming	None	Gr.Trmming.op	3rd	05-02-2013	01-01-1990	6	5678	300	Male	Married	No	Production
+ Rasheda begum	মোসাঃ রাশেদা বেগম	TR00050	Trmming	Trmming	None	Gr.Trmming.op	3rd	05-11-2013	01-06-1978	6	5678	300	Male	Married	No	Production
+Mrs. Momotaj	মোসাঃ মমতাজ বেগম	TR00051	Trmming	Trmming	None	Gr.Trmming.op	3rd	05-11-2013	07-03-1982	6	5678	300	Male	Married	No	Production
+Tania Begum	মোসাঃ তানিয়া আকতার	TR00052	Trmming	Trmming	None	Gr.Trmming.op	3rd	18-05-2013	11-08-1991	6	5678	300	Male	Married	No	Production
+ Hosneara begum	মোসাঃ হোসনেয়ারা বেগম	TR00056	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-01-2013	25-01-1978	6	5678	300	Male	Married	No	Production
+Mrs. Hosneara-2	মোসাঃ হোসনেয়ারা বেগম-২	TR00057	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-01-2013	12-07-1983	6	5678	300	Male	Married	No	Production
+Nasima Begum	মোসাঃ নাসিমা বেগম	TR00058	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-01-2013	01-05-1978	6	5678	300	Male	Married	No	Production
+ Mrs. Kakoli	মোসাঃ কাকলি আকতার	TR00061	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-05-2013	05-01-1984	6	5678	300	Male	Married	No	Production
+Mrs. Khadiza	মোসাঃ খাদিজা বেগম	TR00064	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-11-2013	05-11-1988	6	5678	300	Male	Married	No	Production
+ Mrs. Rojina	মোসাঃ রুজিনা বেগম	TR00065	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-11-2013	03-01-1988	6	5678	300	Male	Married	No	Production
+ Mrs. Nasrin Akter	মোসাঃ নাসরিন আকতার	TR00066	Trmming	Trmming	None	Gr.Trmming.op	3rd	15-06-2013	08-11-1988	6	5678	300	Male	Married	No	Production
+ Mrs. Runo Akter 	মোসাঃ রুনু আকতার	TR00067	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-12-2013	04-02-1982	6	5678	300	Male	Married	No	Production
+ Mrs. Parul Begum	মোসাঃ পারুল বেগম	TR00068	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-09-2013	15-08-1977	6	5678	300	Male	Married	No	Production
+Mrs. Sahanaj	মোসাঃ শাহানাজ বেগম	TR00070	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-11-2013	15-04-1981	6	5678	300	Male	Married	No	Production
+Mrs. Sorifa	মোসাঃ শরিফা  বেগম	TR00071	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-11-2013	31-12-1989	6	5678	300	Male	Married	No	Production
+Momena Akter	মোসাঃ মোমেনা আকতার	TR00072	Trmming	Trmming	None	Gr.Trmming.op	3rd	17-06-2013	03-12-1977	6	5678	300	Male	Married	No	Production
+ Mrs. Sima Akter 	মোসাঃ সিমা আকতার	TR00078	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-06-2013	19-04-1992	6	5678	300	Male	Married	No	Production
+Farjana 	ফারজানা 	TR00080	Trmming	Trmming	None	Gr.Trmming.op	3rd	07-04-2013	19-04-1993	6	5678	300	Female	Married	No	Production
+Mrs. Rekha Akter 	মোসাঃ রেখা আকতার	TR00081	Trmming	Trmming	None	Gr.Trmming.op	3rd	07-09-2013	04-08-1993	6	5678	300	Male	Married	No	Production
+Sopna Begum	মোসাঃ স্বপ্না বেগম	TR00082	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-02-2014	08-01-1990	6	5678	300	Male	Married	No	Production
+Shiuly	মোসাঃ শিউলি	TR00083	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-05-2014	08-01-1991	6	5678	300	Male	Married	No	Production
+Nupur	মোসাঃ নুপুর	TR00084	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-04-2014	08-01-1992	6	5678	300	Male	Married	No	Production
+Ms.Shuma Akter 	মোসাঃ সোমা আক্তার	TR00085	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-04-2014	08-01-1993	6	5678	300	Male	Married	No	Production
+Mrs.Taslima 	মোসাঃ তাসলিমা	TR00086	Trmming	Trmming	None	Gr.Trmming.op	3rd	13-01-2014	05-05-1988	6	5678	300	Male	Married	No	Production
+Farzana 	মোসাঃ ফারজানা 	TR00857	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-10-2014	01-01-1989	6	5678	300	Male	Married	No	Production
+Mrs. Alia begum	মোসাঃ আলিয়া বেগম	TR00088	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-06-2014	01-01-1993	6	5678	300	Male	Married	No	Production
+Mrs.Nahida	মোসাঃ নাহিদা	TR00089	Trmming	Trmming	None	Gr.Trmming.op	3rd	18-01-2014	21-07-1979	6	5678	300	Male	Married	No	Production
+Mrs.Mabiya 	মোসাঃ মাবিয়া	TR00090	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-12-2014	01-10-1992	6	5678	300	Male	Married	No	Production
+Mrs.Kolpona Akter	মোসাঃ কল্পনা আক্তার	TR00091	Trmming	Trmming	None	Gr.Trmming.op	3rd	01-06-2014	06-12-1977	6	5678	300	Male	Married	No	Production
+Mrs.Aklima begum	মোসাঃ আকলিমা বেগম	TR00093	Trmming	Trmming	None	Gr.Trmming.op	3rd	23-01-2014	29-01-1986	6	5678	300	Male	Married	No	Production
+Mrs.Shirina 	মোসাঃ শিরিনা	TR00094	Trmming	Trmming	None	Gr.Trmming.op	3rd	16-01-2014	01-12-1970	6	5678	300	Male	Married	No	Production
+Mrs.Nurnahar 	নুরন্নাহার 	TR00095	Trmming	Trmming	None	Gr.Trmming.op	3rd	25-01-2014	17-03-1981	6	5678	300	Male	Married	No	Production
+Mrs.Lacky	মোঃ লাকী 	TR00097	Trmming	Trmming	None	Gr.Trmming.op	3rd	15-01-2014	13-03-1984	6	5678	300	Male	Married	No	Production
+Moyna Khatun	ময়না	TR00098	Trmming	Trmming	None	Gr.Trmming.op	3rd	21-01-2014	13-03-1985	6	5678	300	Female	Married	No	Production
+Mrs. Shanaj 	মোসাঃ শাহানাজ 	TR00099	Trmming	Trmming	None	Gr.Trmming.op	3rd	18-01-2014	13-03-1986	6	5678	300	Male	Married	No	Production
+Ms.Shida 	মোসাঃ শাহিদা	TR00100	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-01-2014	25-01-1993	6	5678	300	Male	Married	No	Production
+Md.Jahanara	মোসাঃ জাহানারা	TR00101	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-01-2014	23-02-1984	6	5678	300	Male	Married	No	Production
+Tahamina  Begum	তাহামিনা বেগম	TR00105	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-11-2014	23-02-1985	6	5678	300	Female	Married	No	Production
+Nurvnu	নুরভানু 	TR00107	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-05-2014	23-02-1986	6	5678	300	Female	Married	No	Production
+Mrs.Rina Akter 	রিনা আক্তার 	TR00109	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-08-2014	23-02-1987	6	5678	300	Female	Married	No	Production
+Mrs.Moriom	মোসাঃ মরিয়ম	TR00111	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	23-02-1988	6	5678	300	Female	Married	No	Production
+Mrs.Rajiya	মোসাঃ রাজিয়া	TR00112	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	28-08-1977	6	5678	300	Female	Married	No	Production
+Mohinur begum	মোসাঃ মাহিনুর বেগম	TR00113	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	06-12-1972	6	5678	300	Female	Married	No	Production
+Jorina begum	মোসাঃ জরিনা বেগম	TR00114	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	21-07-1975	6	5678	300	Female	Married	No	Production
+Munni begum	মোসাঃ মুন্নি বেগম	TR00115	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	03-07-1985	6	5678	300	Female	Married	No	Production
+Mrs.Nasrien	মোসাঃ নাসরিন বেগম	TR00116	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	03-07-1986	6	5678	300	Female	Married	No	Production
+Mrs.Aklima Begum	মোসাঃ আকলিমা বেগম	TR00117	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-04-2014	04-03-1987	6	5678	300	Female	Married	No	Production
+Mrs.Mukta begum	মোসাঃ মুক্তা বেগম	TR00118	Trmming	Trmming	None	Gr.Trmming.op	3rd	02-03-2014	26-02-1991	6	5678	300	Female	Married	No	Production
+Ms.Salina begum	মোসাঃ সেলিনা বেগম	TR00119	Trmming	Trmming	None	Gr.Trmming.op	3rd	15-02-2014	15-03-1988	6	5678	300	Female	Married	No	Production
+Mrs. Laizu 	মোসাঃ লাইজু	TR00121	Trmming	Trmming	None	Gr.Trmming.op	3rd	04-03-2014	03-04-1982	6	5678	300	Female	Married	No	Production
+Mrs.Jahanara 	জাহেনারা 	TR00122	Trmming	Trmming	None	Gr.Trmming.op	3rd	06-07-2014	03-04-1983	6	5678	300	Female	Married	No	Production
+Md. Miznur Rahaman	মোঃ মিজানুর রহমান 	TR00038	Trmming	Trmming	None	Distributor	3rd	03-03-2013	01-01-1977	6	5678	300	Male	Married	No	Production
+Mrs.Azziun begum	মোসাঃ আজিজুন বেগম 	M000001	Mending	Mending	None	Gr.Mending.op	3rd	23-02-2013	06-06-1969	6	5678	300	Female	Married	No	Production
+Mrs. Hosneara begum	 মোসাঃ হোসনেয়ারা বেগম	M000003	Mending	Mending	None	Gr.Mending.op	3rd	23-02-2013	01-10-1988	6	5678	300	Female	Married	No	Production
+Fatema begum	মোসাঃ ফাতেমা বেগম	M000004	Mending	Mending	None	Gr.Mending.op	3rd	23-02-2013	04-01-1988	6	5678	300	Female	Married	No	Production
+Mrs.Sorifa begum	মোসাঃ শরিফা বেগম	M000005	Mending	Mending	None	Gr.Mending.op	3rd	23-02-2013	31-02-91	6	5678	300	Female	Married	No	Production
+Mrs.Yesmin Akter 	মোসাঃ ইয়াসমিন আকতার	M000011	Mending	Mending	None	Gr.Mending.op	3rd	03-03-2013	12-01-1983	6	5678	300	Female	Married	No	Production
+Mrs.Yasmin begum	মোসাঃ ইয়াসমিন বেগম	M000012	Mending	Mending	None	Gr.Mending.op	3rd	03-11-2013	03-06-1995	6	5678	300	Female	Married	No	Production
+Mrs.Anowara begum	মোসাঃ আনোয়ারা বেগম	M000015	Mending	Mending	None	Gr.Mending.op	3rd	19-03-2013	11-10-1967	6	5678	300	Female	Married	No	Production
+Mrs.Shahananj Akter 	মোসাঃ শাহানাজ  আকতার	M000016	Mending	Mending	None	Gr.Mending.op	3rd	19-03-2013	01-05-1988	6	5678	300	Female	Married	No	Production
+Mrs.Roksana Akter	 মোসাঃ রোকসানা আকতার	M000017	Mending	Mending	None	Gr.Mending.op	3rd	03-12-2013	05-07-1987	6	5678	300	Female	Married	No	Production
+Mrs.Hahi begum	মোসাঃ হাসি বেগম	M000020	Mending	Mending	None	Gr.Mending.op	3rd	20-04-2013	25-10-1989	6	5678	300	Female	Married	No	Production
+Mrs.Rubiya begum	মোসাঃ রুবিয়া বেগম	M000024	Mending	Mending	None	Gr.Mending.op	3rd	17-04-2013	25-02-1990	6	5678	300	Female	Married	No	Production
+Mrs.Helena Akter 	মোসাঃ হেলেনা  আকতার	M000028	Mending	Mending	None	Gr.Mending.op	3rd	05-09-2013	11-01-1989	6	5678	300	Female	Married	No	Production
+Mrs.Soniya Akter 	 মোসাঃ সোনিয়া আকতার	M000030	Mending	Mending	None	Gr.Mending.op	3rd	13-05-2013	11-01-1990	6	5678	300	Female	Married	No	Production
+Mrs.Kohinur Akter 	মোসাঃ কহিনুর আকতার	M000033	Mending	Mending	None	Gr.Mending.op	3rd	13-06-2013	24-09-1972	6	5678	300	Female	Married	No	Production
+Mrs.Sumita Howlader 	সুমিতা হাওলাদার	M000035	Mending	Mending	None	Gr.Mending.op	3rd	07-08-2013	15-06-1985	6	5678	300	Female	Unmarried	No	Production
+Mrs.Najma begum	মোসাঃ নাজমা বেগম	M000036	Mending	Mending	None	Gr.Mending.op	3rd	07-11-2013	20-06-1984	6	5678	300	Female	Married	No	Production
+Mrs.Nurunahar 	মোসাঃ নুরুন্নাহার	M000038	Mending	Mending	None	Gr.Mending.op	3rd	09-01-2013	01-01-1988	6	5678	300	Female	Married	No	Production
+Mrs.Rahima begum	মোসাঃ রাহিমা বেগম	M000039	Mending	Mending	None	Gr.Mending.op	3rd	09-11-2013	17-06-1975	6	5678	300	Female	Married	No	Production
+Mrs.Roksana 	মোসাঃ  রেকসোনা	M000040	Mending	Mending	None	Gr.Mending.op	3rd	09-12-2013	20-11-1993	6	5678	300	Female	Unmarried	No	Production
+Mrs.Yanur begum	মোসাঃ ইয়ানুর বেগম	M000041	Mending	Mending	None	Gr.Mending.op	3rd	09-12-2013	07-09-1968	6	5678	300	Female	Married	No	Production
+Mrs.Hazera begum	মোসাঃ হাজেরা বেগম	M000042	Mending	Mending	None	Gr.Mending.op	3rd	09-12-2013	17-06-1983	6	5678	300	Female	Married	No	Production
+Mrs.Fatema begum	মোসাঃ ফাতেমা বেগম	M000046	Mending	Mending	None	Gr.Mending.op	3rd	09-11-2013	13-09-1989	6	5678	300	Female	Married	No	Production
+Mrs.Shuhiy Akter 	মোসাঃ সূখী আক্তার	M000052	Mending	Mending	None	Gr.Mending.op	3rd	01-06-2014	07-01-1995	6	5678	300	Female	Unmarried	No	Production
+Mrs. Nupur  	মোসাঃ নুপুর 	M000054	Mending	Mending	None	Gr.Mending.op	3rd	01-11-2014	01-01-1989	6	5678	300	Female	Married	No	Production
+Mrs.Ripa 	 মোসাঃ রিপা	M000055	Mending	Mending	None	Gr.Mending.op	3rd	19-01-2014	26-08-1992	6	5678	300	Female	Married	No	Production
+Mrs. Amena Khun	মোসাঃ আমেনা খাতুন	M000057	Mending	Mending	None	Gr.Mending.op	3rd	10-04-1988	26-08-1993	6	5678	300	Female	Married	No	Production
+Mrs.Jahanara 	মোসাঃ জাহানারা	M000058	Mending	Mending	None	Gr.Mending.op	3rd	22-01-2014	06-08-1982	6	5678	300	Female	Married	No	Production
+Mrs.Bithi Akter 	মোসাঃ বিথী আক্তার	M000069	Mending	Mending	None	Gr.Mending.op	3rd	18-01-2014	01-09-1988	6	5678	300	Female	Married	No	Production
+Mrs.Nilima Rani	নিলীমা রানী	M000062	Mending	Mending	None	Gr.Mending.op	3rd	03-06-2014	02-01-1983	6	5678	300	Female	Married	No	Production
+Mrs.Ripa	মোসাঃ রিপা	M000063	Mending	Mending	None	Gr.Mending.op	3rd	02-05-2014	20-11-1995	6	5678	300	Female	Unmarried	No	Production
+Mrs.Chameli Begum	মোসাঃ চামেলী বেগম	M000066	Mending	Mending	None	Gr.Mending.op	3rd	02-02-2014	08-10-1982	6	5678	300	Female	Married	No	Production
+Mrs.Nurjahan	মোসাঃ নুরজাহান	M000070	Mending	Mending	None	Gr.Mending.op	3rd	04-12-2014	18-06-1987	6	5678	300	Female	Married	No	Production
+Mrs.Morzina 	মোসাঃ মর্জিনা	M000071	Mending	Mending	None	Gr.Mending.op	3rd	04-12-2014	18-06-1988	6	5678	300	Female	Married	No	Production
+Mrs.Jannatul potul	মোসাঃ জান্নাতুল(পুতুল)	M000072	Mending	Mending	None	Gr.Mending.op	3rd	04-12-2014	17-01-1994	6	5678	300	Female	Married	No	Production
+Mrs.Mochirun	মছিরুন 	M000073	Mending	Mending	None	Mending.op	3rd	0-04-14	17-01-1995	6	5678	300	Female	Married	No	Production
+Mrs.Salma begum	সালমা বেগম	M000074	Mending	Mending	None	Mending.op	3rd	0-04-15	17-01-1996	6	5678	300	Female	Married	No	Production
+Mrs.Amena Begum	মোসাঃ আমেনা বেগম	M000075	Mending	Mending	None	Mending.op	3rd	05-03-2014	17-01-1997	6	5678	300	Female	Married	No	Production
+Mrs.Moriyom	মোসাঃ মরিয়ম খাতুন	M000076	Mending	Mending	None	Mending.op	3rd	05-03-2014	18-09-1995	6	5678	300	Female	Married	No	Production
+Mrs.Jahanara 	মোসাঃ জাহানারা	M000077	Mending	Mending	None	Mending.op	3rd	05-06-2014	18-09-1996	6	5678	300	Female	Married	No	Production
+Mrs.Rehana 	মোসাঃ  রেহেনা	M000078	Mending	Mending	None	Mending.op	3rd	05-10-2014	08-02-1992	6	5678	300	Female	Unmarried	No	Production
+Mrs.Rina Akter 	মোসাঃ রিনা আক্তার	M000079	Mending	Mending	None	Mending.op	3rd	19-05-2014	15-02-1993	6	5678	300	Female	Married	No	Production
+Mrs.Asma	মোছাঃ আছমা 	M000080	Mending	Mending	None	Mending.op	3rd	22-05-2014	15-02-1994	6	5678	300	Female	Married	No	Production
+Mrs.Shuly	শিউলী 	M000081	Mending	Mending	None	Mending.op	3rd	19-05-2014	15-02-1995	6	5678	300	Female	Married	No	Production
+Mrs.Sumi begum	সুমী বেগম	M000082	Mending	Mending	None	Mending.op	3rd	19-05-2014	15-02-1996	6	5678	300	Female	Married	No	Production
+Mrs.Lutfa begum	লুৎফা বেগম	M000083	Mending	Mending	None	Mending.op	3rd	19-05-2014	15-02-1997	6	5678	300	Female	Married	No	Production
+Mrs.Muslima	মুসলিমা	M000084	Mending	Mending	None	Mending.op	3rd	19-05-2014	15-02-1998	6	5678	300	Female	Married	No	Production
+Mrs.Jamila	জামিলা আক্তার 	M000085	Mending	Mending	None	Mending.op	3rd	19-05-2014	15-02-1999	6	5678	300	Female	Married	No	Production
+Mrs.Sarmin	শারমিন 	M000086	Mending	Mending	None	Mending.op	3rd	19-05-2014	28-09-1994	6	5678	300	Female	Married	No	Production
+Md.Billal Hossain	মোঃ  বিল্লাল হোসেন	IR00002	Iron	Iron	None	Finishing Iron man	2nd	18-03-2013	03-11-1983	6	6420	None	Female	Married	No	Production
+Md.Abu Nasir	মোঃ আবু নাসির	IR00006	Iron	Iron	None	Finishing Iron man	2nd	18-03-2013	17-07-1988	6	6420	None	Female	Married	No	Production
+Md.Abu Hanif	মোঃ আবু হানিফ	IR00003	Iron	Iron	None	Finishing Iron man	2nd	18-03-2013	17-07-1989	6	6420	None	Female	Married	No	Production
+Md. Ebrahim	মোঃ ইব্রাহিম	IR00013	Iron	Iron	None	Finishing Iron man	2nd	04-01-2013	01-01-1988	6	6420	None	Female	Married	No	Production
+Md.Sabbir	মোঃ সাব্বির	IR00015	Iron	Iron	None	Finishing Iron man	2nd	04-01-2013	15-05-1995	6	6420	None	Female	Unmarried	No	Production
+Md.Sakkil 	মোঃ শাকিল 	IR00016	Iron	Iron	None	Finishing Iron man	2nd	04-02-2013	01-02-1993	6	6420	None	Female	Married	No	Production
+Md.Sohel Khalifa	মোঃ সোহেল খলিফা	IR00018	Iron	Iron	None	Finishing Iron man	2nd	04-08-2013	05-01-1988	6	6420	None	Female	Unmarried	No	Production
+Md.Suboun	 মোঃ সুবাহান	IR00027	Iron	Iron	None	Finishing Iron man	2nd	04-09-2013	02-03-1990	6	6420	None	Female	Married	No	Production
+Md.Riyaj	মোঃ রিয়াজ	IR00036	Iron	Iron	None	Finishing Iron man	2nd	05-07-2013	05-07-1989	6	6420	None	Female	Married	No	Production
+Md.Milon howlader 	মোঃ মিলন হাওলাদার	IR00039	Iron	Iron	None	Finishing Iron man	2nd	19-05-2013	01-01-1993	6	6420	None	Female	Unmarried	No	Production
+Md.Suboz mida	 মোঃ সবুজ মৃধা	IR00045	Iron	Iron	None	Finishing Iron man	2nd	06-01-2013	04-02-1987	6	6420	None	Female	Unmarried	No	Production
+Md.Rahomn Sheikh	মোঃ রহমান শেখ	IR00050	Iron	Iron	None	Finishing Iron man	2nd	06-05-2013	04-05-1981	6	6420	None	Female	Married	No	Production
+Md.Rahomat Ali	মোঃ রহমত আলি	IR00053	Iron	Iron	None	Finishing Iron man	2nd	16-06-2013	23-09-1979	6	6420	None	Female	Married	No	Production
+Md.Jafor Ali	মোঃ জাফর আলি	IR00061	Iron	Iron	None	Finishing Iron man	2nd	18-06-2013	04-10-1981	6	6420	None	Female	Married	No	Production
+Md.Rofikul Islam	মোঃ রফিকুল ইসলাম	IR00064	Iron	Iron	None	Finishing Iron man	2nd	07-01-2013	24-05-1981	6	6420	None	Female	Married	No	Production
+Md.Jahed Mollah	মোঃ জাহিদ মোল্লা	IR00075	Iron	Iron	None	Finishing Iron man	2nd	18-08-2013	24-05-1982	6	6420	None	Female	Married	No	Production
+Md.Yousuf 	মোঃ ইউসুফ	IR00077	Iron	Iron	None	Finishing Iron man	2nd	24-08-2013	01-09-1992	6	6420	None	Female	Married	No	Production
+Mrs.Salam	মোঃ সালাম	IR00078	Iron	Iron	None	Finishing Iron man	2nd	09-05-2013	03-05-1988	6	6420	None	Female	Married	No	Production
+Md.Billal hossain	মোঃ বিল্লাল হোসেন	IR00089	Iron	Iron	None	Finishing Iron man	2nd	13-01-2014	20-03-1988	6	6420	None	Female	Unmarried	No	Production
+Md.Sohag	মোঃ সোহাগ	IR00090	Iron	Iron	None	Finishing Iron man	2nd	13-01-2014	02-03-1983	6	6420	None	Female	Married	No	Production
+Md.EIkram	মোঃ ইকরাম মিয়া 	IR00100	Iron	Iron	None	Finishing Iron man	2nd	02-01-2014	18-08-1987	6	6420	None	Female	Married	No	Production
+Md.Rofikul Islam	মোঃ রফিকুল ইসলাম	IR00102	Iron	Iron	None	Finishing Iron man	2nd	02-04-2014	03-07-1979	6	6420	None	Male	Married	No	Production
+Md.Jamal Mai	মোঃ জামাল মিয়া	IR00104	Iron	Iron	None	Finishing Iron man	2nd	20-02-2014	01-01-1990	6	6420	None	Male	Married	No	Production
+Md.Ripon	মোঃ রিপন	IR00109	Iron	Iron	None	Finishing Iron man	2nd	03-04-2014	01-01-1991	6	6420	None	Male	Married	No	Production
+Md.Boscu mida	মোঃ বাচ্চু মৃধা	IR00110	Iron	Iron	None	Finishing Iron man	2nd	03-02-2014	01-01-1992	6	6420	None	Male	Married	No	Production
+Md.Shohag	মোঃ সোহাগ	IR00111	Iron	Iron	None	Finishing Iron man	2nd	04-02-2014	02-01-1982	6	6420	None	Male	Unmarried	No	Production
+Md.Mominul islam	মোঃ মমিনুল ইসলাম	IR00112	Iron	Iron	None	Finishing Iron man	2nd	04-09-2014	02-01-1988	6	6420	None	Male	Married	No	Production
+Md.Rashadul	মোঃ রাসেদুল	IR00114	Iron	Iron	None	Finishing Iron man	2nd	04-09-2014	02-01-1989	6	6420	None	Male	Married	No	Production
+Md.Ujjul Gazi	মোঃ উজ্জল গাজী	IR00115	Iron	Iron	None	Finishing Iron man	2nd	04-09-2014	02-01-1990	6	6420	None	Male	Married	No	Production
+Md.Mohoshin	মোঃ মহসিন	IR00116	Iron	Iron	None	Finishing Iron man	2nd	22-05-2014	06-01-1990	6	6420	None	Male	Married	No	Production
+Md.Boshir Madbur 	মোঃ বশির মাদবর	IR00117	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1986	6	6420	None	Male	Unmarried	No	Production
+Md. Riyag	 মোঃ রিয়াজ	IR00118	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1987	6	6420	None	Male	Married	No	Production
+Md. Abul Bachir	 মোঃ আবুল বাসার 	IR00119	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1988	6	6420	None	Male	Married	No	Production
+Md. Liton	 মোঃ লিটন 	IR00120	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1989	6	6420	None	Male	Married	No	Production
+Md. Kowser	 মোঃ কাওসার 	IR00121	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1990	6	6420	None	Male	Married	No	Production
+Md. Sochil Howlader	 সুশিল হাওলাদার 	IR00122	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1991	6	6420	None	Male	Married	No	Production
+Md. Jahidul	 মোঃ জহেদুুল 	IR00123	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1987	6	6420	None	Male	Married	No	Production
+Md. Naseir	মোঃ নাছির 	IR00124	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1988	6	6420	None	Male	Married	No	Production
+Md.Jamal	মোঃ জামাল 	IR00125	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1989	6	6420	None	Male	Married	No	Production
+Md. Nurjaman	 মোছঃ নুরুজ্জামান	IR00126	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1990	6	6420	None	Male	Married	No	Production
+Md.Mahadi hassain	মোছাঃ মেহেদী 	IR00127	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1991	6	6420	None	Male	Married	No	Production
+Md.Mahadi hassain	মোছাঃ মেহেদী 	IR00128	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1992	6	6420	None	Male	Married	No	Production
+Md. Shahajan	মোছাঃ শাহাজাহান	IR00129	Iron	Iron	None	Finishing Iron man	2nd	25-05-2014	12-05-1993	6	6420	None	Male	Married	No	Production
+Md.Anowar Hossain	মোঃ আনোয়ার হোসেন	SW00003	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	18-03-2013	02-11-1993	6	5678	300	Female	Unmarried	No	Production
+Mrs.Shobita Rani	মোছাঃ সবিতা রাণী	SW00004	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	04-01-2013	01-01-1987	6	5678	300	Male	Married	No	Production
+Mrs.Jinnat	মোসাঃ জিন্নাত 	SW00010	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	04-01-2013	02-02-1987	6	5678	300	Male	Unmarried	No	Production
+Mrs.Aklima Akter 	মোসাঃ আকলিমা আকতার	SW00025	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	21-04-2013	02-02-1988	6	5678	300	Male	Married	No	Production
+Mrs.Aklima Begum	মোসাঃ আকলিমা বেগম	SW00029	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	13-04-2013	01-01-1987	6	5678	300	Male	Married	No	Production
+Mrs.Nasima akter 	মোসাঃ নাসিমা আকতার	SW00030	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	13-04-2013	18-04-1995	6	5678	300	Male	Married	No	Production
+Mrs.Lovly Akter 	মোসাঃ লাভলী  আকতার	SW00031	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	20-04-2013	17-12-1984	6	5678	300	Male	Married	No	Production
+Mrs.Sakil Howlader 	মোঃ শাকিল হাওলাদার	SW00082	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	20-08-2013	08-06-1992	6	5678	300	Male	Unmarried	No	Production
+Mrs.Nayon islam	মোঃ নয়ন ইসলাম	SW00084	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	09-01-2013	02-01-1992	6	5678	300	Male	Unmarried	No	Production
+Mrs.Eysmin	মোসাঃ ইয়াসমিন	SW00099	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	11-09-2013	23-12-1987	6	5678	300	Male	Married	No	Production
+Mrs.Taslima Begum	মোসাঃ তাসলিমা বেগম	SW00100	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	11-10-2013	02-01-1988	6	5678	300	Male	Married	No	Production
+Mrs.Moriom Akter 	মোসাঃ মরিয়ম আক্তার	SW00101	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	20-11-2013	06-01-1989	6	5678	300	Male	Unmarried	No	Production
+Mrs.Shamim 	মোঃ শামিম	SW00104	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	12-09-2013	01-03-1991	6	5678	300	Male	Unmarried	No	Production
+Mrs.Shochoy mandol	মোঃ সঞ্জয় মন্ডল	SW00109	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	01-02-2014	01-03-1992	6	5678	300	Male	Married	No	Production
+Mrs.Nipu Begum	মোসাঃ নিপু বেগম	SW00114	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	25-01-2014	01-02-1989	6	5678	300	Male	Married	No	Production
+Mrs.Atoyer Hossin	মোঃ আতোয়ার হোসেন	SW00115	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	05-12-2014	01-02-1990	6	5678	300	Female	Married	No	Production
+Mrs.Runa Begum	মোসাঃ রুনা বেগম	SW00116	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	05-12-2014	01-02-1991	6	5678	300	Male	Married	No	Production
+Mrs. Seuly	মোছাঃ শিউলি	SW00117	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	25-01-2014	01-02-1992	6	5678	300	Female	Married	No	Production
+Mrs.Muslima	 মোছাঃ মুসলিমুনা	SW00118	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	05-12-2014	01-02-1985	6	5678	300	Female	Married	No	Production
+Mrs.Mahinur	 মোছা ঃ মাহিনুর 	SW00119	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	05-12-2014	01-02-1986	6	5678	300	Female	Married	No	Production
+Md. Arif	 মোঃ আরিফ	SW00120	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	25-01-2016	01-02-1987	6	5678	300	Female	Married	No	Production
+Mrs.Taslima Begum	 মোঃ তাছলিমা বেগম	SW00121	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	05-12-2014	01-02-1988	6	5678	300	Female	Married	No	Production
+Mrs.Nurjahan	মোঃ নুরজ্জাহান	SW00122	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	05-12-2014	01-02-1989	6	5678	300	Female	Married	No	Production
+Mrs.Pliy Rani	 মোছাঃ পলি রানী 	SW00123	Sewing	Sewing	None	Gr.Sewing mac.op	2nd	25-01-2014	01-02-1990	6	5678	300	Female	Married	No	Production
+Mrs.Nasima begum	মোসাঃ নাসিমা বেগম	Wi00002	Winding	Winding	None	Gr.winding mac.op	1st	03-03-2013	06-06-1982	6	5678	300	Female	Married	No	Production
+Mrs.Bokul rani	 মোঃ  বকুল রানী	Wi00003	Winding	Winding	None	Gr.winding mac.op	1st	03-04-2013	06-06-1983	6	5678	300	Female	Married	No	Production
+Mrs.Sufiya Begum	মোসাঃ সুফিয়া বেগম	Wi00004	Winding	Winding	None	Gr.winding mac.op	1st	25-03-2013	02-02-1974	6	5678	300	Female	Married	No	Production
+Mrs.Rozina 	মোসাঃ রোজিনা	Wi00006	Winding	Winding	None	Gr.winding mac.op	1st	25-03-2013	02-02-1975	6	5678	300	Female	Married	No	Production
+Mrs. Miss Begum	 মোছাঃ মিসেস বেগম	Wi00007	Winding	Winding	None	Gr.winding mac.op	1st	27-03-2013	15-11-1977	6	5678	300	Female	Married	No	Production
+Mrs.Nargis Begum	মোসাঃ নারগিছ বেগম	Wi00008	Winding	Winding	None	Gr.winding mac.op	1st	28-03-2013	25-08-1971	6	5678	300	Female	Married	No	Production
+Mrs.Nasima	মোসাঃ নাসিমা  	Wi00010	Winding	Winding	None	Gr.winding mac.op	1st	04-03-2014	15-08-1991	6	5678	300	Female	Married	No	Production
+Mrs.Dulali 	মোসাঃ দুলিয়া	Wi00011	Winding	Winding	None	Gr.winding mac.op	1st	19-04-2014	05-03-1983	6	5678	300	Female	Married	No	Production
+Mrs.Mim Khatun	মোসাঃ মিম খাতুন	Wi00012	Winding	Winding	None	Gr.winding mac.op	1st	05-03-2014	14-06-1992	6	5678	300	Female	Married	No	Production
+Mrs.Rubi begum	মোসাঃ রুবি বেগম	Wi00013	Winding	Winding	None	Gr.winding mac.op	1st	13-05-2014	14-06-1985	6	5678	300	Female	Married	No	Production
+Mrs.Kona Akter 	মোসাঃ কনা আক্তার	Wi00014	Winding	Winding	None	Gr.winding mac.op	1st	13-05-2014	14-06-1986	6	5678	300	Female	Married	No	Production
+Mrs.Johsna Begum	মোসাঃ জোসনা বেগম	Wi00015	Winding	Winding	None	Gr.winding mac.op	1st	13-05-2014	14-06-1987	6	5678	300	Female	Married	No	Production
+Mrs. Sima Begum	মোসাঃ সিমা বেগম	Wi00016	Winding	Winding	None	Gr.winding mac.op	1st	15-05-2014	14-06-1988	6	5678	300	Female	Married	No	Production
+Mrs.Parul Begum	মোসাঃ পারুল বেগম	Wi00017	Winding	Winding	None	Gr.winding mac.op	1st	18-05-2014	02-02-1964	6	5678	300	Female	Married	No	Production
+Mrs.Najma 	মোসাঃ নাজমা	WI00018	Winding	Winding	None	Gr.winding mac.op	1st	22-05-2014	15-02-1985	6	5678	300	Female	Married	No	Production
+Mrs.Nasrin	মোসাঃ নাছরিন	WI00019	Winding	Winding	None	Gr.winding mac.op	1st	24-05-2014	01-01-1981	6	5678	300	Female	Married	No	Production
+Mrs.Shahanaz	মোঃ শাহানাজ 	WI00020	Winding	Winding	None	Gr.winding mac.op	1st	22-05-2015	01-01-1982	6	5678	300	Female	Married	No	Production
+Md. Eradul  islam 	মোঃ এরাদুল ইসলাম	WI00046	Winding	Winding	None	Supervaisor 	1st	05-03-2014	25-12-1994	6	5678	300	Male	Unmarried	No	Production
+Md. Safiqul islam 	মোঃ সফিকুল ইসলাম	WI00117	Winding	Winding	None	Controlor	1st	23-02-2013	07-01-1979	6	5678	300	Male	Married	No	Production
+Md. Nashir  Uddin	 মোঃ নাছির উদ্দিন 	WI00141	Winding	Winding	None	Stor Ass.	1st	02-01-2014	25-01-1985	6	5678	300	Male	Married	No	Production
+Md. Miznur Rahaman	মোঃ মিজানুর রহমান 	WI00119	Winding	Winding	None	Stor  man	1st	02-01-2014	25-01-1986	6	5678	300	Male	Married	No	Production
+Md.Ohad sikder	 মোঃ ওহেদ সিকদ্দার	WI00001	Winding	Winding	None	Store Asst	1st	06-07-2013	18-03-1958	4	7500	300	Male	Married	No	Fixed
+Md.Shohidul Islam	মো: শহিদুল ইসলাম	WI00005	Winding	Winding	None	Loder	1st 	02-02-2013	01-01-1988	4	7500	300	Male	Unmarried	No	Fixed
+Md.Subal Kumar	সবল কুমার 	WI000011	Winding	Winding	None	Loder	1st	02-02-2013	08-06-1989	4	6800	300	Male	Married	No	Fixed
+Md.Kobir	কবির হোসেন 	WI00009	Winding	Winding	None	Loder	1st	06-07-2014	08-06-1990	4	6800	300	Male	Married	No	Fixed
+Md.Sohel 	মোঃ সোহেল 	WI00031	Winding	Winding	None	Loder	1st	02-02-2013	08-06-1991	4	6800	300	Male	Married	No	Fixed
+Md. Suman Mia	মোঃ সুমন মিয়া 	WI00032	Winding	Winding	None	Store Asst	1st	05-07-2013	18-04-1993	4	5700	300	Male	Married	No	Fixed
+Md. Babul 	মোঃ বাবুল  	WI00033	Winding	Winding	None	Store Asst	1st	01-04-2013	08-06-1991	4	5700	300	Male	Married	No	Fixed
+Md.Sk. Ripon	 মোঃ শেখ রিপন	WI00034	Winding	Winding	None	Loder	1st	15-09-2013	01-01-1983	4	6800	300	Male	Married	No	Fixed
+Md.Razia  begum	মোসাঃ রাজিয়া বেগম	WI00021	Winding	Winding	None	Winding Mac op	1st	12-01-2013	10-01-1968	4	7000	300	Male	Married	No	Fixed
+Almas Hossain	আলমাস হোসেন	WI00022	Winding	Winding	None	Winding Loder	1st	01-04-2014	03-02-1980	4	6500	300	Male	Married	No	Fixed
+Md. Aslam Hossain	মোঃ আসলাম হোসেন	WI00023	Winding	Winding	None	Loder	1st	02-01-2014	03-02-1981	4	6500	300	Male	Married	No	Fixed
+Md. Tapos Ronjon das 	তপস রঞ্জন দাস	WI00024	Winding	Winding	None	Loder	1st	04-12-2014	01-11-1986	4	6500	300	Male	Married	No	Fixed
+Md. Mothiar Rahaman	মোঃ মতিয়ার রহমান	WI00025	Winding	Winding	None	Loder	1st	05-04-2014	22-10-1986	4	7000	300	Male	Married	No	Fixed
+Md. Ponir	মোঃ পনির 	WI00026	Winding	Winding	None	Loder	1st	14-05-2014	02-01-1992	4	6500	300	Male	Married	No	Fixed
+Md. Hasan 	মোঃ হাসান	WI00027	Winding	Winding	None	Loder	1st	14-05-2014	02-01-1993	4	6500	300	Male	Married	No	Fixed
+Md. Roton mia	মোঃ রতন মিয়া	WI00028	Winding	Winding	None	Loder	1st	17-05-2014	03-05-1971	4	6500	300	Male	Married	No	Fixed
+Md. Monir Islam	মনির ইসলাম	WI00029	Winding	Winding	None	Loder	1st	06-07-2014	03-05-1972	4	6500	300	Male	Married	No	Fixed
+Md. Fazlu Padda	ফজলু 	WI00030	Winding	Winding	None	Loder	1st	16-06-2014	03-05-1973	4	6500	300	Male	Married	No	Fixed
+Mrs.Aklima	মোসাঃ আকলিমা বেগম	OS00004	Office 	Office 	None	Women Chiaker 	None	02-02-2013	06-07-1980	4	5650	None	Male	Married	No	Fixed
+ Rina Rani	রিনা রাণী	OS00010	Office 	Office 	None	Susiper 	None	02-12-2013	25-12-1982	4	5650	None	Male	Married	No	Fixed
+Md.Yousub Ali	মোঃ ইউসুফ আলি	OS00011	Office 	Office 	None	Gardener	None	02-03-2013	23-07-1952	4	5650	None	Male	Married	No	Fixed
+Md.Shajahan 	মোঃ শাহাজাহান 	OS00012	Office 	Office 	None	Gardener	None	02-11-2013	28-01-1952	4	5650	None	Male	Married	No	Fixed
+Mrs. Anowara Begum	মোসাঃ আনোয়ারা বেগম	OS00015	Office 	Office 	None	Cliner	None	03-02-2013	20-10-1964	4	5650	None	Male	Married	No	Fixed
+Mrs. Rashida Khatun	মোসাঃ রাশিদা বেগম	OS00023	Office 	Office 	None	Cliner	None	04-02-2013	09-11-1967	4	5650	None	Male	Married	No	Fixed
+Nurjahan Begum	মোসাঃ নুরজাহান বেগম	OS00030	Office 	Office 	None	Cliner	None	06-01-2013	01-01-1976	4	5650	None	Male	Married	No	Fixed
+Md.Nisa Sutradhor	নিশা সূত্রধর	OS00034	Office 	Office 	None	Cliner	None	09-07-2013	24-10-1986	4	5650	None	Male	Married	No	Fixed
+Abdul kuddus	মোঃ আব্দুল কুদ্দুস	OS00036	Office 	Office 	None	Cliner	None	11-02-2013	04-03-1952	4	5650	None	Male	Married	No	Fixed
+Ms.Kohinur Bibi	মোসাঃ কহিনুর বিবি	OS00039	Office 	Office 	None	Cliner	None	12-10-2013	06-03-1967	4	5650	None	Male	Married	No	Fixed
+Shuly Akter	মোসাঃ শিউলি	OS00040	Office 	Office 	None	Cliner	None	01-07-2014	07-11-1967	4	5650	None	Male	Married	No	Fixed
+Marufa begum	মোসাঃ মারুফা	OS00041	Office 	Office 	None	Cliner	None	01-06-2014	19-02-1973	4	5650	None	Male	Married	No	Fixed
+Bokula Khatun	মোসাঃ বকুলা খাতুন	OS00042	Office 	Office 	None	Cliner	None	02-02-2014	06-03-1968	4	5650	None	Male	Married	No	Fixed
+Bisnu  Ram Roud	বিষ্ণ রাম রাউদ	OS00044	Office 	Office 	None	Susiper 	None	04-01-2014	14-02-1976	4	5650	None	Male	Married	No	Fixed
+Jaheda Khatun	মোসাঃ জাহেদা খাতুন	OS00045	Office 	Office 	None	Cliner	None	15-04-2014	03-11-1982	4	5650	None	Male	Married	No	Fixed
+Shrina begum	মোসাঃ শিরিনা বেগম	OS00046	Office 	Office 	None	Cliner	None	05-10-2014	05-10-1987	4	5650	None	Male	Married	No	Fixed
+Anowara Begum	মোছাঃ আনোয়ারা বেগম	OS00047	Office 	Office 	None	Cliner	None	05-08-2014	05-10-1988	4	5650	None	Male	Married	No	Fixed
+Chan mia 	মোঃ চাঁন মিয়া	OS00048	Office 	Office 	None	Cliner	None	15-05-2014	11-06-1959	4	5650	None	Male	Married	No	Fixed
+Nurunnahar begum	মোসাঃ নুরুন্নাহার বেগম	OS00049	Office 	Office 	None	Cliner	None	15-05-2014	10-05-1975	4	5650	None	Male	Married	No	Fixed
+Md. Shafali 	মোঃ শেফালী বেগম 	K000020	Knitting	Knitting	None	Distributor Asst.	5th	20-06-2013	10-05-1977	4	5300	300	Male	Married	No	Fixed
+Md. Aoyub Ali Howader	মোঃ আইয়ব  আলী হাওলাদার 	K000025	Knitting	Knitting	None	Distributor Asst.	5th	09-07-2013	21-06-1995	4	5300	300	Male	Married	No	Fixed
+Mrs. Rebeka	রেবেকা 	K000027	Knitting	Knitting	None	Mending op	5th	12-04-2013	04-01-1977	4	5700	300	Male	Married	No	Fixed
+Mrs. Urmmi Kulsum 	উর্মি কুলসুম	K000028	Knitting	Knitting	None	Mending op	5th	02-04-2014	15-05-1996	4	5300	300	Male	Married	No	Fixed
+Md.jewel Mollah	মোঃ জুয়েল মোল্লা	K000030	Knitting	Knitting	None	Distributor Asst.	5th	04-07-2014	01-02-1994	4	5300	300	Male	Married	No	Fixed
+Md.Nurnahar begum	মোসাঃ নুরুন্নাহার বেগম	K000031	Knitting	Knitting	None	Mending op	5th	15-04-2014	08-12-1980	4	7500	300	Male	Married	No	Fixed
+Md.Rina Akter 	মোসাঃ রিনা আক্তার	K000032	Knitting	Knitting	None	Nake Asst	5th	22-04-2014	18-07-1995	4	4787	300	Male	Married	No	Fixed
+Mrs. Mahmuda Akter	মাহমুদা আকতার 	K000033	Knitting	Knitting	None	Nake Asst	5th	17-04-2014	01-01-1992	4	5300	300	Male	Married	No	Fixed
+Mominul islam	মোঃ মমিনুর ইসলাম	K000034	Knitting	Knitting	None	Distributor Asst.	5th	20-04-2014	27-10-1977	4	4065	301	Male	Married	No	Fixed
+Mrs. Majeda Begum	মাজেদা বেগম	K000035	Knitting	Knitting	None	Mending op	5th	17-04-2014	07-10-1975	4	5700	300	Male	Married	No	Fixed
+Mrs. Bristi	বৃষ্টি	K000037	Knitting	Knitting	None	Distributor Asst.	5th	17-04-2015	07-10-1976	4	5700	300	Male	Married	No	Fixed
+ Sk. Sariful Islam	শরিফুল ইসলাম	K000038	Knitting	Knitting	None	Distributor Asst.	5th	17-04-2016	07-10-1977	4	5700	300	Male	Married	No	Fixed
+Monira Khuton	মনিরা খাতুন	K000036	Knitting	Knitting	None	Nake Asst	5th	17-04-2017	07-10-1978	4	5700	300	Male	Married	No	Fixed
+Md. Ashad Jakriam	মোঃ আসাদ জিকরাম খান	K000039	Knitting	Knitting	None	Distributor Asst.	5th	17-04-2018	07-10-1979	4	5700	301	Male	Married	No	Fixed
+Md. Sahin Elahi	মোঃ শাহীন আলী	L0000017	linking	linking	None	Linking mac.op	5th	06-01-2013	07-10-1981	4	8600	300	Male	Married	No	Fixed
+Arif	মোঃ আরিফ	L0000019	linking	linking	None	Distributor Asst.	5th	06-02-2013	07-10-1982	7	5300	300	Male	Married	No	Fixed
+Suman	মোঃ সুমন	L0000025	linking	linking	None	Distributor Asst.	5th	11-11-2013	07-10-1983	7	5300	300	Male	Married	No	Fixed
+Md.Khadiza Akter 	মোসাঃ খাদিজা আক্তার	L0000026	linking	linking	None	 Asst. Linking mac.op	5th	13-11-2013	07-10-1984	7	5300	300	Male	Married	No	Fixed
+Md.Rahman Gazi	মোঃ আঃ রহমান গাজী	L0000027	linking	linking	None	Distributor Asst.	5th	02-01-2014	07-10-1985	7	5300	300	Male	Married	No	Fixed
+Md.Bahauddin	মোঃ বাহাউদ্দিন	L0000028	linking	linking	None	Distributor Asst.	5th	05-04-2014	07-10-1986	7	5300	300	Male	Married	No	Fixed
+Md. Rakibul Bissawas	মোঃ রাকিবুল বিশ্বাস 	L0000029	linking	linking	None	Distributor Asst.	5th	05-04-2014	07-10-1987	7	5300	300	Male	Married	No	Fixed
+Md. Mostofa Mollah	মোঃ মোস্তফা মোল্লা	L0000030	linking	linking	None	Distributor Asst.	5th	05-04-2014	07-10-1988	7	5300	300	Male	Married	No	Fixed
+Md. Ruhul Amin	রুহুল আমিন 	OL00001	Overlock	Overlock	None	overlock mac Operator	2nd	20-02-2013	12-07-1985	4	8000	300	Male	Married	No	Fixed
+joshim Uddin	মোঃ জসিম উদ্দিন	OL00002	Overlock	Overlock	None	overlock mac Operator	2nd	03-03-2013	31-12-1949	4	7300	300	Male	Married	No	Fixed
+Chinta Chowduri	মোঃ চিন্তা  চৌধুরী	OL00012	Overlock	Overlock	None	overlock mac Operator	2nd	12-02-2001	01-02-1983	4	7350	300	Male	Married	No	Fixed
+Rajia 	মোসা: রাজিয়া	OL00014	Overlock	Overlock	None	overlock mac Operator	2nd	04-01-2013	01-02-1984	4	6420	300	Male	Married	No	Fixed
+ Md.Haider 	মোঃ হায়দার	OL00015	Overlock	Overlock	None	overlock mac Operator	2nd	13-05-2013	01-02-1985	4	8000	300	Male	Married	No	Fixed
+Yousuf Hossain	মোঃ ইউসুফ হোসেন হ্ওালাদার 	OL00016	Overlock	Overlock	None	overlock mac Operator	2nd	13-05-2013	01-02-1986	4	8000	300	Male	Married	No	Fixed
+Md. Saidur Rahman	সাইদুর রহমান	OL00017	Overlock	Overlock	None	overlock mac Operator	2nd	13-05-2014	01-02-1987	4	7500	300	Male	Married	No	Fixed
+Md. Rayhan Hossain	রায়হান হোসেন	OL00018	Overlock	Overlock	None	overlock mac Operator	2nd	13-05-2015	01-02-1988	4	7500	300	Male	Married	No	Fixed
+Md. Monir Hossain	মনির হোসেন	OL00019	Overlock	Overlock	None	overlock mac Operator	2nd	13-05-2016	01-02-1989	4	7500	300	Male	Married	No	Fixed
+Md. Yousub Gazi	মোঃ ইউসুফ গাজী	LC00003	light chcek	light chcek	None	Light Chcek Operator	4th	23-03-2013	01-02-1990	4	6800	300	Male	Married	No	Fixed
+Md. Mazed Mazi	মোঃ মাজেদ মাঝি	LC00005	light chcek	light chcek	None	Light Chcek Operator	5th	05-02-2013	01-02-1991	4	7500	300	Male	Married	No	Fixed
+Komol Chandra Sarker	মোঃ কমল চন্দ্র সরকার	LC00006	light chcek	light chcek	None	Light Chcek Operator	4th	05-07-2013	01-02-1992	4	7000	300	Male	Married	No	Fixed
+Md.Sakil Howlader	মোঃ শাকিল হাওলাদার	LC00008	light chcek	light chcek	None	Light Chcek Operator	4th	09-01-2013	01-02-1985	4	6200	300	Male	Married	No	Fixed
+Md.Rakibul Sikder	মোঃ রাকিবুল শিকদার	LC00011	light chcek	light chcek	None	Light Chcek Operator	4th	11-02-2013	01-02-1984	4	6500	300	Male	Married	No	Fixed
+Md.Sohag	মোঃ সোহাগ	LC00012	light chcek	light chcek	None	Light Chcek Operator	4th	11-02-2013	01-02-1990	4	6500	300	Male	Married	No	Fixed
+Md.Habib Mrida	মোঃ হাবিব মৃধা	LC00014	light chcek	light chcek	None	Light Chcek Operator	4th	01-02-2014	01-02-1991	4	6500	300	Male	Married	No	Fixed
+Md.Rubel Mia	মোঃ রুবেল মিয়া	LC00015	light chcek	light chcek	None	Light Chcek Operator	4th	02-02-2014	01-02-1988	4	6200	300	Male	Married	No	Fixed
+Md.Anower Hossain	মোঃ আনোয়ার হোসেন	LC00017	light chcek	light chcek	None	Light Chcek Operator	4th	02-06-2014	01-02-1987	4	6500	300	Male	Married	No	Fixed
+Md.Ebrahim	মোঃ ইব্রহিম	LC00018	light chcek	light chcek	None	Light Chcek Operator	4th	02-03-2014	01-02-1984	4	6000	300	Male	Married	No	Fixed
+Md. Al-amin	মোঃ আল-আমিন	LC00019	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1983	4	6420	300	Male	Married	No	Fixed
+Md. Ataher Shaikh	আতোয়ার শেখ	LC00020	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1982	4	7000	300	Male	Married	No	Fixed
+Md. Shoriul Islam	শারিফুল ইসলাম	LC00021	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1981	4	7200	300	Male	Married	No	Fixed
+Md. Alamin	আল-আমিন 	LC00022	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1980	4	7200	300	Male	Married	No	Fixed
+Md. Anawer Islam	আনোয়ার ইসলাম	LC00023	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1979	4	7200	300	Male	Married	No	Fixed
+Md. Rakib Hossain	রাখিব হোসেন 	LC00024	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1978	4	7200	300	Male	Married	No	Fixed
+Md. Amirul Islam	আমিরুল ইসলাম	LC00025	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1977	4	7200	300	Male	Married	No	Fixed
+Noyon Bissawas	নয়ন বিশ্বাস 	LC00026	light chcek	light chcek	None	Light Chcek Operator	4th	04-01-2014	01-02-1976	4	7200	300	Male	Married	No	Fixed
+Kesob Chandra	কেসব চন্দ্রা	W000001	Wash	Wash	None	Wash Operator	4th	04-01-2014	01-02-1975	4	6800	300	Male	Married	No	Fixed
+Md. Renu Mia	মোঃ রেনু মিয়া	W000005	Wash	Wash	None	Wash Operator	3rd	18-03-2013	01-02-1974	4	6800	300	Male	Married	No	Fixed
+Md. Babul	মোঃ বাবুল 	W000006	Wash	Wash	None	Drayer Operator	3rd	18-03-2013	01-02-1973	4	6800	300	Male	Married	No	Fixed
+Md. Faruqe Mia	মোঃ ফারুক	W000007	Wash	Wash	None	Dayainng Asst man	3rd	20-03-2013	01-02-1977	4	6800	300	Male	Married	No	Fixed
+Md.Razib	মোঃ রাজিব	W000013	Wash	Wash	None	Dayainng Asst man	3rd	19-01-2014	01-02-1972	7	5500	300	Male	Married	No	Fixed
+Md.Abu Rayhan	মোঃ আবু রায়হান আকাশ	W000016	Wash	Wash	None	Dayainng Asst man	3rd	15-02-2014	01-02-1976	7	5500	300	Male	Married	No	Fixed
+Md. Hadichur Rahman	হাদিকচুর রহমান	W000017	Wash	Wash	None	Dayainng Asst man	3rd	15-02-2014	01-02-1980	7	5500	300	Male	Married	No	Fixed
+Md. Zohirul Islam	জহিরুল ইসলাম	W000014	Wash	Wash	None	Wash Operator	3rd	15-02-2014	01-02-1977	7	5500	300	Male	Married	No	Fixed
+Md. Maruf Billah	মারুফ  বিল্ল্যা	W000019	Wash	Wash	None	Dayainng Asst man	3rd	15-02-2014	01-02-1972	7	5500	300	Male	Married	No	Fixed
+Md. Sahid Haowlader	সাহিদ হাওলাদার 	W000020	Wash	Wash	None	Danyang Asst man	3rd	15-02-2014	01-02-1976	7	5500	300	Male	Married	No	Fixed
+Md. Rasel Karigor	রাশেল কারিগর 	TR00008	Trimming	Trimming	None	Finishing Assistant	3rd	15-02-2014	01-02-1980	7	5300	300	Male	Married	No	Fixed
+Md. Mohiuddin	মহিউদ্দিন	TR00009	Trimming	Trimming	None	Finishing Assistant	3rd	15-02-2014	01-02-1977	7	5300	300	Male	Married	No	Fixed
+Md. Kamruzzman	কামরুজ্জামান 	AD00001	Admin	Admin	None	Managing Director	2nd	15-02-2014	01-02-1972	1	150000	300	Male	Married	No	Fixed
+Md. Tayebur Rahman	তাইবুর রহমান 	AD00007	Admin	Admin	None	Asst. Genarel manager	2nd	15-02-2014	01-02-1976	1	65000	300	Male	Married	No	Fixed
+Mrs. Salaha 	মোসা: সালেহা	SW00001	Sewing 	Sewing 	None	Shely Mac perator 	3rd	03-12-2013	10-10-1979	4	6200	300	Male	Married	No	Fixed
+Mrs. Sima Akter	মোসা: সীমা আক্তার	SW00002	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	03-01-2013	10-07-1982	7	5300	300	Male	Married	No	Fixed
+Mrs. Bithi Rani	মোসা: বিথী রানী 	SW00009	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	04-01-2013	03-05-1994	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Lucky	মোছাঃ লাকী	SW00014	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	04-01-2013	02-04-1989	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Jesmin Akter	মোসা: জেসমিন	SW00023	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	20-04-2013	02-04-1990	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Asma begum	মোসা: আসমা বেগম 	SW00036	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	05-11-2013	20-09-1986	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Sumnunnahar 	মোসা: সামসুন্নাহার	SW00038	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	19-05-2013	12-01-1989	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Taslima begum	মোসা: তাসলিমা বেগম	SW00042	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	19-05-2013	12-11-1989	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Mina Akter 	মোসা: মিনা আক্তার	SW00047	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	06-02-2013	07-05-1993	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Khadija 	মোসা: খাদিজা	SW00049	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	06-02-2013	25-05-1972	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Rashida begum	মোসা: রাশিদা বেগম	SW00054	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	06-04-2013	08-12-1979	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Rokeya Begum	মোসা: রোকেয়া বেগম	SW00058	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	13-06-2013	03-12-1994	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Rridoy moni Akter 	মোসা: হৃদয় মনি আক্তার 	SW00070	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	07-03-2013	11-09-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Resma 	মোসা: রেশমা 	SW00075	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	07-04-2013	20-06-1988	7	5300	300	Male	Married	No	Fixed
+Pronita Rani das 	প্রনিতা রাণী দাস	SW00086	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	09-07-2013	01-01-1995	7	5300	300	Male	Married	No	Fixed
+Sanu das	সানু দাস	SW00087	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	09-07-2013	08-01-1994	7	5300	300	Male	Unmarried	No	Fixed
+Poli Rani 	পলি রাণী	SW00092	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	09-03-2013	03-02-1990	7	5300	300	Male	Unmarried	No	Fixed
+Nurjahan Begum	মোসাঃ নুরজাহান বেগম	SW00094	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	09-03-2013	25-07-1994	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Bithi Akter	মোসাঃ বিথি আক্তার	SW00103	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	12-05-2013	08-09-1991	7	5300	300	Male	Married	No	Fixed
+Md. Sadek	মোঃ সাদেক	SW00106	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	01-02-2014	06-01-1993	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Lota Akter 	মোসাঃ লতা আক্তার	SW00111	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	19-01-2014	20-08-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mokter Hossain 	মোঃ মোক্তার হোসেন	SW00112	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-02-2014	08-01-1991	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Sima Rani Dotto	সীমা রানী দও	SW00125	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-01-2014	07-05-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Tajenur Akter 	মোসাঃ তাজেনুর আক্তার	SW00113	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-01-2014	10-10-1993	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Sormi Akter 	মোসাঃ সরমি আক্তার	SW00124	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-02-2014	10-05-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Runa Layla 	মোসাঃ রুনা লায়লা	SW00126	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-04-2014	09-02-1993	7	5300	300	Male	Unmarried	No	Fixed
+ Mrs.Saliha 	মোসাঃ ছালিহা	SW00127	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-02-2014	29-10-1986	7	5300	300	Male	Married	No	Fixed
+Shiri moti  Rani	শ্রীমতি রানী	SW00128	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	13-02-1982	7	5300	300	Male	Married	No	Fixed
+Mrs. Minara	মোসাঃ মিনারা	SW00129	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1976	7	5300	300	Male	Married	No	Fixed
+Mrs. Sanzida rani	শানজিদা রানী	SW00130	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1977	7	5300	300	Male	Married	No	Fixed
+Mrs. Mazida Yasmin Lizu	মাজিদা ইয়াচমিন লিজু	SW00131	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1978	7	5300	300	Male	Married	No	Fixed
+Md. Kazol Begum	কাজল বেগম	SW00133	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1979	7	5300	300	Male	Married	No	Fixed
+Mrs. Taniya	তানিয়া 	SW00134	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1980	7	5300	300	Male	Married	No	Fixed
+Mrs. Keya	কেয়া 	SW00135	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1981	7	5300	300	Male	Married	No	Fixed
+Mrs. Sirina Begum	সিরিনা বেগম	SW00136	Sewing 	Sewing 	None	Asst.Swing.Mac.Operator 	3rd	02-05-2014	01-04-1982	7	5300	300	Male	Married	No	Fixed
+Dulal mia	দুলাল মিয়া 	IR00004	Iron	Iron	None	Line Iron men	3rd	13-04-2013	06-05-1970	7	5300	300	Male	Merried	No	Fixed
+Md.Nuralom	মোঃ নুরআলম	IR00005	Iron	Iron	None	Line Iron men	3rd	09-02-2013	11-04-1995	7	5300	300	Male	Unmarried	No	Fixed
+Md. Azizul Haque	মোঃ আজিজুল হক	IR00007	Iron	Iron	None	Line Iron men	3rd	01-04-2014	15-01-1992	7	5300	300	Male	Unmarried	No	Fixed
+Munna  Mia 	মুন্না মিয়া 	IR00008	Iron	Iron	None	Line Iron men	3rd	16-02-2014	02-01-1996	7	5300	300	Male	Unmarried	No	Fixed
+Md. Tusar Ahmed	তুসার আহমেদ	IR00009	Iron	Iron	None	Line Iron men	3rd	09-02-2014	15-01-1993	7	0	300	Male	Merried	No	Fixed
+Md. Habibur Rahman	হাবিবুর রহমান	IR00010	Iron	Iron	None	Line Iron men	3rd	01-04-2013	02-01-1997	7	0	300	Male	Merried	No	Fixed
+Mrs.Hazera	মোছাঃ হাজেরা 	FI00004	Finishing	Finishing	None	Finishing Asst.	None	18-03-2013	15-01-1977	7	5300	300	Male	Married	No	Fixed
+Mrs. Aklima 	মোসাঃ আকলিমা	FI00009	Finishing	Finishing	None	Quality Inspector	None	18-03-2013	30-12-1992	7	6500	300	Male	Married	No	Fixed
+Mrs.Aysha 	মোসাঃ আয়েশা	FI00010	Finishing	Finishing	None	Quality Inspector	None	18-03-2013	05-12-1990	7	7300	300	Male	Married	No	Fixed
+Mrs. Asma 	মোসাঃ আসমা	FI00012	Finishing	Finishing	None	Quality Inspector	None	18-03-2013	02-04-1991	7	7500	300	Male	Married	No	Fixed
+Mrs. Sima 	মোসাঃ সীমা	FI00013	Finishing	Finishing	None	Quality Inspector	None	18-03-2013	11-10-1991	7	7200	300	Male	Unmarried	No	Fixed
+Mrs. Ruma 	মোসাঃ রুমা	FI00014	Finishing	Finishing	None	Quality Inspector	None	18-03-2013	02-02-1978	7	7500	300	Male	Married	No	Fixed
+Mrs. Tania 	মোসাঃ তানিয়া	FI00016	Finishing	Finishing	None	Quality Inspector	None	18-03-2013	15-03-1983	7	7500	300	Male	Married	No	Fixed
+Mrs. Josna Rani	জোসনা রাণী	FI00025	Finishing	Finishing	None	Finishing Asst.	None	04-03-2013	01-01-1977	7	5300	300	Male	Married	No	Fixed
+Mrs. Taslima 	মোসাঃ তাসলিমা	FI00034	Finishing	Finishing	None	Finishing Asst.	None	04-01-2013	01-01-1977	7	5300	300	Male	Married	No	Fixed
+Mrs. Alema	মোসাঃ আলেমা	FI00044	Finishing	Finishing	None	Quality Inspector	None	04-01-2013	02-02-1977	7	5678	300	Male	Married	No	Fixed
+Mitali	মিতালী	FI00046	Finishing	Finishing	None	Quality Inspector	None	07-01-2013	25-12-1992	7	7500	300	Male	Unmarried	No	Fixed
+Mrs. Kulsum	মোসাঃ কুলসুম	FI00048	Finishing	Finishing	None	Quality Inspector	None	04-01-2013	25-12-1992	7	7500	300	Male	Married	No	Fixed
+Mrs.  Jarna begum	মোসাঃ ঝর্ণা বেগম	FI00049	Finishing	Finishing	None	Quality Inspector	None	04-01-2013	14-07-1987	7	7000	300	Male	Married	No	Fixed
+Mrs. Salma	মোসাঃ সালমা	FI00062	Finishing	Finishing	None	Quality Inspector	None	04-08-2013	25-12-1992	7	7600	300	Male	Married	No	Fixed
+ Mrs. Nupur	মোসাঃ নুপুর	FI00068	Finishing	Finishing	None	Quality Inspector	None	04-10-2013	01-01-1976	7	7500	300	Male	Married	No	Fixed
+Md. Mollah Mohsin	মোঃ মোল্লা মহসিন 	FI00079	Finishing	Finishing	None	Finishing QC	None	04-11-2013	01-09-1992	7	5300	300	Male	Married 	No	Fixed
+ Mrs. Rozifia Khatun	মোসাঃ রজিফা খাতুন	FI00081	Finishing	Finishing	None	Mending op	None	04-11-2013	25-12-1992	7	7500	300	Male	Married	No	Fixed
+Mrs. Salam Shkder	মোঃ সালাম শিকদার	FI00096	Finishing	Finishing	None	Finishing Asst.	None	20-05-2013	04-11-1973	7	7813	300	Male	Married	No	Fixed
+ Mrs.Zarina 	মোসাঃ জেরিনা	FI00102	Finishing	Finishing	None	Finishing Asst.	None	06-01-2013	07-08-1990	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Mitali Khatun	মোসাঃ মিতালী	FI00146	Finishing	Finishing	None	Quality Inspector	None	07-01-2013	25-12-1992	7	5300	300	Male	Married	No	Fixed
+Mrs. Tanjila Begum	মোসাঃ তানজিলা বেগম	FI00147	Finishing	Finishing	None	Mending op	None	07-07-2013	01-01-1988	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Ruma Begum	মোসাঃ রুমা আকতার	FI00148	Finishing	Finishing	None	Finishing Asst.	None	07-03-2013	05-10-1992	7	5300	300	Male	Married	No	Fixed
+Morzina Begum	মোসাঃ মর্জিনা বেগম	FI00152	Finishing	Finishing	None	Finishing Asst.	None	22-08-2013	15-01-1980	7	5300	300	Male	Married	No	Fixed
+Salina 	মোসাঃ  সেলিনা	FI00162	Finishing	Finishing	None	Finishing Asst.	None	08-01-2013	09-06-1983	7	5678	300	Male	Married	No	Fixed
+Mrs. Majeda	মোসাঃ মাজেদা	FI00163	Finishing	Finishing	None	Finishing Asst.	None	08-01-2013	03-01-1976	7	5300	300	Male	Married	No	Fixed
+Mrs.Rasheda	মোসাঃ রাশিদা	FI00167	Finishing	Finishing	None	Finishing Asst.	None	08-01-2013	08-11-1988	7	5300	300	Male	Married	No	Fixed
+Mrs. Kochi Begum	মোসাঃ কচি বেগম	FI00168	Finishing	Finishing	None	Quality Inspector	None	08-01-2013	08-11-1989	7	5300	300	Male	Married	No	Fixed
+Mrs.Panna	 মোসাঃ পান্না	FI00178	Finishing	Finishing	None	Finishing Asst.	None	09-03-2013	02-04-1985	7	5300	300	Male	Married	No	Fixed
+Bilkis Akter	মোসাঃ বিলকিস আক্তার	FI00180	Finishing	Finishing	None	Finishing Asst.	None	09-03-2013	20-06-1995	7	5300	300	Male	Unmarried	No	Fixed
+Rina Begum	মোসাঃ রিনা বেগম	FI00183	Finishing	Finishing	None	Finishing Asst.	None	09-01-2013	02-07-1990	7	5300	300	Male	Married	No	Fixed
+Mrs.Sarmin Jahan	মোসাঃ শারমিন জাহান	FI00185	Finishing	Finishing	None	Finishing Asst.	None	09-03-2013	20-06-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Urmi Akter	মোসাঃ উর্মি আকতার	FI00186	Finishing	Finishing	None	Finishing Asst.	None	09-01-2013	17-06-1992	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Shrmin Akter	মোসাঃ শারমিন আকতার	FI00192	Finishing	Finishing	None	Finishing Asst.	None	09-05-2013	02-01-1995	7	6500	300	Male	Unmarried	No	Fixed
+Mrs. Kakoly	মোসাঃ কাকলি	FI00197	Finishing	Finishing	None	Finishing Asst.	None	09-03-2013	17-06-1993	7	5300	300	Male	Married	No	Fixed
+Mrs.  Rina Begum	মোসাঃ রিনা আকতার	FI00203	Finishing	Finishing	None	Finishing Asst.	None	15-09-2013	02-07-1990	7	6700	300	Male	Married	No	Fixed
+Sahaji begum	মোসাঃ শাহাজী বেগম	FI00206	Finishing	Finishing	None	Quality Inspector	None	22-09-2013	17-03-1990	7	5300	300	Male	Married	No	Fixed
+Josna Mondol	জোৎ¯œাা মন্ডল	FI00209	Finishing	Finishing	None	Finishing Asst.	None	23-10-2013	26-03-1988	7	5300	300	Male	Married	No	Fixed
+Ms.Nasrin Begum	মোসাঃ নাসরিন বেগম	FI00211	Finishing	Finishing	None	Quality Inspector	None	11-02-2013	10-08-1993	7	5300	300	Male	Married	No	Fixed
+Archona Rani Dattu 	অর্চনা রানী দও	FI00216	Finishing	Finishing	None	Finishing Asst.	None	11-11-2013	08-05-1992	7	5300	300	Male	Married	No	Fixed
+Ms.Mosume Begum	মোসাঃ মৌসুমী বেগম	FI00218	Finishing	Finishing	None	Finishing Asst.	None	11-11-2013	15-10-1992	7	5300	300	Male	Married	No	Fixed
+Sarimin 	মোছাঃ শারমিন	FI00223	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	15-10-1993	7	5300	300	Male	Married	No	Fixed
+Nahima	নাহিমা 	FI00226	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	15-10-1994	7	5300	300	Male	Married	No	Fixed
+Mukta 	মুক্তা 	FI00228	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	15-10-1995	7	5300	300	Male	Married	No	Fixed
+ Mrs. Kadiza Begum	মোসাঃ খাদিজা বেগম	FI00229	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	03-01-1990	7	5300	300	Male	Merried	No	Fixed
+Mrs.Farida Begum	মোসাঃ ফরিদা বেগম	FI00231	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	19-10-1975	7	5300	300	Male	Merried	No	Fixed
+ Mrs. Sima Sorker	মোসাঃ সিমা সরকার	FI00236	Finishing	Finishing	None	Finishing Asst.	None	01-04-2014	04-09-1993	7	7300	300	Male	Merried	No	Fixed
+Mrs. Hasina	মোসাঃ হাসিনা	FI00238	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	03-01-1987	7	5300	300	Male	Merried	No	Fixed
+Shahena Khatun	ছাহিনা	FI00241	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	12-02-1993	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. .Shabikunnahar	মোসাঃ ছাবিকুননাহার	FI00242	Finishing	Finishing	None	Finishing Asst.	None	01-02-2014	05-12-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Forida Begum	মোসাঃ ফরিদা পারভীন শিখা	FI00245	Finishing	Finishing	None	Quality Inspector	None	15-01-2014	05-12-1996	7	5300	300	Male	Married	No	Fixed
+Moriom	মরিয়ম	FI00247	Finishing	Finishing	None	Finishing Asst.	None	02-06-2014	05-12-1997	7	5300	300	Male	Married	No	Fixed
+Mrs.Ambia Khatun	মোসাঃ আম্বিয়া খাতুন	FI00248	Finishing	Finishing	None	Finishing Asst.	None	23-01-2014	05-12-1998	7	5300	300	Male	Married	No	Fixed
+Alpona	আল্পনা	FI00251	Finishing	Finishing	None	Finishing Asst.	None	02-06-2014	05-12-1999	7	5300	300	Male	Married	No	Fixed
+Mrs. Marufa	মোসাঃ মারুফা	FI00252	Finishing	Finishing	None	Finishing Asst.	None	02-06-2014	16-04-1994	7	5300	300	Male	Married	No	Fixed
+Mrs.Afroza Khatun	 মোসাঃ আফরোজা খাতুন	FI00257	Finishing	Finishing	None	Finishing Asst.	None	02-03-2014	01-12-1996	7	5300	300	Male	Married	No	Fixed
+Mrs. Mousomi 	মোসাঃ মৌসুমি	FI00258	Finishing	Finishing	None	Finishing Asst.	None	02-03-2014	11-01-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Morzina Pavin	মোসাঃ মর্জিনা পারভীন	FI00061	Finishing	Finishing	None	Finishing Asst.	None	02-03-2014	03-05-1994	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Hosna begum	মোসাঃ হোসনা বেগম	FI00262	Finishing	Finishing	None	Finishing Asst.	None	02-02-2014	01-05-1984	7	6800	300	Male	Married	No	Fixed
+ Mrs. Amena Akter 	মোসাঃ আমেনা আক্তার	FI00263	Finishing	Finishing	None	Finishing Asst.	None	02-02-2014	02-05-1988	7	7500	300	Male	Married	No	Fixed
+Mrs. Khadiza Akter 	 মোসাঃ খাদিজা আক্তার	FI00267	Finishing	Finishing	None	Finishing Asst.	None	02-06-2014	07-06-1993	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Sofiya Aker	মোসাঃ সাফিয়া আক্তার	FI00268	Finishing	Finishing	None	Finishing Asst.	None	02-09-2014	02-03-1993	7	7500	300	Male	Married	No	Fixed
+Mrs. Jorna begum	মোসাঃ ঝর্ণা বেগম	FI00269	Finishing	Finishing	None	Finishing Asst.	None	02-08-2014	01-01-1999	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Raseda Begum	মোসাঃ রাশেদা বেগম	FI00270	Finishing	Finishing	None	Finishing Asst.	None	02-05-2014	13-11-1984	7	5300	300	Male	Married	No	Fixed
+Mrs. Josna begum	মোসাঃ জো¯œা বেগম	FI00272	Finishing	Finishing	None	Quality Inspector	None	02-12-2014	09-07-1989	7	5600	300	Male	Married	No	Fixed
+Md. ohaed Sheckder	মোঃ ওয়াহেদ শিকদার	FI00273	Finishing	Finishing	None	Finishing Asst.	None	03-01-2014	09-07-1990	7	5300	300	Male	Married	No	Fixed
+ Md. Suman Sheckter 	মোঃ সুমন শিকদার	FI00274	Finishing	Finishing	None	Finishing Asst.	None	03-01-2014	09-07-1991	7	5300	300	Male	Married	No	Fixed
+Mrs. Shita Rani Sutrodhor	সীতা রানী সূএধর	FI00275	Finishing	Finishing	None	Mending op	None	03-03-2014	06-01-1977	7	5300	300	Male	Married	No	Fixed
+Mrs. Sathi Begum	মোসাঃ সাথী বেগম	FI00276	Finishing	Finishing	None	Finishing Asst.	None	19-03-2014	06-01-1994	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Rubina Begum	মোসাঃ রুবিনা বেগম	FI00277	Finishing	Finishing	None	Quality Inspector	None	04-01-2014	06-01-1995	7	5300	300	Male	Married	No	Fixed
+Mrs. Hazerar 	মোসাঃ হাজেরা খাতুন	FI00278	Finishing	Finishing	None	Finishing Asst.	None	04-06-2014	15-01-1992	7	5300	300	Male	Married	No	Fixed
+Mrs. Soniya begum	মোসাঃ সোনিয়া বেগম	FI00279	Finishing	Finishing	None	Finishing Asst.	None	04-12-2014	10-01-1993	7	7200	300	Male	Unmarried	No	Fixed
+Mrs. Nurefa begum	মোসাঃ নুরেফা বেগম	FI00280	Finishing	Finishing	None	Finishing Asst.	None	04-12-2014	17-02-1984	7	5300	300	Male	Married	No	Fixed
+Mrs. Happy Akter 	মোসাঃ হেপি আক্তার	FI00281	Finishing	Finishing	None	Finishing Asst.	None	13-04-2014	01-12-1993	7	7200	300	Male	Married	No	Fixed
+Eyaedmin	ইয়ামিন	FI00282	Finishing	Finishing	None	Finishing Asst.	None	13-04-2014	01-12-1994	7	8000	300	Male	Married	No	Fixed
+Mrs. Lipy Akter Sumi	মোসাঃ লিপি আক্তার সুমী	FI00283	Finishing	Finishing	None	Finishing Asst.	None	15-04-2014	11-10-1995	7	8000	300	Male	Unmarried	No	Fixed
+Mrs. Momota Rani Roy	মমতা রানী রায়	FI00284	Finishing	Finishing	None	Finishing Asst.	None	16-04-2014	05-02-1985	7	5300	300	Male	Married	No	Fixed
+Mrs. Mousumi Akter	মোসাঃ মৌসুমী আক্তার	FI00285	Finishing	Finishing	None	Finishing Asst.	None	15-04-2014	05-05-1993	7	5300	300	Male	Married	No	Fixed
+Asnewara	এসনেআরা 	FI00286	Finishing	Finishing	None	Finishing Asst.	None	15-04-2014	05-05-1994	7	5300	300	Male	Married	No	Fixed
+Mrs. Khadiza Akter 	মোসাঃ খাদিজা বেগম	FI00287	Finishing	Finishing	None	Quality Inspector	None	19-04-2014	08-10-1994	7	5600	300	Male	Married	No	Fixed
+Emrain	ইমরান 	FI00288	Finishing	Finishing	None	Quality Inspector	None	19-04-2014	08-10-1995	7	7000	300	Male	Married	No	Fixed
+Mrs. Lipi begum	মোসাঃ লিপি বেগম	FI00089	Finishing	Finishing	None	Quality Inspector	None	19-04-2014	02-12-1989	7	5300	300	Male	Married	No	Fixed
+bethi	বিথী আক্তার 	FI00290	Finishing	Finishing	None	Quality Inspector	None	20-04-2014	02-12-1990	7	5300	300	Male	Married	No	Fixed
+Mrs. Nurjahan	মোসাঃ নুরজাহান	FI00291	Finishing	Finishing	None	Mending op	None	20-04-2014	12-12-1983	7	7000	300	Male	Married	No	Fixed
+Mrs. Anowara begum	মোসাঃ আনোয়ারা বেগম	FI00292	Finishing	Finishing	None	Mending op	None	20-04-2014	05-02-1983	7	5300	300	Male	Married	No	Fixed
+Mrs.Lucky	মোসাঃ লাকি বেগম	FI00293	Finishing	Finishing	None	Finishing Asst.	None	21-04-2014	10-11-1989	7	5300	300	Male	Married	No	Fixed
+Mrs.Ruma Akter	মোসাঃ রুমা আক্তার	FI00294	Finishing	Finishing	None	Finishing Asst.	None	21-04-2014	01-11-1982	7	5300	300	Male	Married	No	Fixed
+Mrs. Howanur begum	মোসাঃ হ্ওায়ানুর বেগম	FI00295	Finishing	Finishing	None	Finishing Asst.	None	20-04-2014	05-01-1993	7	5300	300	Male	Married	No	Fixed
+Mrs. Nazma Khatun	মোসাঃ নাজমা খাতুন	FI00296	Finishing	Finishing	None	Finishing Asst.	None	21-04-2014	03-10-1991	7	5300	300	Male	Married	No	Fixed
+Mrs. Momena	মোসাঃ মোমেনা	FI00297	Finishing	Finishing	None	Quality Inspector	None	21-04-2014	02-10-1981	7	8000	300	Male	Married	No	Fixed
+Mrs. Aklima Akter 	মোসাঃ আকলিমা আক্তার	FI00298	Finishing	Finishing	None	Finishing Asst.	None	22-04-2014	19-11-1993	7	5300	300	Male	Married	No	Fixed
+Mrs.Masuma begm	মোসাঃ মাছুমা বেগম	FI00299	Finishing	Finishing	None	Finishing Asst.	None	23-04-2014	02-08-1996	7	7500	300	Male	Married	No	Fixed
+Mrs. Bokul	মোসাঃ বকুল	FI00300	Finishing	Finishing	None	Finishing Asst.	None	23-04-2014	12-12-1987	7	5300	300	Male	Married	No	Fixed
+Mrs.Mim Akter	মোসাঃ মীম আক্তার	FI00301	Finishing	Finishing	None	Finishing Asst.	None	21-04-2014	03-01-1995	7	5300	300	Male	Unmarried	No	Fixed
+Mrs.Anjuara Begum	মোসাঃ আঞ্জুয়ারা বেগম	FI00302	Finishing	Finishing	None	Finishing Asst.	None	22-04-2014	15-01-1992	7	7500	300	Male	Unmarried	No	Fixed
+Fulasa	ফুলেচা	FI00303	Finishing	Finishing	None	Finishing Asst.	None	22-04-2014	15-01-1993	7	7500	300	Male	Unmarried	No	Fixed
+Ms.Saleha	মোসাঃ ছালেহা	FI00304	Finishing	Finishing	None	Finishing Asst.	None	22-04-2014	07-03-1984	7	7500	300	Male	Unmarried	No	Fixed
+Mrs.Abeda Begum	মোসাঃ আবেদা বেগম	FI00305	Finishing	Finishing	None	Finishing Asst.	None	22-04-2014	04-10-1993	7	7200	300	Male	Unmarried	No	Fixed
+Ramicha	রামিছা	FI00306	Finishing	Finishing	None	Finishing Asst.	None	22-04-2014	04-10-1994	7	7000	300	Male	Unmarried	No	Fixed
+Mrs.Faterma begum	মোসাঃ ফাতেমা	FI00307	Finishing	Finishing	None	Mending op	None	22-04-2014	18-10-1988	7	8000	300	Male	Unmarried	No	Fixed
+Mrs. Priya Akter	মোসাঃ প্রিয়া আক্তার	FI00308	Finishing	Finishing	None	Finishing Asst.	None	26-04-2014	19-11-1993	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Shilpi begum	মোসাঃ শিল্পি বেগম	FI00309	Finishing	Finishing	None	Quality Inspector	None	05-03-2014	31-08-1982	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. Rikta begum	মোসাঃ রিক্তা বেগম	FI00310	Finishing	Finishing	None	Finishing Asst.	None	05-03-2014	16-01-1994	7	5300	300	Male	Unmarried	No	Fixed
+Mrs. China Khatun	মোসাঃ চায়না খাতুন	FI00311	Finishing	Finishing	None	Finishing Asst.	None	05-04-2014	02-01-1993	7	5500	300	Male	Unmarried	No	Fixed
+Mrs. Rukaya Khunam	মোসাঃ রুকাইয়া খানম	FI00312	Finishing	Finishing	None	Quality Inspector	None	05-04-2014	05-10-1995	7	5300	300	Male	Married	No	Fixed
+Masudra Begum	মাসুদা বেগম	FI00313	Finishing	Finishing	None	Quality Inspector	None	05-04-2014	05-10-1996	7	5300	300	Male	Married	No	Fixed
+Mrs. Ruma Akter 	মোসাঃ রুমা আক্তার	FI00314	Finishing	Finishing	None	Quality Inspector	None	05-03-2014	07-06-1987	7	5500	300	Male	Married	No	Fixed
+Mrs. Baby Akter 	মোসাঃ বেবী আক্তার	FI00315	Finishing	Finishing	None	Quality Inspector	None	05-05-2014	13-04-1984	7	8500	300	Male	Married	No	Fixed
+Hamida 	মোছঃ হামিদা 	FI00316	Finishing	Finishing	None	Quality Inspector	None	05-03-2014	16-08-1992	7	7500	300	Male	Married	No	Fixed
+Fardous	ফেরদৌসী	FI00317	Finishing	Finishing	None	Mending op	None	05-03-2014	16-08-1993	7	6500	300	Male	Married	No	Fixed
+ Miss.Simu	সিমু	FI00318	Finishing	Finishing	None	Finishing Asst.	None	05-07-2014	13-08-1994	7	7500	300	Male	Married 	No	Fixed
+Mrs. Josna Akter 	মোসাঃ জোৎ¯œা আক্তার	FI00319	Finishing	Finishing	None	Finishing Asst.	None	05-05-2014	01-01-1993	7	8000	300	Male	Married 	No	Fixed
+Mrs. Jamila Kojol	মোসাঃ জামিলা কাজল	FI00320	Finishing	Finishing	None	Finishing Asst.	None	05-05-2014	03-01-1992	7	5300	300	Male	Married 	No	Fixed
+Mrs. Josna begum	মোসাঃ জোৎ¯œা বেগম	FI00321	Finishing	Finishing	None	Finishing Asst.	None	05-07-2014	08-03-1941	7	7000	300	Male	Unmarried	No	Fixed
+Mrs. Kohinur begum	মোসাঃ কহিনুর বেগম	FI00322	Finishing	Finishing	None	Finishing Asst.	None	05-06-2014	02-05-1989	7	7000	300	Male	Married 	No	Fixed
+Runa Akter 	রুনা আক্তার 	FI00323	Finishing	Finishing	None	Finishing Asst.	None	05-08-2014	30-12-1983	7	7000	300	Male	Married 	No	Fixed
+Mrs. Poli Akter 	মোসাঃ পলি আক্তার	FI00324	Finishing	Finishing	None	Finishing Asst.	None	05-08-2014	10-10-1991	7	7000	300	Male	Married 	No	Fixed
+Mrs. Humayun kabir	মোঃ হুমায়ুন কবির	FI00325	Finishing	Finishing	None	Quality Inspector	None	05-06-2014	12-01-1978	7	8000	300	Male	Married 	No	Fixed
+Rowshonara	রওশনারা	FI00326	Finishing	Finishing	None	Quality Inspector	None	05-06-2014	12-01-1979	7	8000	300	Male	Married 	No	Fixed
+Mrs. Jannati Aketr 	মোসাঃ জান্নাতী আক্তার	FI00327	Finishing	Finishing	None	Quality Inspector	None	05-11-2014	15-01-1993	7	5300	300	Male	Married 	No	Fixed
+Surmat Akter 	সুরমাত আক্তার 	FI00328	Finishing	Finishing	None	Quality Inspector	None	05-11-2014	15-01-1994	7	5300	300	Male	Married 	No	Fixed
+Mrs. Nurjahan	মোসাঃ নুরজাহান	FI00329	Finishing	Finishing	None	Mending op	None	05-11-2014	01-01-1984	7	5300	300	Male	Married 	No	Fixed
+Mrs. Anju begum	মোসাঃ আঞ্জু বেগম	FI00330	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	03-02-1988	7	7500	300	Male	Married 	No	Fixed
+Mrs. Fozila begum	মোসাঃ ফজিলা বেগম	FI00331	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	01-01-1986	7	5300	300	Male	Married 	No	Fixed
+Mrs. Rinku 	মোসাঃ রিংকু	FI00332	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	17-04-1989	7	8000	300	Male	Married 	No	Fixed
+Mrs.Rainij Akter 	মোসাঃ রেইনিচ আক্তার	FI00333	Finishing	Finishing	None	Quality Inspector	None	13-05-2014	02-07-1992	7	7500	300	Male	Married 	No	Fixed
+Mrs.Kahinur begum	মোসাঃ কহিনুর বেগম	FI00334	Finishing	Finishing	None	Finishing Asst.	None	13-05-2014	25-08-1984	7	7500	300	Male	Married 	No	Fixed
+Mrs. Rina Begum	মোসাঃ রীনা বেগম	FI00335	Finishing	Finishing	None	Mending op	None	13-05-2014	01-08-1987	7	7000	300	Male	Married	No	Fixed
+Mrs. Shahinur begum	মোসাঃ শাহিনুর বেগম	FI00336	Finishing	Finishing	None	Mending op	None	13-05-2014	17-08-1986	7	7500	300	Male	Married	No	Fixed
+Mrs. Suraiya begum	মোসাঃ সুরাইয়া বেগম	FI00337	Finishing	Finishing	None	Finishing Asst.	None	14-05-2014	01-01-1978	7	8000	300	Male	Married	No	Fixed
+Mrs. Salma Akter 	মোসাঃ সালমা আক্তার	FI00338	Finishing	Finishing	None	Finishing Asst.	None	14-05-2014	20-12-1993	7	5500	300	Male	Married	No	Fixed
+Mrs. Dipa Akter 	মোসাঃ দীপা আক্তার	FI00339	Finishing	Finishing	None	Finishing Asst.	None	14-05-2014	05-10-1995	7	7500	300	Male	Married	No	Fixed
+Monira	মনিরা 	FI00340	Finishing	Finishing	None	Quality Inspector	None	14-05-2014	20-06-1987	7	8000	300	Male	Married	No	Fixed
+Mrs.Rahima begum	মোসাঃ রহিমা বেগম	FI00341	Finishing	Finishing	None	Quality Inspector	None	15-05-2014	01-01-1988	7	5300	300	Male	Married	No	Fixed
+Mrs. Nilupa begum	মোসাঃ নিলুফা বেগম	FI00042	Finishing	Finishing	None	Mending op	None	17-05-2014	27-01-1982	7	5300	300	Male	Married	No	Fixed
+Jesmin Akter	 জেসমিন	FI00343	Finishing	Finishing	None	Quality Inspector	None	18-05-2014	07-10-1987	7	7500	300	Male	Married	No	Fixed
+Mrs. Nazma Khatun	মোসাঃ নাজমা বেগম	FI00344	Finishing	Finishing	None	Quality Inspector	None	18-05-2014	22-11-1988	7	7500	300	Male	Married	No	Fixed
+Hasina	হাছিনা 	FI00345	Finishing	Finishing	None	Quality Inspector	None	18-05-2014	02-11-1988	7	7500	300	Male	Married	No	Fixed
+Lipi	লিপি	FI00346	Finishing	Finishing	None	Quality Inspector	None	18-05-2014	01-11-1987	7	7500	300	Male	Married	No	Fixed
+Mrs. Shanaj begum	মোসাঃ শাহনাজ আক্তার	FI00347	Finishing	Finishing	None	Mending op	None	18-05-2014	01-01-1992	7	7500	300	Male	Married	No	Fixed
+Jorina 	জরিনা 	FI00348	Finishing	Finishing	None	Finishing Asst.	None	19-05-2014	01-01-1988	7	7500	300	Male	Married	No	Fixed
+Jesmin Akter	 জেসমিন	FI00349	Finishing	Finishing	None	Quality Inspector	None	09-03-1989	09-03-1989	7	7500	300	Male	Married	No	Fixed
+Mrs. Ruma Akter 	মোসাঃ রুমা আক্তার	FI00350	Finishing	Finishing	None	Mending op	None	24-05-2014	03-02-1985	7	7500	300	Male	Married	No	Fixed
+Mrs. Masud	মোঃ মাসুদ	FI00351	Finishing	Finishing	None	Finishing Asst.	None	22-05-2014	15-12-1994	7	7500	300	Male	Married	No	Fixed
+Mrs. Helina 	মোসাঃ হেলেনা 	FI00352	Finishing	Finishing	None	Finishing Asst.	None	24-05-2014	17-10-1984	7	7500	300	Male	Married	No	Fixed
+Mrs. Maruf Billah	মোঃ মারুফ বিল্লাহ	FI00353	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1981	7	7500	300	Male	Married	No	Fixed
+Mrs. Shuly	মোছাঃ শিউলী	FI00354	Finishing	Finishing	None	Mending op	None	05-12-2014	02-11-1980	7	7500	300	Male	Married	No	Fixed
+Mrs.Sumna	মোছাঃ সুমনা 	FI00355	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	15-12-1995	7	7500	300	Male	Married	No	Fixed
+MrsAzmari khatun	মোছাঃ আজমেরী খাতুন	FI00356	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	17-10-1985	7	7500	300	Male	Married	No	Fixed
+Mrs.Helina Akter	 মোছাঃ হেলিনা আখতার	FI00357	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1979	7	7500	300	Male	Married	No	Fixed
+Mrs.Rabbi	 মোঃ রাব্বি	FI00358	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1978	7	7500	300	Male	Married	No	Fixed
+Mrs.Shanti 	 মোছাঃ শান্তি	FI00359	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	15-12-1996	7	7500	300	Male	Married	No	Fixed
+Shahida	শাহিদা 	FI00360	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	17-10-1986	7	7500	300	Male	Married	No	Fixed
+Mrs.Sumi	 মোছাঃ সুমি	FI00361	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1977	7	7500	300	Male	Married	No	Fixed
+Mrs.Rahina Khatun	 মোছাঃ রায়হেনা খাতুন	FI00362	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1976	7	7500	300	Male	Married	No	Fixed
+Mrs. Munni	 মোছাঃ মুন্নি	FI00063	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1977	7	7500	300	Male	Married	No	Fixed
+Palashy begum	 মোছাঃ পলাশী বেগম	FI00364	Finishing	Finishing	None	Mending op	None	05-12-2014	02-11-1983	7	7500	300	Male	Married	No	Fixed
+Mrs.Faterma begum	 মোছাঃ ফাতেমা বেগম	FI00365	Finishing	Finishing	None	Mending op	None	05-12-2014	02-11-1981	7	7500	300	Male	Married	No	Fixed
+Mrs. Soniya	 মোছাঃ সোনিয়া 	FI00366	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1976	7	7500	300	Male	Married	No	Fixed
+Mrs. Jony	 মোঃ জনি	FI00376	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1977	7	7500	300	Male	Married	No	Fixed
+Md.Rubel	 মোঃ রুবেল 	FI00368	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1983	7	7500	300	Male	Married	No	Fixed
+Mrs. Masuda begum	 মোঃ মাসুদা বেগম	FI00369	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1981	7	7500	300	Male	Married	No	Fixed
+ Mrs. Lizu	 মোছাঃ লাইজু 	FI00370	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1976	7	7500	300	Male	Married	No	Fixed
+Mrs.Kokuli begum	 মোছাঃ কাকোলী বেগম	FI00371	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1977	7	7500	300	Male	Married	No	Fixed
+Nupor	নুপুর 	FI00372	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1983	7	7500	300	Male	Married	No	Fixed
+Roksana	রোকশেনা	FI00373	Finishing	Finishing	None	Quality Inspector	None	05-12-2014	02-11-1985	7	7500	300	Male	Married	No	Fixed
+Rozina	রজিনা 	FI00374	Finishing	Finishing	None	Finishing Asst.	None	05-12-2014	02-11-1989	7	7500	300	Male	Married	No	Fixed
+Sumiya Akter 	সুমাইয়া আক্তার 	FI00375	Finishing	Finishing	None	Mending op	None	05-12-2014	02-11-1984	7	7500	300	Male	Married	No	Fixed
+Md. Abdul Kader 	মোঃ আব্দুল কাদের 	FI00101	Finishing	Finishing	None	Supervaisor	None	19-04-2014	03-12-1976	7	7500	300	Male	Married 	No	Fixed
+Md. Sultan Uddin 	মোঃ সুলতান উদ্দিন 	FI01102	Finishing	Finishing	None	Incharage	None	20-04-2014	21-03-1964	7	7500	300	Male	Married 	No	Fixed
+Alomgir Hossain	মোঃ আলমগীর হোসেন 	PK00006	Paking	Paking	None	Packing Man	2nd	04-02-2013	22-04-1987	4	8000	300	Male	 Unmarried	No	Fixed
+Md. Arief	 মোঃ আরিফ হোসেন 	PK00007	Paking	Paking	None	Poly-Man	2nd	04-01-2013	01-01-1993	4	7300	300	Male	 Unmarried	No	Fixed
+Md.Humayon	মো: হুমায়ুন	PK00008	Paking	Paking	None	Packing Man	2nd	04-01-2013	04-02-1989	4	7700	300	Male	 Unmarried	No	Fixed
+Md.Shahanaj	মোসা: শাহানাজ	PK00009	Paking	Paking	None	Foolder	2nd	04-01-2013	15-10-1990	5	7000	300	Male	 Unmarried	No	Fixed
+Md.Sultana perven	মোসা: সুলতানা পারভীন	PK00014	Paking	Paking	None	Foolder	2nd	04-01-2013	15-10-1991	5	6500	300	Male	 Unmarried	No	Fixed
+Md.Arju begum	মোসা: আরজু বেগম	PK00018	Paking	Paking	None	Foolder	2nd	04-01-2013	15-10-1992	5	6300	300	Male	Married	No	Fixed
+Md. Hassin mia	 মো: হাসান মিয়া	PK00022	Paking	Paking	None	Foolder	2nd	04-01-2013	15-10-1993	4	8000	300	Male	Married	No	Fixed
+Mrs. Bina begum	মোসা: বীনা বেগম	PK00026	Paking	Paking	None	Foolder	2nd	06-02-2013	15-10-1994	5	6000	300	Male	 Unmarried	No	Fixed
+Md. Abu Hanifa	মো: আবু হানিফা 	PK00029	Paking	Paking	None	Packing Man	2nd	06-05-2013	14-11-1990	4	8000	300	Male	 Unmarried	No	Fixed
+Md. Najrul islam	মো: নজরুল ইসলাম	PK00035	Paking	Paking	None	Finishing-Asst	2nd	21-08-2013	20-02-1984	5	6000	300	Male	 Unmarried	No	Fixed
+Mrs. Doly Akter 	মোসাঃ ডলি আক্তার	PK00043	Paking	Paking	None	Poly-man	2nd	01-04-2014	20-02-1985	4	5800	300	Male	Married	No	Fixed
+Md.Obaydul Sheick	 মোঃ ওবাইদুুল শেক 	PK00044	Paking	Paking	None	Poly-man	2nd	01-04-2014	20-02-1986	4	5500	300	Male	Married	No	Fixed
+Nuruzzaman	মোঃ নুরুজ্জামান	PK00046	Paking	Paking	None	Paking-Man	2nd	22-03-2014	04-02-1978	4	8000	300	Male	Married	No	Fixed
+Md. Mizanur Rahman	মোঃ মিজানুর রহমান	PK00047	Paking	Paking	None	Paking-Man	2nd	20-04-2014	17-10-1979	4	6042	300	Male	Married	No	Fixed
+Md. Maruf Billay	 মোঃ মারুফ বিল্ল্যা	PK00048	Paking	Paking	None	Finishing-Asst	2nd	20-04-2014	20-02-1987	4	5300	300	Male	Married	No	Fixed
+Md.Hafziul Sk.	মোঃ হাফিজুল শেখ	PK00049	Paking	Paking	None	Paking-Man	2nd	20-04-2014	05-08-1989	4	5300	300	Male	Married	No	Fixed
+Md.Abdul Lotieb	মোঃ আব্দুল লতিব	PK00050	Paking	Paking	None	Paking-Man	2nd	20-04-2014	05-08-1990	4	5300	300	Male	Married	No	Fixed
+Md.Rasel	রাসেল 	PK00051	Paking	Paking	None	Paking-Man	2nd	20-04-2014	05-08-1991	4	5300	300	Male	Married	No	Fixed
+Md. Munni Akter	মন্নি আকত্তার 	PK00052	Paking	Paking	None	Foolder	2nd	20-04-2014	05-08-1992	4	5300	300	Male	Married	No	Fixed
+Md.Mozammyal Hoque	মোজ্জাম্মেল হক	PK00053	Paking	Paking	None	Paking-Man	2nd	20-04-2014	05-08-1993	4	5300	300	Male	Married	No	Fixed
+Kiron	কিরণ 	PK00054	Paking	Paking	None	Paking-Man	2nd	20-04-2014	05-08-1994	4	5300	300	Male	Married	No	Fixed
+Md. Billal Mia (Rony)	মো: বিল্লাল হোসেন	QU00001	Quality	Quality	None	Quality inspector	None	16-02-2013	05-10-1988	4	8000	300	Male	Married	No	Fixed
+Md. Sulko Rani	শুক্লা রাণী	QU00007	Quality	Quality	None	Quality inspector	None	23-02-2013	12-08-1986	4	7600	300	Male	Married	No	Fixed
+Md. Sherin	মোসা: শিরিন	QU00008	Quality	Quality	None	Quality inspector	None	03-09-2013	05-01-1980	4	7600	300	Male	Married	No	Fixed
+Md. Mafidul Islam	মো: মফিদুল ইসলাম	QU00011	Quality	Quality	None	Quality inspector	None	04-03-2013	15-07-1994	4	8300	300	Male	Married	No	Fixed
+Md.Monir Mia	মো: মনির মিয়া	QU00013	Quality	Quality	None	Quality inspector	None	04-06-2013	05-01-1983	4	8500	300	Male	Married	No	Fixed
+Md. Yahia	মোঃ ইয়াহিয়া 	QU00014	Quality	Quality	None	Quality QC	None	02-12-2013	17-03-1972	4	8500	300	Male	Married	No	Fixed
+Md.  Mollik Mozammel	মো: মোজাম্মেল	QU00019	QU001	QU002	None	QU005	None	20-04-2013	17-03-1973	4	7500	300	Male	Married	No	Fixed
+Md.Sujon Miah	মোঃ সুজন মিয়া	QU00032	Quality	Quality	None	Quality inspector	None	09-01-2013	15-08-1988	4	8000	300	Male	Unmarried	No	Fixed
+Md.Sohidul Islam	মোঃ শহিদুল ইসলাম	QU00034	Quality	Quality	None	Quality inspector	None	09-07-2013	25-09-1972	4	7200	300	Male	Married	No	Fixed
+Md.Arifur Rahman	মোঃ আরিফুর রহমান	QU00035	Quality	Quality	None	Quality inspector	None	17-09-2013	01-01-1992	4	7500	300	Male	Unmarried	No	Fixed
+Md.Shamim Alom	মোঃ শামিম আলম ভুইয়া	QU00042	Quality	Quality	None	Quality inspector	None	02-03-2014	10-12-1978	4	7000	300	Male	Married	No	Fixed
+Md.Jesmim	মোসাঃ জেসমিন	QU00043	Quality	Quality	None	Quality inspector	None	04-01-2014	07-02-1985	4	8500	300	Male	Married	No	Fixed
+Md.Maruf Billah	মোঃ মারুফ বিল্লাহ	QU00044	Quality	Quality	None	Quality inspector	None	02-04-2014	06-09-1988	4	8000	300	Male	Married	No	Fixed
+Md. Al-Amin	মোঃ আল আমিন	QU00045	Quality	Quality	None	Quality inspector	None	19-04-2014	02-01-1984	4	7500	300	Male	Married	No	Fixed
+Md. Maya Rani	মায়া রানী	QU00048	Quality	Quality	None	Quality inspector	None	05-03-2014	03-02-1981	4	8000	300	Male	Married	No	Fixed
+Md.Eklus Hossain	মোঃ ইকলাছ হোসেন	QU00049	Quality	Quality	None	Quality inspector	None	05-03-2014	15-04-1943	4	8000	300	Male	Unmarried	No	Fixed
+Md. Mamun	মোঃ মামুন	QU00050	Quality	Quality	None	Quality inspector	None	05-04-2014	23-01-1983	4	8000	300	Male	Married	No	Fixed
+Md.Najmul 	মোঃ নাজমুল 	QU00051	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1990	4	8000	300	Male	Married	No	Fixed
+Md.Sohel Rana	মোঃ সোয়েল রানা	QU00052	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1991	4	8000	300	Male	Married	No	Fixed
+Md.Joshim Uddin 	মোঃ জসিম উদ্দিন	QU00053	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1992	4	8000	300	Male	Married	No	Fixed
+Md. Mohasin 	মোঃ মোহাসিন 	QU00054	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1993	4	8000	300	Male	Married	No	Fixed
+Md.Bappyi	মহাম্মদ বাপ্পি 	QU00058	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1994	4	8000	300	Male	Married	No	Fixed
+Md.Rezayoul Korim	মোঃ রেজাউল করিম	QU00059	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1995	4	8000	300	Male	Married	No	Fixed
+Md.Arif Hossain	মোঃ আরিফ হোসেন	QU00060	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1996	4	8000	300	Male	Married	No	Fixed
+Md.Tofazzal	মোঃ তোফাজ্জল 	QU00061	Quality	Quality	None	Quality inspector	None	05-04-2014	14-11-1997	4	8000	300	Male	Married	No	Fixed
+Md. Abu Aowal Sheikh	মোঃ আবু আউয়াল শেখ	QU00113	Quality	Quality	None	Quality Controlar 	None	05-04-2014	11-12-1988	4	8000	300	Male	Married	No	Fixed
+Md. Mofazzal Hossain	মোঃ মোফাজ্জেল হোসেন 	Q000143	  Quality  	 Quality   	None	Quality Controlar 	None	03-01-2014	11-01-1982	4	8000	300	Male	Married	No	Fixed
+Md. Litonuzzman 	মোঃ লিটনুজ্জামান 	Q001601	  Quality  	 Quality   	None	Quality Controlar 	None	05-04-2014	14-06-1974	4	8000	300	Male	Married	No	Fixed
+Md. Solaman Haque	মোঃ সোলাইমান হক 	Q001602	  Quality  	 Quality   	None	Quality Controlar 	None	19-04-2014	15-03-1985	4	8000	300	Male	Married	No	Fixed
+Md. Zakir Hossain 	মোছাঃ জাকির হোসেন 	Q000098	  Quality  	 Quality   	None	Quality Controlar 	None	04-01-2013	02-11-1987	4	8000	300	Male	Married	No	Fixed
+Md. Hannan Sheikh	মোঃ হান্নান শেখ 	Q001605	  Quality  	 Quality   	None	Quality Controlar 	None	21-06-2014	02-11-1988	4	8000	300	Male	Married	No	Fixed
+Md.Younus Ali	মোঃ ইউনুচ আলী 	SC00003	Security	Security	None	Guard	None	02-02-2013	07-01-1964	5	8700	None	Male	Married	No	Fixed
+Md. Kazi Shafiullah	মোঃ কাজী সফিউল্ল্যা	SC00018	Security	Security	None	Guard	None	15-02-2013	02-11-1988	5	7800	None	Male	Married	No	Fixed
+Md.Delower Hossain(Raju)	মোঃ দোলোয়ার হোসেন(রাজু)	SC00058	Security	Security	None	Guard	None	03-12-2013	13-11-1982	5	7800	None	Male	Married	No	Fixed
+Md. Sagor ali	মোঃ সাগর আলী 	SC00059	Security	Security	None	Guard	None	03-01-2013	02-11-1990	5	7800	None	Male	Married	No	Fixed
+Md.Rakibul Islam	মোঃ রাকিবুল ইসলাম 	SC00060	Security	Security	None	Guard	None	05-02-2013	08-08-1970	5	9200	None	Male	Married	No	Fixed
+Md.Ruhul Amin	মোঃ রুহুল আমিন	SC00135	Security	Security	None	Guard	None	11-02-2013	02-11-1992	5	8000	None	Male	Married	No	Fixed
+Md.Khairul Islam	মোঃ খায়রুল ইসলাম 	SC01701	Security	Security	None	Guard	None	11-02-2013	02-11-1993	5	8000	None	Male	Married	No	Fixed
+Md.Channu	মোঃ চন্নু	SC01702	Security	Security	None	Guard	None	04-01-2013	02-11-1994	5	7500	None	Male	Married	No	Fixed
+Md.Monir Hossain 	মোঃ মনির  হোসেন	AD00002	Admin	Admin	None	Manger (Compliance)	2nd	02-10-2013	02-11-1978	2	37000	None	Male	Married	No	Fixed
+ Mosharraff Hossin(prince)	মোঃ মোশরাফ হোসেন প্রিন্স	AD00003	Admin	Admin	None	Merchaindiser	2nd	05-02-2013	02-11-1980	2	26500	None	Male	Married	No	Fixed
+Md. Al-Amin bhuiyen	মোঃ আল-আমিন ভূঞা	AD00004	Admin	Admin	None	Asst.Q.C Manager 	2nd	01-01-2014	02-11-1981	2	20000	None	Male	Married	No	Fixed
+Md.Shamim bhuiyen 	মোঃ শামিম হোসেন	AD00005	Admin	Admin	None	Accounts Officer	2nd	17-02-2013	02-11-1978	2	16000	None	Male	Married	No	Fixed
+Md. Masud Rana	মোঃ মাসুদ রানা	AD01303	Admin	Admin	None	Data Entri Operator	2nd	19-05-2014	02-11-1980	2	8000	None	Male	Married	No	Fixed
+Saima Sultana 	মোঃ শামীমা সুলতানা 	AD00008	Admin	Admin	None	Doctor 	2nd	18-08-2013	02-11-1981	2	15000	None	Male	Married	No	Fixed
+Md.Moktadir Hossain	মোঃ মোকতাদির হোসেন	AD00006	Admin	Admin	None	HR.Officer 	2nd	02-12-2013	02-11-1994	2	10000	None	Male	Married	No	Fixed
+Md.Jayed Hossin	মোঃ জায়েদ রহমান 	AD00011	Admin	Admin	None	Jounir HR. Officer	2nd	02-08-2014	02-11-1978	2	8000	None	Male	Married	No	Fixed
+Md. Mizanur Rahman	মোঃ মিজানুর রহমান 	AD00023	Admin	Admin	None	Store Incharge	2nd	03-02-2013	02-11-1980	2	12000	None	Male	Married	No	Fixed
+Md.Abul Kalam	মোঃ আবুল কালাম 	AD00020	Admin	Admin	None	Store Asst.	2nd	03-01-2013	02-11-1977	2	9000	None	Male	Married	No	Fixed
+Md. Nasir Uddin	মোঃ নাছির  উদ্দিন	AD00141	Admin	Admin	None	Store Asst.	2nd	02-01-2014	02-11-1984	2	7800	None	Male	Married	No	Fixed
+Md. Azizul  islam	মোঃ আজিজুল ইসলাম	AD00097	Admin	Admin	None	T/Keeper	2nd	16-05-2013	02-11-1983	2	10000	None	Male	Married	No	Fixed
+Md.Billal Hossain	মোঃ বিল্লাল হোসেন	AD00096	Admin	Admin	None	T/Keeper	2nd	14-05-2013	02-11-1989	2	10000	None	Male	Married	No	Fixed
+Md.Bappy	মোঃ বাপ্পী 	AD01302	Admin	Admin	None	Office peon	2nd	22-10-2013	02-11-1990	2	6000	None	Male	Married	No	Fixed
+Md. Arifa sultana	মোঃ আরিফা সুলতানা 	AD00012	Admin	Admin	None	Office peon	2nd	14-05-2014	07-01-1965	2	6000	None	Male	Married	No	Fixed
+Md.Anayet Hossain	 মোঃ এনায়েত হোসেন 	FS00001	Floor Saff	Floor Saff	None	A.P.M	None	02-12-2013	02-11-1989	2	210300	None	Male	Married	No	Fixed
+Md.Mehedi Hasan (Sohag)	মোঃ মেহেদী হাসান  সোহাগ	FS00002	Floor Saff	Floor Saff	None	Knitting Incharge	None	02-02-2013	13-11-1983	2	14500	None	Male	Married	No	Fixed
+Lukman Miazi	মোঃ লোকমান মিরাজী 	FS00003	Floor Saff	Floor Saff	None	Knitting Distributor Incharge	None	14-03-2013	02-11-1991	2	11500	None	Male	Married	No	Fixed
+Md.Abu Sayed	মোঃ আবু সাঈদ 	FS00004	Floor Saff	Floor Saff	None	Knitting Supevisor.	None	17-02-2013	08-08-1971	2	9500	None	Male	Married	No	Fixed
+Md.Masud Hassan Sohel	মোঃ মাসুদ হাসান সোহেল 	FS00005	Floor Saff	Floor Saff	None	Knitting Supervisor.	None	03-02-2013	02-11-1992	2	10000	None	Male	Married	No	Fixed
+Md. Faqrul Islam	মোঃ ফারুক ইসলাম 	FS00006	Floor Saff	Floor Saff	None	Knitting Supervisor	None	03-11-2013	02-11-1993	2	9500	None	Male	Married	No	Fixed
+Ripon Chandra Gustom	মোঃ রিপন চন্দ্রা গোউতম	FS00007	Floor Saff	Floor Saff	None	Knitting Supervisor	None	03-07-2013	02-11-1994	2	9500	None	Male	Married	No	Fixed
+Md. Amirul Islam	মোঃ আমিরুর ইসলাম 	FS00008	Floor Saff	Floor Saff	None	Knitting Supervisor	None	03-12-2013	02-11-1978	2	9500	None	Male	Married	No	Fixed
+Md. Abu Bokker Shidik	মোঃ আবু বক্কর সিদ্দিক 	FS00009	Floor Saff	Floor Saff	None	Knitting  Supervisor	None	18-03-2013	02-11-1980	2	9000	None	Male	Married	No	Fixed
+Md. Rajjob Ali	মোঃ রাজিব আলী 	FS00010	Floor Saff	Floor Saff	None	Knitting Supervisor	None	04-08-2013	02-11-1981	2	8000	None	Male	Married	No	Fixed
+Md.Mahbub Alom Sagor	মোঃ মাহবুব আল সাগর 	FS00011	Floor Saff	Floor Saff	None	Knitting Supervisor	None	02-04-2014	02-11-1994	2	10000	None	Male	Married	No	Fixed
+Md.Sultan Raza	মোঃ সুলতান রাজা 	FS00012	Floor Saff	Floor Saff	None	Knitting Supervisor.	None	22-03-2014	02-11-1978	2	9500	None	Male	Married	No	Fixed
+Miraz Howlader	মোঃ মিরাজ হাওলাদার 	FS00013	Floor Saff	Floor Saff	None	Knitting Supervisor	None	04-07-2014	02-11-1980	2	9500	None	Male	Married	No	Fixed
+Jakir Hossain Howlader	মোঃ হোসেন হাওলাদার 	FS00014	Floor Saff	Floor Saff	None	Knitting Supervisor.	None	19-04-2014	02-11-1981	2	9500	None	Male	Married	No	Fixed
+Zotis Klanti Chakma	মোঃ জ্যোতিচ কান্তি চাকমা 	FS00015	Floor Saff	Floor Saff	None	Knitting Supervisor.	None	05-08-2014	02-11-1994	2	9500	None	Male	Married	No	Fixed
+Md.Soharof Hossain	মোঃ সোহরাফ হোসেন 	FS00016	Floor Saff	Floor Saff	None	Knitting Supervisor	None	24-05-2014	02-11-1978	2	9500	None	Male	Married	No	Fixed
+Md.Saiful Islam	মোঃ সাইফুল ইসলাম	FS00017	Floor Saff	Floor Saff	None	Knitting Supervisor.	None	25-05-2014	02-11-1980	2	9500	None	Male	Married	No	Fixed
+Md. Assduzzman-1	মোঃ আশাদুজ্জামান-১	FS00018	Floor Saff	Floor Saff	None	Knitting Distributor	None	05-02-2013	02-11-1977	2	8000	None	Male	Married	No	Fixed
+Md.Al-Amin	মোঃ আল-আমিন 	FS00019	Floor Saff	Floor Saff	None	Knitting Distributor	None	16-09-2013	02-11-1984	2	6000	None	Male	Married	No	Fixed
+Md.Abdullah	মোঃ আব্দুল্লা 	FS00020	Floor Saff	Floor Saff	None	Knitting Distributor	None	01-02-2014	02-11-1983	2	9000	None	Male	Married	No	Fixed
+Md.Shohag Miah	মোঃ সোহাগ মিয়া 	FS00021	Floor Saff	Floor Saff	None	Knitting Distributor	None	22-04-2014	02-11-1991	2	6500	None	Male	Married	No	Fixed
+Md.Humaun Kobir	মোঃ হুমায়ুন কবির	FS00022	Floor Saff	Floor Saff	None	Knitting Distributor	None	05-07-2014	02-11-1992	2	9000	None	Male	Married	No	Fixed
+Md. Joshim Uddin	মোঃ জসিম উদ্দিন	FS00023	Floor Saff	Floor Saff	None	Incharge Linking	None	04-10-2013	07-01-1966	2	16000	None	Male	Married	No	Fixed
+Md. Rubel Bapari	মোঃ রুবেল মিয়া 	FS00024	Floor Saff	Floor Saff	None	Linking Supervisor	None	04-02-2013	02-11-1990	2	10500	None	Male	Married	No	Fixed
+Tutul Chandro Das	মোঃ টুটুল চন্দ্রা দাস 	FS00025	Floor Saff	Floor Saff	None	Linking Supervisor.	None	03-03-2013	13-11-1984	2	9500	None	Male	Married	No	Fixed
+Md.Apu Hossain	মোঃ আবু হোসেন	FS00026	Floor Saff	Floor Saff	None	Linking Supervisor.	None	09-01-2013	02-11-1992	2	9200	None	Male	Married	No	Fixed
+Md.Shamim Hossain	মোঃ শামিম হোসেন 	FS00027	Floor Saff	Floor Saff	None	Linking Supervisor.	None	21-08-2013	08-08-1972	2	9300	None	Male	Married	No	Fixed
+Md.Jalal Uddin	মোঃ জালাল উদ্দিন 	FS00028	Floor Saff	Floor Saff	None	Linking Supervisor.	None	09-09-2013	02-11-1992	2	9000	None	Male	Married	No	Fixed
+MD. Mizanur Rahman	মোঃ মিজানুর রহমান 	FS00029	Floor Saff	Floor Saff	None	Linking Distributor	None	03-03-2013	02-11-1993	2	9200	None	Male	Married	No	Fixed
+Md. Yousuf  Ali	মোঃ ইফসুফ আলী 	FS00030	Floor Saff	Floor Saff	None	Linking Distributor	None	03-02-2013	02-11-1994	2	8700	None	Male	Married	No	Fixed
+Ms. Hosneara	মোঃ হোসনে আরা 	FS00031	Floor Saff	Floor Saff	None	 Jr.TrimmIng  Supervisor	None	03-03-2013	02-11-1978	2	7400	None	Male	Married	No	Fixed
+MS.Nasima Begum	মোঃ নাছিমা বেগম	FS00032	Floor Saff	Floor Saff	None	Manding Supervisor	None	03-10-2013	02-11-1980	2	9200	None	Male	Married	No	Fixed
+Rahima Khatun	মোঃ রাহিমা খাতুন 	FS00033	Floor Saff	Floor Saff	None	 TrimmIng Distributor	None	03-03-2013	02-11-1989	2	8000	None	Male	Married	No	Fixed
+Mrs. Rita Begum	মোঃ রিতা বেগম	FS00034	Floor Saff	Floor Saff	None	Mending Supervisor.	None	19-02-2013	02-11-1990	2	10000	None	Male	Married	No	Fixed
+Ms. Rehena Parvin	মোঃ রেহেনা পারভিন 	FS00035	Floor Saff	Floor Saff	None	Manding Supervisor.	None	03-12-2013	07-01-1965	2	9100	None	Male	Married	No	Fixed
+Mrs. Sekh Sadi	মোঃ শেখ সাদি 	FS00036	Floor Saff	Floor Saff	None	Mending Distributor	None	04-06-2013	02-11-1989	2	8000	None	Male	Married	No	Fixed
+Md.Rubel Hossain	মোঃ রুবেল হোসেন 	FS00037	Floor Saff	Floor Saff	None	Mending Distributor	None	17-12-2013	13-11-1983	2	8500	None	Male	Married	No	Fixed
+Samsul Alom	মোঃ শামছুল আলম 	FS00038	Floor Saff	Floor Saff	None	Wash Supervisor	None	22-04-2013	02-11-1991	2	9000	None	Male	Married	No	Fixed
+Josim Uddin	মোঃ জসিম উদ্দিন	FS00039	Floor Saff	Floor Saff	None	Sewing Supervisor	None	16-04-2013	08-08-1971	2	8500	None	Male	Married	No	Fixed
+Nazma Begum	মোঃ নাজমা বেগম 	FS00040	Floor Saff	Floor Saff	None	Sewing Supervisor	None	16-04-2013	02-11-1992	2	9000	None	Male	Married	No	Fixed
+Md.Milon Sheik	মোঃ মিলন শেখ	FS00041	Floor Saff	Floor Saff	None	Sewing Dis.	None	22-04-2013	02-11-1993	2	7000	None	Male	Married	No	Fixed
+Md. Billal Hossain	মোঃ বিল্লাল হোসেন	FS00042	Floor Saff	Floor Saff	None	Iron Incharge	None	03-02-2013	02-11-1994	2	12500	None	Male	Married	No	Fixed
+Md. Farid Uddin	মোঃ ফরিদ উদ্দিন 	FS00043	Floor Saff	Floor Saff	None	Iron Supervisor	None	03-10-2013	02-11-1978	2	10500	None	Male	Married	No	Fixed
+Md. Sumon Mia	মোঃ সুমন মিয়া 	FS00044	Floor Saff	Floor Saff	None	Iron Supervisor	None	04-01-2013	02-11-1989	2	9500	None	Male	Married	No	Fixed
+Md.Rafiqul Islam	মোঃ রফিকুল ইসলাম 	FS00045	Floor Saff	Floor Saff	None	Iron Distributor	None	24-08-2013	02-11-1990	2	7000	None	Male	Married	No	Fixed
+Md. Saiful Islam	মোঃ শফিকুল ইসলাম	FS00046	Floor Saff	Floor Saff	None	Finishing Incharge	None	04-01-2013	07-01-1965	2	15500	None	Male	Married	No	Fixed
+Md.Sultan Uddin Mullah	মোঃ সুলতান উদ্দিন 	FS00047	Floor Saff	Floor Saff	None	Finishing Incharge	None	20-04-2014	02-11-1989	2	11500	None	Male	Married	No	Fixed
+Mrs. Sumiya Akter Koli	মোঃ সুমাইয়া আক্তার কলি 	FS00048	Floor Saff	Floor Saff	None	PQc Supervisor	None	04-09-2013	13-11-1983	2	9200	None	Male	Married	No	Fixed
+Mrs.Doli Begum	মোঃ ডলি বেগম	FS00049	Floor Saff	Floor Saff	None	P.Q.C Supervisor	None	09-07-2013	02-11-1991	2	11000	None	Male	Married	No	Fixed
+Md.Shahadat Hossain	মোঃ শাহাদাৎ হোসেন 	FS00050	Floor Saff	Floor Saff	None	Finishing Supervisor	None	02-01-2014	08-08-1971	2	9000	None	Male	Married	No	Fixed
+Abdur Kader	মোঃ আব্দুর কাদের 	FS00051	Floor Saff	Floor Saff	None	Finishing Supervisor	None	19-04-2014	02-11-1992	2	9000	None	Male	Married	No	Fixed
+Ms.Rotna Khatun	মোঃ রতন খাতুন 	FS00052	Floor Saff	Floor Saff	None	Finishing Supervisor	None	05-05-2014	02-11-1993	2	9500	None	Male	Married	No	Fixed
+Md. Hamid 	মোঃ হামিদ 	FS00053	Floor Saff	Floor Saff	None	Packing Supervisor	None	05-08-2013	02-11-1994	2	11000	None	Male	Married	No	Fixed
+Md.Mizanur Rahman	মোঃ মিজারুর রহমান 	FS00054	Floor Saff	Floor Saff	None	Packing Supervisor	None	05-08-2013	02-11-1978	2	9500	None	Male	Married	No	Fixed
+Md.Tajul Islam	মোঃ তাজুল ইসলাম 	FS00055	Floor Saff	Floor Saff	None	Safety Incharge	None	02-04-2013	02-11-1980	2	11000	None	Male	Married	No	Fixed
+Md. Abdur Rouf	মোঃ আব্দুর রফ	FS00056	Floor Saff	Floor Saff	None	Store Asst.	None	02-04-2013	02-11-1989	2	7500	None	Male	Married	No	Fixed
+Md.Shafiqul Islam	মোঃ শফিকুল ইসলাম	FS00057	Floor Saff	Floor Saff	None	Yarn Controler	None	23-02-2013	02-11-1990	2	13000	None	Male	Married	No	Fixed
+Md. Kaykobad Hossain	মোঃ কায়কোবিদ 	FS00058	Floor Saff	Floor Saff	None	Winding Supervisor	None	03-05-2013	07-01-1965	2	9000	None	Male	Married	No	Fixed
+Md.Iradul Islam	মোঃ ইরাদুল ইসলাম	FS00059	Floor Saff	Floor Saff	None	Winding Distributor	None	05-03-2014	02-11-1989	2	7000	None	Male	Married	No	Fixed
+Md. Muslim Uddin	মোঃ মুসলিম উদ্দিন	FS00060	Floor Saff	Floor Saff	None	Boylar Operator	None	03-02-2013	13-11-1983	2	11000	None	Male	Married	No	Fixed
+Md.Muktar Hossain	মোঃ মোকত্তার হোসেন 	FS00061	Floor Saff	Floor Saff	None	Tecnician	None	21-03-2013	02-11-1991	2	12000	None	Male	Married	No	Fixed
+Suvonkor	মোঃ সুভংকর 	FS00062	Floor Saff	Floor Saff	None	Asst.Boiler Man	None	02-03-2013	08-08-1971	2	10000	None	Male	Married	No	Fixed
+Md.Mamun	মোঃ মামুন	FS00063	Floor Saff	Floor Saff	None	Asst.  Electritian	None	11-02-2013	02-11-1992	2	8000	None	Male	Married	No	Fixed
+Md.Yahia	মোঃ আয়শা	FS00064	Floor Saff	Floor Saff	None	Q.C	None	02-12-2013	02-11-1993	2	9700	None	Male	Married	No	Fixed
+Md. Sikder Abdul Hannan	মোঃ সিদ্দিক আব্দুর হান্নান 	FS00065	Floor Saff	Floor Saff	None	Q.C	None	03-02-2013	02-11-1994	2	9000	None	Male	Married	No	Fixed
+ Md. Mohasin	মোঃ মহসিন 	FS00066	Floor Saff	Floor Saff	None	QC	None	04-11-2013	02-11-1978	2	11500	None	Male	Married	No	Fixed
+Md. Jakir Hossen	মোঃ জাকির হোসেন 	FS00067	Floor Saff	Floor Saff	None	Q.C	None	04-01-2013	02-11-1980	2	9800	None	Male	Married	No	Fixed
+Md.Solaiman	মোঃ সোলইমান 	FS00068	Floor Saff	Floor Saff	None	Q.C	None	03-02-2013	02-11-1981	2	9500	None	Male	Married	No	Fixed
+Md.Awal Sheick	মোঃ আউয়াল শেখ	FS00069	Floor Saff	Floor Saff	None	Q.C	None	17-08-2013	02-11-1994	2	8500	None	Male	Married	No	Fixed
+Md.Mofazzol Hossain	মোঃ মোজ্জাফল হোসেন 	FS00070	Floor Saff	Floor Saff	None	Q.C	None	03-01-2014	02-11-1989	2	9500	None	Male	Married	No	Fixed
+Md.Solaiman Haque	মোঃ সোলাইমান হক 	FS00071	Floor Saff	Floor Saff	None	Q.C	None	19-04-2014	02-11-1990	2	9000	None	Male	Married	No	Fixed
+Md.Litunuzzaman Moni	মোঃ লিটনুজ্জামান 	FS00072	Floor Saff	Floor Saff	None	Q.C	None	05-04-2014	07-01-1965	2	11000	None	Male	Married	No	Fixed
+Sumon	মোঃ সুমন 	FS00073	Floor Saff	Floor Saff	None	Store Asst.	None	02-04-2013	02-11-1989	2	8000	None	Male	Married	No	Fixed
+Owhid Sikder	মোঃ ওহেদ সিকদ্দার 	FS00074	Floor Saff	Floor Saff	None	Store Asst.	None	03-01-2013	13-11-1983	2	8000	None	Male	Married	No	Fixed
+Md.S.M Rana	"মোঃ এস,এম রানা"	MT00008	Maintance	Maintance	None	Electritian	None	02-03-2013	02-11-1991	2	12000	None	Male	Married	No	Fixed
+Md. Muslim Uddin	মোঃ মুসলিম উদ্দিন	MT00023	Maintance	Maintance	None	Boylar Operator	None	03-02-2013	08-08-1971	2	11000	None	Male	Married	No	Fixed
+Md.Muktar Hossain	মোঃ মোকত্তার হোসেন 	MT00009	Maintance	Maintance	None	Tecnician	None	21-03-2013	02-11-1992	2	12000	None	Male	Married	No	Fixed
+Suvonkor	মোঃ সুভংকর 	MT00010	Maintance	Maintance	None	Asst.Boiler Man	None	02-03-2013	02-11-1993	2	10000	None	Male	Married	No	Fixed

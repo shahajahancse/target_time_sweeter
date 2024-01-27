@@ -1,0 +1,253 @@
+﻿Mrs. Rahima Begum	মোছাঃ লহমিা বগেম	TKO0109	Knitting	G.Operator	knitting	5th	A	11.06.1985	17.02.2013	6	Production	5678	YES	F	MARRIED   	NO
+Nasima Khatun	নাছমিা খাতুন	TKO0426	Knitting	GR. Kniting machine operator	knitting	5th	A	04.06.1989	01.04.2013	6	Production	5678	YES	F	MARRIED   	NO
+Md. Khalid Saifullah	মোঃ খালদি সাইফুল্লাহ	TKO0433	Knitting	GR. Kniting machine operator	knitting	5th	A	10.02.1988	05.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shak Alamin	মোঃ শখে আলামনি	 TKO0637	Knitting	GR. Kniting machine operator	knitting	5th	A	10.10.1988	01.12.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md.Robiul Islam	মোঃ রবউল ইসলাম	TKO0663	Knitting	GR. Kniting machine operator	knitting	5th	A	16.10.1993	18.07.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Yasin Fakir	মোঃ ইয়াছনি ফকরি	TKO0802	Knitting	GR. Kniting machine operator	knitting	5th	A	04.02.1991	02.11.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Yasin Mullah	মোঃ ইয়াছনি মোল্লাহ	TKO0872	Knitting	GR. Kniting machine operator	knitting	5th	A	30.12.1992	06.02.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Miladhun Nabi	মোঃ মলিাদ্দুন নবী	TKO0931	Knitting	GR. Kniting machine operator	knitting	5th	A	15.09.1988	05.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Kamrul Islam	মোঃ কামরুল ইসলাম	TKO1006	Knitting	GR. Kniting machine operator	knitting	5th	A	16.07.1972	27.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Sayed Mustafa	সয়ৈদ মোস্তফা	TKO1009	Knitting	GR. Kniting machine operator	knitting	5th	A	15.09.1986	04.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jahir	মোঃ জহরি	TK01010	Knitting	GR. Kniting machine operator	knitting	5th	A	30.07.1985	04.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jahangir Fakir	মোঃ জাহাঙ্গীর ফকরি	TKO1044	Knitting	GR. Kniting machine operator	knitting	5th	A	07.07.1978	11.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+MD. Sohel	মোঃ সোহলে	TK01154	Knitting	GR. Kniting machine operator	knitting	5th	A	16.12.1986	04.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ferdous	মোঃ ফরেদৌস	TK01307	Knitting	GR. Kniting machine operator	knitting	5th	A	09.08.1988	05.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Abu Hasib Sakh	আবু হাসবি শখে	TK01330	Knitting	GR. Kniting machine operator	knitting	5th	A	02.11.1992	09.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Milon Hawladar	মোঃ মলিন হাওলাদার	TKO1356	Knitting	GR. Kniting machine operator	knitting	5th	A	01.11.1982	12.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Kawsar Mridha	মোঃ কাওসার মৃধা	TKO1361	Knitting	GR. Kniting machine operator	knitting	5th	A	05.05.1993	13.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md.Mostfa	মোঃ মোস্তফা	TKO1386	Knitting	GR. Kniting machine operator	knitting	5th	A	19.08.1987	17.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md.Robiul Islam	মোঃ রবউল ইসলাম	TKO1388	Knitting	GR. Kniting machine operator	knitting	5th	A	20.10.1987	18.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ibrahim	মোঃ ইব্রাহমি	TKO1400	Knitting	GR. Kniting machine operator	knitting	5th	A	03.05.1983	17.08.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ajmal Mallik	মোঃ আজমল মালকি	TKO1429	Knitting	GR. Kniting machine operator	knitting	5th	A	20.05.1978	23.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rubel	মোঃ রুবলে	TKO1452	Knitting	GR. Kniting machine operator	knitting	5th	A	03.12.1983	02.09.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shamim	মোঃ সামমি	TKO1501	Knitting	GR. Kniting machine operator	knitting	5th	A	09.10.1987	15.10.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Alamgir Fakir	মোঃ আলমগীর ফকরি	TKO1526	Knitting	GR. Kniting machine operator	knitting	5th	A	15.02.1981	05.01.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Harun-ar-rashid	মোঃ হারুন অর রশদি	TKO1527	Knitting	GR. Kniting machine operator	knitting	5th	A	07.05.1982	05.01.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Saddam Kha	মোঃ সাদ্দাম খাঁ	TKO1574	Knitting	GR. Kniting machine operator	knitting	5th	A	07.03.1991	16.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Monir Hossain	মোঃ মনরি হোসাইন	TKO1789	Knitting	GR. Kniting machine operator	knitting	5th	A	01.06.19971	02.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ashik Shakh	মোঃ আশকি শখে	TKO1777	Knitting	GR. Kniting machine operator	knitting	5th	A	12.04.1991	18.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rasel Mullah	মোঃ রাসলে মোল্লাহ	TKO1575	Knitting	GR. Kniting machine operator	knitting	5th	A	14.03.1992	16.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Juwel Hossain	মোঃ জুয়লে হোসাইন	TKO1610	Knitting	GR. Kniting machine operator	knitting	5th	A	28.09.1989	16.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Nasir Uddin	মোঃ নাসরি উদ্দনি	TKO1625	Knitting	GR. Kniting machine operator	knitting	5th	A	01.06.1986	02.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Kahium	মোঃ কাইয়ুম	TKO1718	Knitting	GR. Kniting machine operator	knitting	5th	A	01.01.1982	02.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ellean Bhuyan	মোঃ ইলনি ভূয়া	TKO1679	Knitting	GR. Kniting machine operator	knitting	5th	A	10.09.1993	21.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Salman Shakh	মোঃ সালমান শখে	TKO1690	Knitting	GR. Kniting machine operator	knitting	5th	A	01.01.1990	01.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rasel  	মোঃ রাসলে 	TKO0019	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1990	17.03.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mohsin	মোঃ মহসনি 	TKO0155	Knitting	GR. Kniting machine operator	knitting	5th	B	10.11.1985	02.03.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sohel Hawladar	মোঃ সোহলে হাওলাদার	TKO0370	Knitting	GR. Kniting machine operator	knitting	5th	B	05.06.1983	01.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Borhan	মোঃ বোরহান 	TKO0423	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1988	11.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rafiqul Islam	মোঃ রফকিুল ইসলাম	TKO0434	Knitting	GR. Kniting machine operator	knitting	5th	B	05.01.1989	13.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+MD. Babu Promanik	মোঃ বাবু প্রমানকি	TKO0565	Knitting	GR. Kniting machine operator	knitting	5th	B	04.06.1987	18.05.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abu Bakor Hawladar	মোঃ আবু বক্কর হাওলাদার	TKO0634	Knitting	GR. Kniting machine operator	knitting	5th	B	21.01.1988	16.06.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rajib Muktar	মো রাজবি মুক্তার	TKO654	Knitting	GR. Kniting machine operator	knitting	5th	B	15.07.1988	08.07.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Basir Ahamed	মোঃ বসরি আহাম্মদে	TKO0707	Knitting	GR. Kniting machine operator	knitting	5th	B	10.05.1992	21.08.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Musabul Hossain	মোঃ মুসবুল হোসাইন	TKO0768	Knitting	GR. Kniting machine operator	knitting	5th	B	21.03.1986	09.09.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Abdul Jalil	মোঃ আব্দুল জললি	TKO838	Knitting	GR. Kniting machine operator	knitting	5th	B	13.03.1985	02.01.2014	6	Production	5678	YES	M	MARRIED   	NO
+MD. Akter Hossain	মোঃ আক্তার হোসাইন	TKO0942	Knitting	GR. Kniting machine operator	knitting	5th	B	10.02.1989	12.04.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Kamal Hossain	মোঃ কামাল হোসাইন	TKO0966	Knitting	GR. Kniting machine operator	knitting	5th	B	17.10.1982	26.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sobuj 	মোঃ সবুজ	TKO0968	Knitting	GR. Kniting machine operator	knitting	5th	B	03.09.1988	22.04.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Ujol Miah	মোঃ উজ্জল	TKO1017	Knitting	GR. Kniting machine operator	knitting	5th	B	15.02.1988	05.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Sree Vobesh Chondro Das	শ্রী ভবশে চন্দ্র দাস	TKO1084	Knitting	GR. Kniting machine operator	knitting	5th	B	20.11.1988	14.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Milon Hawladar	মোঃ মলিন হাওলাদার	TKO1156	Knitting	GR. Kniting machine operator	knitting	5th	B	19.06.1986	02.06.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Kanon Hawladar	মোঃ কানন হাওলাদার	TKO1301	Knitting	GR. Kniting machine operator	knitting	5th	B	03.02.1988	07.07.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Anawar Hossain	মোঃ আনোয়ার হোসাইন	TKO1308	Knitting	GR. Kniting machine operator	knitting	5th	B	10.05.1987	05.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Aminur Islam	মোঃ আমনিুর ইসলাম	TKO1326	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1987	06.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Nasir Uddin	মোঃ নাসরি উদ্দনি	TKO1338	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1982	09.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Aman Ullah	মোঃ আমান উল্লাহ	TKO1482	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1994	12.10.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Noman	মোঃ নোমান	TKO1529	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1986	20.01.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sumon Hossain	মোঃ সুমন হোসাইন	TKO1584	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1987	17.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Hormuj hawladar	মোঃ হরমুজ হাওলাদার	TKO1589	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1981	16.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jubaidul Islam	মোঃ জুবাইদুল ইসলাম	TKO1631	Knitting	GR. Kniting machine operator	knitting	5th	B	13.02.1990	08.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Saidul Islam	মোঃ সাইদুল ইসলাম	TKO1695	Knitting	GR. Kniting machine operator	knitting	5th	B	15.05.1990	01.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ishak	মোঃ ইসহাক	TKO1697	Knitting	GR. Kniting machine operator	knitting	5th	B	05.06.1971	01.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sahnur alam	মোঃ শাহনুর আলম	TKO1715	Knitting	GR. Kniting machine operator	knitting	5th	B	13.10.1979	02.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Majnu Sarker	মোঃ মনজু সরকার	TKO1716	Knitting	GR. Kniting machine operator	knitting	5th	B	15.05.1987	02.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Thuhin Hossain	মোঃ তুহনি হোসাইন	TKO1724	Knitting	GR. Kniting machine operator	knitting	5th	B	17.02.1995	02.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Sahdat Hossain Dali	মোঃ শাহাদত হোসাইন ডালী	TKO1745	Knitting	GR. Kniting machine operator	knitting	5th	B	20.04.1988	07.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Samsuhujaman	মোঃ শামসুজ্জামান	TKO1751	Knitting	GR. Kniting machine operator	knitting	5th	B	20.04.1985	09.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Suruj Alli	মো সুরুজ আলী	TKO1752	Knitting	GR. Kniting machine operator	knitting	5th	B	01.01.1983	08.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Msud Rana	মোঃ মাসুদ রানা	TKO1768	Knitting	GR. Kniting machine operator	knitting	5th	B	12.11.1989	11.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Juwel Miah	মোঃ জুয়লে ময়িা	TKO1787	Knitting	GR. Kniting machine operator	knitting	5th	B	05.07.1988	02.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Faruque 	মোঃ ফারুক 	TKO0264	Knitting	GR. Kniting machine operator	knitting	5th	C	10.09.1996	13.03.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Bachu Hawladar	মোঃ বাচ্চু হাওলাদার	TKO0821	Knitting	GR. Kniting machine operator	knitting	5th	C	04.06.1988	02.01.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Faruque 	মোঃ ফারুক 	TKO0823	Knitting	GR. Kniting machine operator	knitting	5th	C	03.03.1994	02.01.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Sujon Miah	মোঃ সুজন ময়িা	TKO0824	Knitting	GR. Kniting machine operator	knitting	5th	C	05.03.1991	02.01.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Belal Hossain	মোঃ বল্লিাল হোসাইন	TKO0967	Knitting	GR. Kniting machine operator	knitting	5th	C	15.07.1992	01.04.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Giash Uddin	মোঃ গয়িাস উদ্দনি	TKO1036	Knitting	GR. Kniting machine operator	knitting	5th	C	15.07.1995	08.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abdul Kahium	মোঃ আব্দুল কাইয়ুম	TKO1071	Knitting	GR. Kniting machine operator	knitting	5th	C	04.07.1987	14.05.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mashiur rahman	মোঃ মশউর রহমান	TKO1157	Knitting	GR. Kniting machine operator	knitting	5th	C	05.07.1986	02.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ruhul Amin	মোঃ রুহুল আমনি	TKO1246	Knitting	GR. Kniting machine operator	knitting	5th	C	05.03.1991	17.06.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Sree Kanchon Roy	শ্রী কাঞ্চন রায়	TKO1318	Knitting	GR. Kniting machine operator	knitting	5th	C	15.03.1981	06.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jahangir Sakh	মোঃ জাহানঙ্গীর শখে	TKO1374	Knitting	GR. Kniting machine operator	knitting	5th	C	12.08.1994	17.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Mrs. Monowra Khatun	মোছাঃ মনোয়ারা খ্তাুন	TKO1382	Knitting	GR. Kniting machine operator	knitting	5th	C	22.08.1995	16.08.2014	6	Production	5678	YES	F	UNMARRIED   	NO
+MD. Abu Saleh	মোঃ আবু সালহে	TKO1455	Knitting	GR. Kniting machine operator	knitting	5th	C	10.05.1987	01.09.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Anisur Rahman	মোঃ আনসিুর রহমান	TKO1487	Knitting	GR. Kniting machine operator	knitting	5th	C	06.04.1989	13.10.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jahirul Islam	মোঃ জহরিুল ইসলাম	TKO1608	Knitting	GR. Kniting machine operator	knitting	5th	C	07.09.1989	17.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Julhash Shikdar	মােঃ জুলহাস শকিদার	TKO1606	Knitting	GR. Kniting machine operator	knitting	5th	C	12.05.1988	18.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Moshiur miah	মোঃ মশউর ময়িা	TKO1609	Knitting	GR. Kniting machine operator	knitting	5th	C	12.10.1985	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shohel Dehawn	মােঃ সুহলে দাওয়ান	TKO1613	Knitting	GR. Kniting machine operator	knitting	5th	C	15.05.1987	17.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jahirul Islam	মোঃ জহরিুল ইসলাম	TKO1622	Knitting	GR. Kniting machine operator	knitting	5th	C	10.02.1996	02.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Rahimul Islam	মোঃ রাহমিুল ইসলাম	TKO1629	Knitting	GR. Kniting machine operator	knitting	5th	C	24.01.1996	03.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Roni	মোঃ রনি	TKO1738	Knitting	GR. Kniting machine operator	knitting	5th	C	17.07.1992	06.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Shahin Miah	মোঃ শাহনি ময়িা	TKO1743	Knitting	GR. Kniting machine operator	knitting	5th	C	10.10.1990	08.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Aminul Islam	মোঃ আমনিুর ইসলাম	TKO1744	Knitting	GR. Kniting machine operator	knitting	5th	C	06.05.1983	08.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Juwel Miah	মোঃ জুয়লে ময়িা	TKO0154	Knitting	GR. Kniting machine operator	knitting	5th	D	15.07.1991	02.03.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Milon Sarkar	মোঃ মলিন সরকার	TKO0169	Knitting	GR. Kniting machine operator	knitting	5th	D	07.10.1986	02.03.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Anmul Hasan	মোঃ আনামুল হোসাইন	TKO0478	Knitting	GR. Kniting machine operator	knitting	5th	D	08.02.1981	22.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Hafijul Islam	মোঃ হাফজিুল ইিসলাম	TKO0863	Knitting	GR. Kniting machine operator	knitting	5th	D	21.02.1983	26.01.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Nasir Uddin	মোঃ নাসরি উদ্দনি	TKO0914	Knitting	GR. Kniting machine operator	knitting	5th	D	01.02.1994	15.03.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Shakh Muhon	মোঃ শখে মোহন	TKO0948	Knitting	GR. Kniting machine operator	knitting	5th	D	01.01.1987	09.04.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Akther Hossain	মোঃ আক্তার হোসাইন	TKO1114	Knitting	GR. Kniting machine operator	knitting	5th	D	16.04.1986	14.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+MD. Ibrahim	মোঃ ইব্রাহমি	TKO1176	Knitting	GR. Kniting machine operator	knitting	5th	D	10.05.1980	01.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Harun	হারুন	TKO1193	Knitting	GR. Kniting machine operator	knitting	5th	D	15.06.1989	01.06.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md.Rafiq	মোঃ রফকি 	TKO1329	Knitting	GR. Kniting machine operator	knitting	5th	D	09.07.1978	07.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Helal Mia	মোঃ হলোল ময়িা	TKO1336	Knitting	GR. Kniting machine operator	knitting	5th	D	10.08.1994	10.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Chad miah	মোঃ চাদঁ ময়িা	TKO1360	Knitting	GR. Kniting machine operator	knitting	5th	D	12.01.1989	12.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Yakub Ali	মোঃ ইয়াকুব আলী	TKO1377	Knitting	GR. Kniting machine operator	knitting	5th	D	08.01.1994	12.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Harich Khan	মোঃ হারচি খান	TKO1432	Knitting	GR. Kniting machine operator	knitting	5th	D	30.01.1982	24.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ripon Mollik	মোঃ রপিন মল্লকি	TKO1521	Knitting	GR. Kniting machine operator	knitting	5th	D	25.06.1983	03.01.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Hirok Sakh	মোঃ হীরক শখে	TKO1524	Knitting	GR. Kniting machine operator	knitting	5th	D	05.10.1983	03.01.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Amirul Islam	মোঃ আমরিুল ইসলাম	TKO1578	Knitting	GR. Kniting machine operator	knitting	5th	D	15.05.1985	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Dulu Miah	মোঃ দুলু ময়িা	TKO1627	Knitting	GR. Kniting machine operator	knitting	5th	D	20.06.1994	03.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Abu Sayed Mollik	মোঃ আবু সাইদ মল্লকি	TKO1637	Knitting	GR. Kniting machine operator	knitting	5th	D	28.03.1986	09.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Rakib	মোঃ রাকবি	TKO1667	Knitting	GR. Kniting machine operator	knitting	5th	D	01.02.1988	21.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Rashed	মোঃ রশদি	TKO1737	Knitting	GR. Kniting machine operator	knitting	5th	D	10.10.1989	05.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sujon Miah	মোঃ সুজন ময়িা	TKO0484	Knitting	GR. Kniting machine operator	knitting	5th	E	12.12.1982	24.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shamim Hossain 	মোঃ শামমি হোসাইন	TKO0647	Knitting	GR. Kniting machine operator	knitting	5th	E	05.05.1993	01.07.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Shabuddin Hawladar	মোঃ শাহবউদ্দনি হাওলাদার	TKO0667	Knitting	GR. Kniting machine operator	knitting	5th	E	31.12.1984	20.07.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rafiqul Islam	মোঃ রফকিুল ইসলাম	TKO0692	Knitting	GR. Kniting machine operator	knitting	5th	E	23.10.1979	21.08.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Masud Rana	মোঃ মাসুদ রানা	TKO0722	Knitting	GR. Kniting machine operator	knitting	5th	E	13.06.1994	04.09.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Dulal Miah	মোঃ দুলাল ময়িা	TKO0747	Knitting	GR. Kniting machine operator	knitting	5th	E	25.04.1982	03.09.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Anayeth Gazi	মোঃ এনায়তে গাজী	TKO0865	Knitting	GR. Kniting machine operator	knitting	5th	E	01.06.1985	25.01.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Omar Faruk	মোঃ ওমর ফারুক	TKO0903	Knitting	GR. Kniting machine operator	knitting	5th	E	08.10.1991	11.03.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shohel Rana	মোঃ সোহলে রানা	TKO0929	Knitting	GR. Kniting machine operator	knitting	5th	E	30.01.1992	03.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shohag Mia	মোঃ সোহাগ ময়িা	TKO1142	Knitting	GR. Kniting machine operator	knitting	5th	E	12.11.1987	22.05.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Saju Miah	মোঃ সাজু ময়িা	TKO1158	Knitting	GR. Kniting machine operator	knitting	5th	E	02.05.1988	01.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Hamim	মোঃ হামমি	TKO1160	Knitting	GR. Kniting machine operator	knitting	5th	E	01.01.1988	01.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Billal Hossain	মোঃ বল্লিাল হোসাইন	TKO1162	Knitting	GR. Kniting machine operator	knitting	5th	E	12.08.1982	01.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Maruf Hossain	মোঃ মারুফ হোসাইন	TKO1164	Knitting	GR. Kniting machine operator	knitting	5th	E	14.03.1989	07.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rafiqul Islam	মোঃ রফকিুল ইসলাম	TKO1189	Knitting	GR. Kniting machine operator	knitting	5th	E	07.09.1983	12.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Soleahman	মোঃ সোলায়মান	TKO1237	Knitting	GR. Kniting machine operator	knitting	5th	E	09.10.1981	17.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+MD. Sobuj 	মোঃ সবুজ	TKO1341	Knitting	GR. Kniting machine operator	knitting	5th	E	24.12.1986	10.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Abul Kalam Bapari	আবুল কালাম বপোরী	TKO1486	Knitting	GR. Kniting machine operator	knitting	5th	E	24.08.1982	13.10.2014	6	Production	5678	YES	M	MARRIED   	NO
+MD. Masud Rana	মোঃ মাসুদ রানা	TKO1532	Knitting	GR. Kniting machine operator	knitting	5th	E	02.03.1979	01.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+MD. SM Mostofa	মোঃ এস এম মোস্তফা	TKO1628	Knitting	GR. Kniting machine operator	knitting	5th	E	12.03.1986	01.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md.Jahid Hasan	মোঃ জাহদি হাসান	TKO1686	Knitting	GR. Kniting machine operator	knitting	5th	F	28.06.1983	23.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Rabiul Miah	রবউল ময়িা	TKO1457	Knitting	GR. Kniting machine operator	knitting	5th	G	08.07.1987	01.09.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Billal Hossain	মোঃ বল্লিাল হোসাইন	TKO1458	Knitting	GR. Kniting machine operator	knitting	5th	G	12.03.1985	01.09.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Delawar Hossain	মোঃ দলোেয়ার হসোইন	TKO1467	Knitting	GR. Kniting machine operator	knitting	5th	G	05.09.1983	01.09.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rasel Hossain	মোঃ রাসলে হোসাইন	TKO1805	Knitting	GR. Kniting machine operator	knitting	5th	G	01.01.1994	15.10.2014	6	Production	5678	YES	M	MARRIED   	NO
+Mrs. Yasmin Begum	মোছাঃ ইয়াসমনি বগেম	TKO1538	Knitting	GR. Kniting machine operator	knitting	5th	G	03.02.1980	14.02.2015	6	Production	5678	YES	F	MARRIED   	NO
+Md. Samsurrahman Munshi	মোঃ সামশুররহমান মুন্সী	TKO1547	Knitting	GR. Kniting machine operator	knitting	5th	G	12.03.1988	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rajib Hossain	মোঃ রাজবি হোসাইন	TKO1550	Knitting	GR. Kniting machine operator	knitting	5th	G	03.05.1990	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abul Bashahar	মোঃ আবুল বাশাহার	TKO1555	Knitting	GR. Kniting machine operator	knitting	5th	G	22.08.1988	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Mubarok Hossain	মুবারক হোসাইন	TKO1556	Knitting	GR. Kniting machine operator	knitting	5th	G	02.01.1985	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shohel 	মো সুহলে	TKO1597	Knitting	GR. Kniting machine operator	knitting	5th	G	02.11.1989	15.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md Rashed	মোঃ রসদি	TKO1680	Knitting	GR. Kniting machine operator	knitting	5th	G	20.07.1982	24.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Saidul Hossain	মোঃ সাইদুল হোসাইন	TKO1733	Knitting	GR. Kniting machine operator	knitting	5th	G	01.01.1990	05.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Sultan	মোঃ সুলতান	TKO1749	Knitting	GR. Kniting machine operator	knitting	5th	G	05.08.1981	09.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Arif Hossain	মোঃ আরফি হোসাইন	TKO1767	Knitting	GR. Kniting machine operator	knitting	5th	G	01.03.1991	13.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Maidul Islam	মোঃ মাইদুল ইসলাম	TKO1778	Knitting	GR. Kniting machine operator	knitting	5th	G	01.01.1984	18.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Hafijur Rahman	মোঃ হাফজিুর রহমান	TKO1786	Knitting	GR. Kniting machine operator	knitting	5th	G	05.10.1985	02.05.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Jahangir Alam	মোঃ জাহাঙ্গীর আলম	TKO0129	Knitting	GR. Kniting machine operator	knitting	5th	G	05.10.1978	18.02.2013	6	Production	5678	YES	M	MARRIED   	NO
+Sushil Chandra Das	শুশীল চন্দ্র দাস	TKO0208	Knitting	GR. Kniting machine operator	knitting	5th	G	15.05.1985	02.03.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Saidul Islam	মোঃ সাইদুল ইসলাম	TKO0246	Knitting	GR. Kniting machine operator	knitting	5th	G	21.06.1980	10.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shohel Mredha	মোঃ সোহলে মৃধা	TKO0305	Knitting	GR. Kniting machine operator	knitting	5th	G	18.05.1987	16.03.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Mahbubul Alam Khan	মোঃ মাহবুবুল আলম খান	TKO0328	Knitting	GR. Kniting machine operator	knitting	5th	G	01.06.1983	12.03.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sah Alam	মোঃ শাহ আলম	TKO0348	Knitting	GR. Kniting machine operator	knitting	5th	G	21.02.1978	12.03.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Monirul Islam	মোঃ মনরিুল ইসল্মা	TKO0364	Knitting	GR. Kniting machine operator	knitting	5th	G	01.02.1989	27.03.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Delawar Thaludar	মোঃ দলোেয়ার তালুকদার	TKO0441	Knitting	GR. Kniting machine operator	knitting	5th	G	18.04.1984	15.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Mrs. Fatema Begum	মোছাঃ ফাতমো বগেম	TKO0443	Knitting	GR. Kniting machine operator	knitting	5th	G	21.03.1983	16.04.2013	6	Production	5678	YES	F	MARRIED   	NO
+Md. Roton Miah	মোঃ রতন ময়িা	TKO0514	Knitting	GR. Kniting machine operator	knitting	5th	G	09.07.1977	17.04.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abdur Rahim	মোঃ আব্দুর রহমি	TKO0732	Knitting	GR. Kniting machine operator	knitting	5th	G	05.08.1982	04.09.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Harun-ar-rashid	মোঃ হারুন অর রশদি	TKO0763	Knitting	GR. Kniting machine operator	knitting	5th	G	12.03.1979	07.09.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Ismail	মোঃ ইসমাইল	TKO0818	Knitting	GR. Kniting machine operator	knitting	5th	G	18.05.1994	22.12.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Mrs. Ruma Akther	মোছাঃ রুমা আক্তার	TKO0836	Knitting	GR. Kniting machine operator	knitting	5th	G	01.03.1990	12.01.2014	6	Production	5678	YES	F	MARRIED   	NO
+Yusuf Khan	ইউসুফ খান	TKO0874	Knitting	GR. Kniting machine operator	knitting	5th	G	12.03.1988	08.02.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Mamun Hawladar	মোঃ মামুন হাওলাদার	TKO0922	Knitting	GR. Kniting machine operator	knitting	5th	G	26.08.1988	12.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Kabir Hossain	কবরি হোসাইন	TKO0987	Knitting	GR. Kniting machine operator	knitting	5th	G	07.07.1982	26.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Monir Hossain	মোঃ মনরি হোসাইন	TKO0999	Knitting	GR. Kniting machine operator	knitting	5th	G	04.10.1982	03.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Hasan Miah	হাসান ময়িা	TKO1083	Knitting	GR. Kniting machine operator	knitting	5th	G	10.08.1987	12.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Joni Roy	জনি রায়	TKO1232	Knitting	GR. Kniting machine operator	knitting	5th	G	02.08.1981	18.06.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Jashim Uddin 	মোঃ জসমি উদ্দনি	TKO1238	Knitting	GR. Kniting machine operator	knitting	5th	G	15.10.1986	18.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Mostofa Kamal	মোঃ মোস্তফা কামাল	TKO1252	Knitting	GR. Kniting machine operator	knitting	5th	G	14.02.1985	22.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Eklash Uddin	মোঃ এখলাস উদ্দনি	TKO1296	Knitting	GR. Kniting machine operator	knitting	5th	G	05.07.1992	03.07.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Younus Chokidar	মোঃ ইউনুস উদ্দনি	TKO1365	Knitting	GR. Kniting machine operator	knitting	5th	G	22.01.1973	13.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rahath Hossain	মোঃ রাহাত হোসাইন	TKO1442	Knitting	GR. Kniting machine operator	knitting	5th	G	16.12.1985	26.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Akbar Bapari	মোঃ আকবর বপোরী	TKO1939	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1991	10.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rejaul 	মোঃ রজোউল	TKO1367	Knitting	GR. Kniting machine operator	knitting	5th	H	02.01.1990	11.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Sree Prosanto Roy	শ্রী প্রসান্ত রায়	TKO1494	Knitting	GR. Kniting machine operator	knitting	5th	H	13.06.1990	14.10.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Akass Alli	মোঃ আক্কাস আলী	TKO1540	Knitting	GR. Kniting machine operator	knitting	5th	H	02.01.1992	14.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Hamayet Khandaker	মোঃ হমোয়তে খন্দকার	TKO1548	Knitting	GR. Kniting machine operator	knitting	5th	H	15.08.1986	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rukon Miah	মোঃ রুকন ময়িা	TKO1568	Knitting	GR. Kniting machine operator	knitting	5th	H	30.11.1990	16.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mahdav Shikdar	মোঃ মাদব শকিদার	TKO1569	Knitting	GR. Kniting machine operator	knitting	5th	H	12.06.1995	16.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Shadiul	মোঃ শহদিুল	TKO1591	Knitting	GR. Kniting machine operator	knitting	5th	H	01.05.1979	16.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+MD. Najmul Hossain	মোঃ নাজমুল হোসাইন	TKO1619	Knitting	GR. Kniting machine operator	knitting	5th	H	05.10.1988	01.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Al Amin	মোঃ আল আমীন	TKO1624	Knitting	GR. Kniting machine operator	knitting	5th	H	12.05.1993	02.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Momin Bokaul	মোঃ মমনি বাউকুল	TKO1640	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1989	10.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Bimol Chandro Das	বমিল চন্দ্র দাস	TKO1642	Knitting	GR. Kniting machine operator	knitting	5th	H	10.12.1987	10.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Hrun	মোঃ হারুন 	TKO1660	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1986	17.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Babul Hossain	মোঃ বাবুল হোসাইন	TKO1674	Knitting	GR. Kniting machine operator	knitting	5th	H	01.05.1995	18.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Sahfiq Miah	মো সফকি ময়িা	TKO1675	Knitting	GR. Kniting machine operator	knitting	5th	H	15.05.1995	15.03.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mamun Miah	মোঃ মামুন মযিা	TKO1698	Knitting	GR. Kniting machine operator	knitting	5th	H	23.12.1982	01.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Humayun Kabir	মোঃ হুমায়ুন কবরি	TKO1708	Knitting	GR. Kniting machine operator	knitting	5th	H	06.08.1985	01.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Liton Shikdar	মোঃ লটিন শকিদার	TKO1713	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1983	02.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+MD. Lalon	মোঃ লালন	TKO1714	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1991	02.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Alauddin	মোঃ আলাউদ্দনি	TKO1719	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1983	01.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Shipon Dali	মোঃ শপিন ডালী	TKO1725	Knitting	GR. Kniting machine operator	knitting	5th	H	13.01.1988	05.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Fuad	মোঃ ফুয়াদ	TKO1736	Knitting	GR. Kniting machine operator	knitting	5th	H	11.04.1982	07.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+MD. Idon Miah	মোঃ ইদন ময়িা	TKO1742	Knitting	GR. Kniting machine operator	knitting	5th	H	07.03.1982	08.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Bachu Miah	মোঃ বাচ্চু ময়িা	TKO1746	Knitting	GR. Kniting machine operator	knitting	5th	H	03.08.1971	08.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jiaur Rahman	মোঃ জয়িাউর রহমান	TKO1750	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1978	11.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abdul Malek Akonda	মোঃ আব্দুল মালকে আকন্দ	TKO1759	Knitting	GR. Kniting machine operator	knitting	5th	H	15.02.1987	11.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Yousuf Alli	মোঃ ইউসুফ আলী	TKO1761	Knitting	GR. Kniting machine operator	knitting	5th	H	12.12.1984	11.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Afil Uddin	মোঃ আফজাল উদ্দনি	TKO1769	Knitting	GR. Kniting machine operator	knitting	5th	H	15.11.1984	15.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Din islam	মোঃ দীন ইসলাম	TKO1774	Knitting	GR. Kniting machine operator	knitting	5th	H	05.10.1993	15.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Anwar Hossain	মোঃ আনোয়ার হোসাইন	TKO1775	Knitting	GR. Kniting machine operator	knitting	5th	H	11.02.1983	18.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Habibur Rahman	মোঃ হাববিুর রহমান	TKO1776	Knitting	GR. Kniting machine operator	knitting	5th	H	20.08.1984	19.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rafiqul Islam	মোঃ রফকিুল ইসলাম	TKO1781	Knitting	GR. Kniting machine operator	knitting	5th	H	01.01.1984	21.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Yasin 	মোঃ ইয়াসনি	TKO1783	Knitting	GR. Kniting machine operator	knitting	5th	H	09.07.1990	23.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mijanur rahman	মোঃ মজিানুর রহমান	TKO1790	Knitting	GR. Kniting machine operator	knitting	5th	H	12.12.1985	03.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Mijanur rahman	মোঃ মজিানুর রহমান	TKO1792	Knitting	GR. Kniting machine operator	knitting	5th	H	20.05.1992	03.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rabiul Alam	মোঃ রবউল আলম	Tko1795	Knitting	GR. Kniting machine operator	knitting	5th	H	12.02.1984	17.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Majaharul Islam	মোঃ মাজহারুল ইসলাম	TKO1796	Knitting	GR. Kniting machine operator	knitting	5th	H	28.04.1995	17.05.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Monir Hossain	মোঃ মনরি হোসাইন	TKO1797	Knitting	GR. Kniting machine operator	knitting	5th	H	20.03.1990	17.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sahdat Hossain 	মোঃ শাহদাত হোসাইন	TKO1799	Knitting	GR. Kniting machine operator	knitting	5th	H	05.05.1991	6.27.2005	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mahmudur Rahman	মোঃ মাহমুদুর রহমান	TKO0003	Knitting	GR. Kniting machine operator	knitting	5th	I	25.12.1993	16.02.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Milon Hossain	মোঃ মলিন হোসাইন	TKO0007	Knitting	GR. Kniting machine operator	knitting	5th	I	04.07.1985	16.02.2013	6	Production	5678	YES	M	MARRIED   	NO
+Shakh Moniul Islam	শখে মইনুল ইসলাম	TKO0127	Knitting	GR. Kniting machine operator	knitting	5th	I	29.09.1979	20.02.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rabiul Sakh	মোঃ রবউল শখে	TKO0803	Knitting	GR. Kniting machine operator	knitting	5th	I	05.11.1989	02.11.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jahid Hasan	মোঃ জাহদি হাসান	TKO0866	Knitting	GR. Kniting machine operator	knitting	5th	I	03.03.1979	01.02.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abul Kalam Azad	মোঃ আবুল কালাম আজাদ	TKO0998	Knitting	GR. Kniting machine operator	knitting	5th	I	01.01.1985	03.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sher Ali Hawladar	মো শরে আলী হাওলাদার	TKO1140	Knitting	GR. Kniting machine operator	knitting	5th	I	20.05.1990	24.05.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Humayun Kabir	মোঃ হুমায়ুন কবরি	TKO1202	Knitting	GR. Kniting machine operator	knitting	5th	I	02.09.1979	04.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abdul Kahalek	মোঃ আব্দুল খালকে	TKO1617	Knitting	GR. Kniting machine operator	knitting	5th	I	24.01.1978	14.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Jillur Rahman	মোঃ জল্লিুর রহমান	TKO1648	Knitting	GR. Kniting machine operator	knitting	5th	I	11.06.1983	14.03.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Mafijur Rahman	মোঃ মফজিুর রহমান	TKO1730	Knitting	GR. Kniting machine operator	knitting	5th	I	21.01.1984	05.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sohel	মোঃ সোহলে	TKO0112	Knitting	GR. Kniting machine operator	knitting	5th	J	01.01.1989	17.02.2013	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sumon	মোঃ সুমন  	TKO0501	Knitting	GR. Kniting machine operator	knitting	5th	J	04.12.1991	18.04.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Shariful Islam	মো শরীফুল ইসলাম	TKO0670	Knitting	GR. Kniting machine operator	knitting	5th	J	12.09.1991	20.08.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Musa Miah	মোঃ মোসা ময়িা	TKO0729	Knitting	GR. Kniting machine operator	knitting	5th	J	03.07.1987	01.09.2013	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Rubel Hossain	মোঃ রুবলে হুসনে	TKO0742	Knitting	GR. Kniting machine operator	knitting	5th	J	01.02.1982	05.09.2013	6	Production	5678	YES	M	MARRIED   	NO
+Rabiul Awal	মোঃ রবউল আওয়াল	TKO0919	Knitting	GR. Kniting machine operator	knitting	5th	J	22.04.1984	01.04.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Mintu Sikdar	মোঃ মতিু শকিদার	TKO1211	Knitting	GR. Kniting machine operator	knitting	5th	J	01.01.1982	09.06.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Alli	মোঃ আলী	TKO1292	Knitting	GR. Kniting machine operator	knitting	5th	J	10.04.1972	01.07.2014	6	Production	5678	YES	M	MARRIED   	NO
+Md. Arif Kha	মোঃ আরফি খাঁ	TKO1323	Knitting	GR. Kniting machine operator	knitting	5th	J	09.09.1990	07.08.2014	6	Production	5678	YES	M	MARRIED   	NO
+Ruhul Amin	রুহুল আমীন	TKO1376	Knitting	GR. Kniting machine operator	knitting	5th	J	01.01.1982	12.08.2014	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Mojibur Rahman	মজবিুর রহমান	TKO1535	Knitting	GR. Kniting machine operator	knitting	5th	J	11.05.1981	01.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Al Amin	মোঃ আল আমীন	TKO1544	Knitting	GR. Kniting machine operator	knitting	5th	J	11.09.1991	10.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Humayun Kabir	মোঃ হুমায়ুন কবরি	TKO1557	Knitting	GR. Kniting machine operator	knitting	5th	J	20.11.1994	15.02.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Rafiqul Islam	মোঃ রফকিুল ইসলাম	TKO1581	Knitting	GR. Kniting machine operator	knitting	5th	J	25.05.1991	15.02.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Lokman Hossain	মোঃ লুকমান হুসাইন	TKO1699	Knitting	GR. Kniting machine operator	knitting	5th	J	10.05.1986	01.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Sree Roni Sarker	শ্রী রনি সরকার	TKO1726	Knitting	GR. Kniting machine operator	knitting	5th	J	15.02.1987	05.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. SHoHel	মোঃ সোহলে	TKO1728	Knitting	GR. Kniting machine operator	knitting	5th	J	30.07.1993	05.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Badal Shak	মোঃ বাদল শখে	TKO1731	Knitting	GR. Kniting machine operator	knitting	5th	J	06.07.1986	06.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abul Kalam	মোঃ আবুল কালাম  	TKO1747	Knitting	GR. Kniting machine operator	knitting	5th	J	05.09.1991	11.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Jashim Miah	মোঃ জসমি ময়িা	TKO1754	Knitting	GR. Kniting machine operator	knitting	5th	J	15.03.1988	11.04.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Rubel 	মো রুবলে	TKO1765	Knitting	GR. Kniting machine operator	knitting	5th	J	05.02.1985	09.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Sahin Khan	মোঃ শাহীন খান	TKO1770	Knitting	GR. Kniting machine operator	knitting	5th	J	02.05.1985	13.04.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Anamul HossainRoni	মোঃ এনামুল হোসাইন রনি	TKO1791	Knitting	GR. Kniting machine operator	knitting	5th	K	20.06.1996	04.05.2015	6	Production	5678	YES	M	UNMARRIED   	NO
+Md. Ruhul Amin Hawladar	মোঃ রুহুল আমনি হাওলাদার	TKO1793	Knitting	GR. Kniting machine operator	knitting	5th	K	03.02.1986	04.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abul Bashahar	মোঃ আবুল বাশার	TKO1794	Knitting	GR. Kniting machine operator	knitting	5th	K	07.06.1990	06.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Abdul Kaium	মোঃ আব্দুল কাইয়ুম	TKO1798	Knitting	GR. Kniting machine operator	knitting	5th	K	05.01.1989	19.05.2015	6	Production	5678	YES	M	MARRIED   	NO
+Md. Joynal 	মোঃ জয়নাল	TKO1800	Knitting	GR. Kniting machine operator	knitting	5th	K	15.11.1986	17.05.2015	6	Production	5678	YES	M	MARRIED   	NO
