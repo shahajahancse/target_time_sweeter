@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Utee</title>
-    
+
 <style type="text/css" charset="utf-8">/* See license.txt for terms of usage */
 
 /** reset styling **/
@@ -262,8 +262,8 @@
 }</style>
 </head>
 <body bgcolor="#C6DDEE">
-    
-  
+
+
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="<?php echo base_url();?>/images/tree_image/utree_data/2mxtree.css">
     <!-- base href="http://emed.trusterp.com/commonfiles/ASP/utree.aspx" -->
@@ -272,7 +272,7 @@
         .line{text-decoration:underline;}
       </style>
     <script language="javascript" type="text/javascript">
-              
+
 		    //Open or close nodes
 		    var temp="";
     		function SetNode(nodename) {
@@ -282,7 +282,7 @@
 	    			eval("nodeimage" + nodename + ".src = '<?php echo base_url();?>images/tree_image/utree_data/open.gif'");
 	    			eval("documents" + nodename + ".style.display = 'block'");
     				}
-				else {	
+				else {
 					// Close
 	    			eval("image" + nodename + ".src = '<?php echo base_url();?>images/tree_image/utree_data/plus.gif'");
 	    			eval("nodeimage" + nodename + ".src = '<?php echo base_url();?>images/tree_image/utree_data/closed.gif'");
@@ -310,8 +310,8 @@
             }
           }
        		//</script>
-  
-  
+
+
     <table border="0" cellpadding="0" cellspacing="0" width="180">
     </table>
     <nobr>
@@ -321,9 +321,9 @@
         <img src="<?php echo base_url();?>/images/tree_image/utree_data/minus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image1111" onClick="SetNode('1111');" border="0">
         <img src="<?php echo base_url();?>/images/tree_image/utree_data/open.gif" id="nodeimage1111" onDblClick="SetNode('1111');">ERP</div>
 	 <div class="nodedocuments" id="documents1111" style="display: block; margin-left: 16px;">
-	
-	
-	
+
+
+
       <div class="nodeheader">
         <b id="name10" name="eMed">
         </b>
@@ -357,96 +357,102 @@
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a style="background-color: transparent;" class="header" href="<?php echo base_url();?>index.php/emp_info_con/personal_info_view1" title="Employee All Info" target="right" id="dp3" onClick="MakeColoredBack('3');">Emp Info</a>
           </div>
-		  
+
         </div>
-       
-		
+
+
         <div class="nodeheader">
           <b id="name32" name="OP Pharmacy">
           </b>
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image32" onClick="SetNode('32');">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage32" onDblClick="SetNode('32');">Setup</div>
         <div class="nodedocuments" id="documents32" style="display: none; Margin-left: 16;">
-          
+
+          <div class="document">
+            <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
+            <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
+            <a class="header" href="<?php echo base_url();?>index.php/setup_con/emp_list" title="Emp List" target="right" id="dp6044" onClick="MakeColoredBack('6044');">Emp List</a>
+          </div>
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/company_info_setup" title="Company Information" target="right" id="dp68" onClick="MakeColoredBack('68');">Company Information</a>
           </div>
-          	  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/department" title="Department" target="right" id="dp67" onClick="MakeColoredBack('67');">Department</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/section" title="Section" target="right" id="dp68" onClick="MakeColoredBack('68');">Section</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/line" title="Line" target="right" id="dp69" onClick="MakeColoredBack('69');">Block</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/designation" title="Designation" target="right" id="dp70" onClick="MakeColoredBack('70');">Designation</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/position" title="Position" target="right" id="dp71" onClick="MakeColoredBack('71');">Position</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/operation" title="Operation" target="right" id="dp72" onClick="MakeColoredBack('72');">Operation</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/attendance_bonus" title="Attendance Bonus" target="right" id="dp73" onClick="MakeColoredBack('73');">Attendance Bonus</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/salary_grade" title="Salary Grade" target="right" id="dp74" onClick="MakeColoredBack('74');">Salary Grade</a>
           </div>
-		  
+
 		  <!--<div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/shift_schedule" title="Shift Schedules" target="right" id="dp75" onClick="MakeColoredBack('75');">Shift Schedules</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/shift_management" title="Shift Manage" target="right" id="dp76" onClick="MakeColoredBack('76');">Shift Manage</a>
           </div>
-        
-		
+
+
 		<div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/leave_setup" title="Leave Setup" target="right" id="dp77" onClick="MakeColoredBack('77');">Leave Setup</a>
           </div>-->
-		  
+
 		  <!--<div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/attributes_setup" title="Attributes Setup" target="right" id="dp78" onClick="MakeColoredBack('78');">Attributes Setup</a>
           </div>-->
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
@@ -455,118 +461,118 @@
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/allowance_setup" title="Bonus Setup" target="right" id="dp80" onClick="MakeColoredBack('80');">Allowance Setup</a></div>
-            
+
             <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/pf_setup" title="Provident Setup" target="right" id="dp81" onClick="MakeColoredBack('81');">Provident Setup</a></div>
-            
+
              <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/night_allowance_setup" title="Night Allowance Setup" target="right" id="dp82" onClick="MakeColoredBack('82');">Night Allowance</a></div>
-            
+
             <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/holiday_allowance_rules_setup" title="Holiday Rules" target="right" id="dp60114" onClick="MakeColoredBack('60114');">Holiday Allowance Rules</a>
             </div>
-            
-            
+
+
             <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/setup_con/half_holiday_allowance_rules_setup" title="Half Holiday Rules" target="right" id="dp60115" onClick="MakeColoredBack('60115');">Half Holiday Allowance Rules</a>
             </div>
-            
+
         </div>
-		
-		
+
+
 		 <div class="nodeheader">
           <b id="name300" name="Entry System">
           </b>
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image300" onClick="SetNode('300');">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage300" onDblClick="SetNode('300');">Entry System</div>
         <div class="nodedocuments" id="documents300" style="display: none; Margin-left: 16;">
-                    
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/grid_entry_system" title="All Entry" target="right" id="dp13001" onClick="MakeColoredBack('13001');">All Entry</a>
           </div>
-		  
+
 		  <!--<div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/leave_transation" title="Leave Transaction" target="right" id="dp13002" onClick="MakeColoredBack('13002');">Leave Transaction</a>
           </div>-->
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/advance_loan" title="Advance Loan" target="right" id="dp13003" onClick="MakeColoredBack('13003');">Advance Loan</a>
           </div>
-		  
+
 		   <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/resign_entry" title="Resign Entry" target="right" id="dp13004" onClick="MakeColoredBack('13004');">Resign Entry</a>
           </div>
-		  
+
 		  	<div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/left_entry" title="Resign Entry" target="right" id="dp13005" onClick="MakeColoredBack('13005');">Left Entry</a>
           </div>
 
-		  
-		  
+
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/earn_leave_entry" title="Earn Leave Entry" target="right" id="dp13006" onClick="MakeColoredBack('13006');">Earn Leave Entry</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/new_to_regular" title="New To Regular" target="right" id="dp13007" onClick="MakeColoredBack('13007');">New To Regular</a>
           </div>
-		  
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/emp_increment_con/increment_info" title="Increment Entry" target="right" id="dp13008" onClick="MakeColoredBack('13008');">Increment Entry</a>
           </div>
-		  
+
 		   <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/emp_increment_con/promotion_info" title="Promotion Entry" target="right" id="dp13009" onClick="MakeColoredBack('13009');">Promotion Entry</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/entry_system_con/pf_bank_interest" title="Provident Fund Bank Interest Rate" target="right" id="dp13010" onClick="MakeColoredBack('13010');">PF Bank Interest</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/manual_attendance_con/manual_attendance_data_entry_for_fixed" title="Manual Attendance" target="right" id="dp13011" onClick="MakeColoredBack('13011');">Manual Attendance For Fixed</a>
           </div>
-          
-          
+
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/manual_attendance_con/manual_attendance_data_entry_for_fixed_complience" title="Manual Attendance" target="right" id="dp13012" onClick="MakeColoredBack('13012');">Manual Attendance</a>
           </div>
-		  
+
         </div>
-		
-		
+
+
 		<!--<div class="nodeheader">
           <b id="name400" name="Process">
           </b>
@@ -579,7 +585,7 @@
             <a class="header" href="<?php echo base_url();?>index.php/attn_process_con/attn_process_form" title="Attendance Process" target="right" id="dp5070" onClick="MakeColoredBack('5070');">Attendance Process</a>
           </div>
 		 </div>-->
-		  
+
 		  <div class="nodeheader">
           <b id="name500" name="Reports">
           </b>
@@ -597,7 +603,7 @@
             <a class="header" href="<?php echo base_url();?>index.php/mars_con/others_report_front_end" title="Others Repor" target="right" id="dp5072" onClick="MakeColoredBack('5072');">Others Report</a>
           </div>
 		  </div>
-		  
+
       </div>
 	  <!--=============================================Payroll============================================-->
 	  <div class="nodeheader">
@@ -612,14 +618,14 @@
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image9001" onClick="SetNode('9001');" border="0">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage9001" onDblClick="SetNode('9001');">Process</div>
 		  <div class="nodedocuments" id="documents9001" style="display: none; Margin-left: 16;">
-          
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/salary_process_con/salary_process_form" title="Salary Process" target="right" id="dp5030" onClick="MakeColoredBack('5030');">Salary Process</a>
           </div>
          </div>
-		
+
 		<div class="nodeheader">
           <b id="name9002" name="Reports">
           </b>
@@ -631,13 +637,13 @@
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/salary_report_con/grid_salary_report" title="Salary Report" target="right" id="dp5073" onClick="MakeColoredBack('5073');">Salary Report</a>
           </div>
-          
+
 		  </div>
-		
+
 		</div>
-		
+
 	<!--=============================================Payroll============================================-->
-    
+
      <!--=============================================Production============================================-->
 	  <!--Header Start-->
       <div class="nodeheader">
@@ -659,83 +665,83 @@
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/buyer_info" title="Buyer Information" target="right" id="dp6011" onClick="MakeColoredBack('6011');">Buyer Information</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/merchandiser_info" title="Merchandiser Information" target="right" id="dp6012" onClick="MakeColoredBack('6012');">Merchandiser Information</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/color_info" title="Color Information" target="right" id="dp6013" onClick="MakeColoredBack('6013');">Color Information</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/size_info" title="Size Information" target="right" id="dp6014" onClick="MakeColoredBack('6014');">Size Information</a>
           </div>
-          
+
            <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/gauge_info" title="Gauge Information" target="right" id="dp6015" onClick="MakeColoredBack('6015');">Gauge Information</a>
           </div>
-          
+
            <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/shipment_mode" title="Shipment Mode" target="right" id="dp6016" onClick="MakeColoredBack('6016');">Shipment Mode</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/payment_mode" title="Payment Mode" target="right" id="dp6017" onClick="MakeColoredBack('6017');">Payment Mode</a>
           </div>
-          
+
            <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/style_information" title="Style Information" target="right" id="dp6018" onClick="MakeColoredBack('6018');">Style Information</a>
           </div>
-          
+
          <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/color_wise_lot" title="Color Wise Lot Information" target="right" id="dp6019" onClick="MakeColoredBack('6019');">Color Wise Lot Info</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/size_wise_lots" title="Size Wise Lots Information" target="right" id="dp60110" onClick="MakeColoredBack('60110');">Size Wise lots Info</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/entry_process_name_info" title="Process Name Information" target="right" id="dp60111" onClick="MakeColoredBack('60111');">Process Name Info</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/article_wise_process_price" title="Article Wise Process Price" target="right" id="dp60112" onClick="MakeColoredBack('60112');">Article Wise Process Price</a>
           </div>
-          
-          
+
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_setup_con/order_quantity_edit" title="Order Quantity Edit" target="right" id="dp60113" onClick="MakeColoredBack('60113');">Order Quantity Edit</a>
           </div>
-          
-          
+
+
          </div>
-         
+
          <!--Sub-Header Start-->
         <div class="nodeheader">
           <b id="name602" name="DataEntry">
@@ -759,42 +765,42 @@
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/emp_wise_entry_con/emp_wise_data_entry_manaement" title="Production Data Entry Management" target="right" id="dp6024" onClick="MakeColoredBack('6024');">Production Log Management</a>
           </div>
-          
+
 		<div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/manual_attendance_con/manual_attendance_data_entry" title="Manual Attendance" target="right" id="dp6023" onClick="MakeColoredBack('6023');">Manual Attendance For Production</a>
           </div>
-          
-          
+
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/manual_attendance_con/manual_attendance_data_entry_for_pd_com" title="Manual Attendance" target="right" id="dp6025" onClick="MakeColoredBack('6025');">Manual Attendance</a>
           </div>
-          
+
           </div>
-          
-          
+
+
           <div class="nodeheader">
           <b id="name603" name="Production Process">
           </b>
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image603" onClick="SetNode('603');">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage603" onDblClick="SetNode('603');">Process</div>
         <div class="nodedocuments" id="documents603" style="display: none; Margin-left: 16;">
-        
+
          <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/pd_process_con/pd_process_form" title="Buyer Information" target="right" id="dp6031" onClick="MakeColoredBack('6031');">Production Process</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/production_process_con/production_salary_process_form" title="Salary Production Process" target="right" id="dp5070" onClick="MakeColoredBack('5070');">Salary Production Process</a>
           </div>
-		 
+
          </div>
          <div class="nodeheader">
           <b id="name604" name="Pd_Report">
@@ -802,7 +808,7 @@
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image604" onClick="SetNode('604');" border="0">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage604" onDblClick="SetNode('604');">Report
           </div>
-		  
+
           <div class="nodedocuments" id="documents604" style="display: none; Margin-left: 16;">
           <!--Menu Start-->
 		  <div class="document">
@@ -810,21 +816,21 @@
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/pd_report_con/pd_report" title="Report" target="right" id="dp6041" onClick="MakeColoredBack('6041');">Detail Style Report</a>
           </div>
-          
+
           <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/pd_report_con/production_report" title="Production Report" target="right" id="dp6042" onClick="MakeColoredBack('6042');">Production Report</a>
           </div>
-          
+
 		</div>
-         
-        
-        
+
+
+
          </div>
-		
+
 	<!--=============================================Production============================================-->
-	
+
 	 <!--=============================================Maintenance============================================-->
 	  <div class="nodeheader">
         <b id="name11000" name="Maintenance">
@@ -837,49 +843,49 @@
           </b>
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image11001" onClick="SetNode('11001');" border="0">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage11001" onDblClick="SetNode('11001');">Database</div>
-		  
+
 		  <div class="nodedocuments" id="documents11001" style="display: none; Margin-left: 16;">
-          
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/maintainance_con/database_backup_form" title="Database Back" target="right" id="dp5074" onClick="MakeColoredBack('5074');">Backup</a></div>
-		
+
 		</div>
-		
+
 		<div class="nodeheader">
           <b id="name14001" name="User">
           </b>
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/plus.gif" onMouseOver="this.border='1';" onMouseOut="this.border='0';" id="image14001" onClick="SetNode('14001');" border="0">
           <img src="<?php echo base_url();?>/images/tree_image/utree_data/closed.gif" id="nodeimage14001" onDblClick="SetNode('14001');">User</div>
 		  <div class="nodedocuments" id="documents14001" style="display: none; Margin-left: 16;">
-          
+
 		  <div class="document">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/blank.gif">
             <img src="<?php echo base_url();?>/images/tree_image/utree_data/bullet.gif">
             <a class="header" href="<?php echo base_url();?>index.php/acl_con/acl" title="Access Control List" target="right" id="dp5075" onClick="MakeColoredBack('5075');">ACL</a>
           </div>
 		</div>
-		
+
 	<!--=============================================Maintenance============================================-->
-	
+
 	</div>
-	
-	
-		
+
+
+
 	<!--=============================================Maintenance============================================-->
-	
-    
-    
+
+
+
 	</div>
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
     </nobr>
-  
+
 
 
 

@@ -4,7 +4,7 @@ class Setup_con extends CI_Controller {
 	function __construct()
 	{
 		parent::__construct();
-		
+
 		/* Standard Libraries */
 		$this->load->library('grocery_CRUD');
 		$this->load->model('acl_model');
@@ -16,8 +16,87 @@ class Setup_con extends CI_Controller {
 	//-------------------------------------------------------------------------------------------------------
 	function crud_output($output = null)
 	{
-		$this->load->view('output.php',$output);	
+		$this->load->view('output.php',$output);
 	}
+
+	function delete_emp_id() {
+		$id = $_POST['id'];
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pd_manual_attandence');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pd_pay_scale_sheet');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pd_pay_scale_sheet_com');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pd_production_logs');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pd_production_summary_logs');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_advance_loan');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_advance_loan_pay_history');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_add');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_edu');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_skill');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_com_info');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_per_info');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_left_history');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_emp_resign_history');
+
+		$this->db->where('emp_id', $id);
+		$this->db->delete('pr_id_proxi');
+		echo 'Successfully record permanently deleted';
+		exit;
+	}
+
+
+	function emp_list()
+	{
+		$this->db->select('
+				pr_emp_per_info.*,
+				pr_dept.dept_name,
+				pr_section.sec_name,
+				pr_line_num.line_name,
+				pr_designation.desig_name,
+			');
+		$this->db->from('pr_emp_com_info');
+		$this->db->from('pr_emp_per_info');
+		$this->db->from('pr_dept');
+		$this->db->from('pr_section');
+		$this->db->from('pr_line_num');
+		$this->db->from('pr_designation');
+		$this->db->where('pr_emp_per_info.emp_id = pr_emp_com_info.emp_id');
+		$this->db->where('pr_dept.dept_id = pr_emp_com_info.emp_dept_id');
+		$this->db->where('pr_section.sec_id = pr_emp_com_info.emp_sec_id');
+		$this->db->where('pr_line_num.line_id = pr_emp_com_info.emp_line_id');
+		$this->db->where('pr_designation.desig_id = pr_emp_com_info.emp_desi_id');
+
+		$this->db->order_by("pr_emp_com_info.emp_id");
+		$query = $this->db->get()->result();
+		$this->load->view('home_emp_list', array('data' => $query));
+	}
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Department
 	//-------------------------------------------------------------------------------------------------------
@@ -32,7 +111,7 @@ class Setup_con extends CI_Controller {
 		$crud->unset_delete();
 		$crud->set_rules('dept_name','Department Name','trim|required|callback_dept_name_check');
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	function dept_name_check($str)
@@ -65,11 +144,11 @@ class Setup_con extends CI_Controller {
 		$crud->set_subject('Section');
 		$crud->display_as( 'sec_name' , 'Section Name English' )->display_as( 'sec_bangla' , 'Section Name Bangla' );
 		$crud->required_fields( 'sec_name' );
-		
+
 		$crud->unset_delete();
 		$crud->set_rules('sec_name','Section Name English','trim|required|callback_sec_name_check');
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	function sec_name_check($str)
@@ -90,7 +169,7 @@ class Setup_con extends CI_Controller {
 		{
 			return TRUE;
 		}
-	}	
+	}
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Line
 	//-------------------------------------------------------------------------------------------------------
@@ -105,7 +184,7 @@ class Setup_con extends CI_Controller {
 		$crud->unset_delete();
 		$crud->set_rules('line_name','Line Name','trim|required|callback_line_name_check');
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	function line_name_check($str)
@@ -141,7 +220,7 @@ class Setup_con extends CI_Controller {
 		$crud->unset_delete();
 		$crud->set_rules('desig_name','Designation Name English','trim|required|callback_desig_name_check');
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	function desig_name_check($str)
@@ -175,9 +254,9 @@ class Setup_con extends CI_Controller {
 		$crud->display_as( 'posi_name' , 'Position Name' );
 		$crud->required_fields( 'posi_name');
 		$crud->unset_delete();
-		
+
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	//-------------------------------------------------------------------------------------------------------
@@ -192,11 +271,11 @@ class Setup_con extends CI_Controller {
 		$crud->display_as( 'ope_name' , 'Operation Name' );
 		$crud->required_fields( 'ope_name');
 		$crud->unset_delete();
-		
+
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
-	}	
+	}
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Attendance Bonus
 	//-------------------------------------------------------------------------------------------------------
@@ -211,7 +290,7 @@ class Setup_con extends CI_Controller {
 		$crud->unset_delete();
 		$crud->set_rules('ab_rule_name','Rule Name','trim|required|callback_ab_rule_name_check');
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	function ab_rule_name_check($str)
@@ -232,7 +311,7 @@ class Setup_con extends CI_Controller {
 		{
 			return TRUE;
 		}
-	}	
+	}
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Salary Grade
 	//-------------------------------------------------------------------------------------------------------
@@ -247,9 +326,9 @@ class Setup_con extends CI_Controller {
 		$crud->fields( 'gr_name' );
 		$crud->required_fields( 'gr_name');
 		$crud->unset_delete();
-		
+
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	//-------------------------------------------------------------------------------------------------------
@@ -272,14 +351,14 @@ class Setup_con extends CI_Controller {
 			 ->display_as('ot_minute_to_one_hour','OT Minute')
 			 ->display_as('one_hour_ot_out_time','One Hour OT Time')
 			 ->display_as('two_hour_ot_out_time','Two Hour OT Time');
-		
+
 		$crud->required_fields( 'sh_type', 'in_start', 'in_time', 'late_start', 'in_end', 'out_start', 'out_end', 'ot_start', 'ot_minute_to_one_hour', 'one_hour_ot_out_time', 'two_hour_ot_out_time');
 		$crud->unset_delete();
-		
+
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
-	}	
+	}
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Shift Management
 	//-------------------------------------------------------------------------------------------------------
@@ -291,12 +370,12 @@ class Setup_con extends CI_Controller {
 		$crud->set_subject('Shift Management');
 		$crud->set_relation('shift_duty','pr_emp_shift_schedule','sh_type');
 		$crud->display_as( 'shift_name' , 'Shift Name' )->display_as( 'shift_duty' , 'Shift Type' );
-		
+
 		$crud->required_fields( 'shift_name','shift_duty');
 		$crud->unset_delete();
-		
+
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
 	//-------------------------------------------------------------------------------------------------------
@@ -311,15 +390,15 @@ class Setup_con extends CI_Controller {
 		$crud->display_as( 'lv_al' , 'Casual Leave' )->display_as( 'lv_sl' , 'Sick Leave' )->display_as( 'lv_pl' , 'Paternity Leave' )->display_as( 'lv_ml' , 'Maternity Leave' );
 		$crud->unset_fields('lv_cl','lv_id','lv_wp');
 		$crud->unset_columns('lv_cl','lv_id','lv_wp');
-		
+
 		$crud->unset_delete();
 		$crud->unset_add();
-		
+
 		$output = $crud->render();
-		
+
 		$this->crud_output($output);
 	}
-	
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Deduction Setup
 	//-------------------------------------------------------------------------------------------------------
@@ -335,7 +414,7 @@ class Setup_con extends CI_Controller {
 		$output = $crud->render();
 		$this->crud_output($output);
 	}
-	
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Allowance Setup
 	//-------------------------------------------------------------------------------------------------------
@@ -374,7 +453,7 @@ class Setup_con extends CI_Controller {
 		$output = $crud->render();
 		$this->crud_output($output);
 	}
-	
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Providend Fund Setup
 	//-------------------------------------------------------------------------------------------------------
@@ -392,7 +471,7 @@ class Setup_con extends CI_Controller {
 		$output = $crud->render();
 		$this->crud_output($output);
 	}
-	
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Providend Fund Setup
 	//-------------------------------------------------------------------------------------------------------
@@ -405,7 +484,7 @@ class Setup_con extends CI_Controller {
 		$crud->required_fields( 'company_name_english','company_name_bangla','company_add_english','company_add_bangla','company_phone','company_logo');
 		$crud->set_field_upload('company_logo','images/');
 		$crud->set_field_upload('company_signature','images/');
-		
+
 		$crud->unset_delete();
 		$crud->unset_add();
 		$output = $crud->render();
@@ -443,7 +522,7 @@ class Setup_con extends CI_Controller {
 		{
 			return TRUE;
 		}
-	}	
+	}
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Production Bonus Rules Setup
 	//-------------------------------------------------------------------------------------------------------
@@ -456,7 +535,7 @@ class Setup_con extends CI_Controller {
 		$output = $this->grocery_crud->render();
 		$this->crud_output($output);
 	}
-	
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Holiday Allowance Setup
 	//-------------------------------------------------------------------------------------------------------
@@ -471,7 +550,7 @@ class Setup_con extends CI_Controller {
 		$output = $this->grocery_crud->render();
 		$this->crud_output($output);
 	}
-	
+
 	//-------------------------------------------------------------------------------------------------------
 	// CRUD for Holiday Allowance Setup
 	//-------------------------------------------------------------------------------------------------------
